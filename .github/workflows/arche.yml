@@ -1,0 +1,74 @@
+name: ARCHE-Ingest
+
+on:
+  workflow_dispatch
+
+jobs:
+  build_pages:
+    name: Ingest Data into ARCHE
+    runs-on: ubuntu-latest
+    env:
+      ANT_OPTS: -Xmx5g
+      REDMINE_ID: 21195
+      # HANDLE_PASSWORD: ${{secrets.HANDLE_PASSWORD}}
+      # HANDLE_USERNAME: ${{secrets.HANDLE_USERNAME}}
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v3
+    - name: Install Saxon and Ant
+      run: |
+        apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
+        ./dl_saxon.sh
+        pip install -r requirements.txt
+    - name: Fetch Data
+      run: |
+        ./fetch_data.sh
+    - name: Process the data
+      run: add-attributes -g "./data/editions/*.xml" -b "https://id.acdh.oeaw.ac.at.at/ckp"
+    - name: Build
+      run: |
+        ant -f build_arche.xml
+        mkdir $PWD/to_ingest
+        find -path "./data/editions/*.xml" -exec cp -prv '{}' './to_ingest' ';'
+    - name: ingestion dependencies
+      run: |
+        composer require "acdh-oeaw/arche-ingest:^1"
+    - name: Fetch WF-URL
+      run: echo "RUN_URL=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" >> $GITHUB_ENV
+    - name: install repo-file-checker
+      run: |
+        composer require "acdh-oeaw/repo-file-checker:^2"
+        mkdir -p filechecker/tmp filechecker/reports
+    - name: cache AV database
+      id: avdb
+      uses: actions/cache@v3
+      with:
+        path: ~/.cvdupdate
+        key: constant
+    - name: refresh AV database
+      run: |
+        python3 -m pip install --user cvdupdate && cvd update
+    - name: run repo-file-checker
+      run: |
+        echo 'STEP=Run repo-file-checker' >> $GITHUB_ENV
+        docker run --rm -v `pwd`/to_ingest:/data -v `pwd`/filechecker/reports:/reports -v ~/.cvdupdate/database/:/var/lib/clamav acdhch/arche-filechecker 0
+        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Virus scan' --done 100 --status "Resolved"
+        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Run repo-file-checker' --done "100" --status "Resolved"
+    - name: ingest metadata
+      run: |
+        echo 'STEP=Upload AIP to Curation Instance (Minerva)' >> $GITHUB_ENV
+        vendor/bin/arche-import-metadata arche.rdf https://arche-dev.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}} --retriesOnConflict 25
+        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to Curation Instance (Minerva)' --message "ingested Metadata" --done "50" --status "In Progress"
+    - name: on failure
+      if: ${{ failure() }}
+      run: |
+        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" --statusCode 1 $REDMINE_ID "$STEP"
+    - name: ingest binaries
+      run: |
+        echo 'STEP=Upload AIP to Curation Instance (Minerva)' >> $GITHUB_ENV
+        vendor/bin/arche-import-binary to_ingest https://id.acdh.oeaw.ac.at/ckp https://arche-dev.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}} --skip not_exist
+        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to Curation Instance (Minerva)' --message "ingested Binaries" --done 100 --status "Resolved"
+    - name: on failure
+      if: ${{ failure() }}
+      run: |
+        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" --statusCode 1 $REDMINE_ID "$STEP"
