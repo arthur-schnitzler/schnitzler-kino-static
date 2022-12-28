@@ -34,6 +34,9 @@
                                     <a title="Links"
                                         href="https://github.com/arthur-schnitzler/pollaczek-data"
                                         class="nav-link">Daten auf gitHub</a>
+                                    <a title="GND-Beacon"
+                                        href="beacon.txt"
+                                        class="nav-link">GND-Beacon</a>
                                 </div>
                             </li>
                             <li class="nav-item">
@@ -42,10 +45,10 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="toc.html">Inhaltsverzeichnis</a>
                             </li>
-                            <!--<li class="nav-item">
-                                <a class="nav-link isDisabled" href="#">Personen</a>
-                            </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="listperson.html">Personen</a>
+                            </li>
+                            <!--<li class="nav-item">
                                 <a class="nav-link isDisabled" href="#">Werke</a>
                             </li> 
                             <li class="nav-item">

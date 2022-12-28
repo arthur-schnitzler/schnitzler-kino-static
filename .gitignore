@@ -153,3 +153,4 @@ local_ingest.sh
 arche.rdf
 vendor/
 composer.*
+html/beacon.txt

@@ -33,8 +33,11 @@
                                 <table class="table table-striped display" id="tocTable" style="width:100%">
                                     <thead>
                                         <tr>
-                                            <th scope="col">Nachname</th>
-                                            <th scope="col">Vorname</th>
+                                            <th scope="col">Name</th>
+                                            <th scope="col">GND</th>
+                                            <th scope="col">Beruf(e)</th>
+                                            <th scope="col">geboren</th>
+                                            <th scope="col">gestorben</th>
                                             <th scope="col">ID</th>
                                         </tr>
                                     </thead>
@@ -45,10 +48,28 @@
                                             </xsl:variable>
                                             <tr>
                                                 <td>
-                                                    <xsl:value-of select=".//tei:surname/text()"/>
+                                                    <a>
+                                                        <xsl:attribute name="href">
+                                                            <xsl:value-of select="concat($id, '.html')"/>
+                                                        </xsl:attribute>
+                                                        <xsl:value-of select=".//tei:persName/text()"/>
+                                                    </a>
                                                 </td>
                                                 <td>                                        
-                                                    <xsl:value-of select=".//tei:forename/text()"/>
+                                                    <a>
+                                                        <xsl:attribute name="href">
+                                                            <xsl:value-of select=".//tei:idno[@type='GND']/text()"/>
+                                                        </xsl:attribute><xsl:value-of select=".//tei:idno[@type='GND']/text()"/>
+                                                    </a>
+                                                </td>
+                                                <td>
+                                                    <xsl:value-of select="./tei:occupation/text()"/>
+                                                </td>
+                                                <td>
+                                                    <xsl:value-of select="./tei:birth/@when"/>
+                                                </td>
+                                                <td>
+                                                    <xsl:value-of select="./tei:death/@when"/>
                                                 </td>
                                                 <td>
                                                     <a>
@@ -56,7 +77,7 @@
                                                             <xsl:value-of select="concat($id, '.html')"/>
                                                         </xsl:attribute>
                                                         <xsl:value-of select="$id"/>
-                                                    </a> 
+                                                    </a>
                                                 </td>
                                             </tr>
                                         </xsl:for-each>
