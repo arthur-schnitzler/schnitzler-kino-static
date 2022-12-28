@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">117</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>3/9 Marienbad. […] Mit C. P. Kino „Frau Ilse’s Scheidung“. Teplerhaus genachtm. </ab></div>
          <div type="ckp"><ab>3.9. Heute Vormittag erklärte A., er wolle allein spazieren gehen. Ich war sehr einverstanden. Ich lief in die Stadt hinunter, war sehr vergnügt und hatte das Gefühl gut auszusehen. Ich wollte verschiedenes besorgen,– ging in eine Bank Schillinge wechseln, erblickte zufällig den ehemaligen Rittmeister Kerst (mein Kriegsflirt), den ich 15 Jahre nicht gesehen. Ich habe gewusst, dass er verheiratet ist und in M. lebt, aber wusste nicht wo. […] Nachdem ich mich durch eine Frage am Schalter vergewissert habe, dass er es wirklich ist, klopfte ich an der offenstehenden Türe an. Er erkannte mich sofort, schien sehr erfreut, fand mich unglaublich unverändert, kurzum mein Selbstbewusstsein wurde etwas gehoben. […] So schön und elegant wie einst ist der Herr Rittmeister nicht mehr. Immerhin war es nett ihn gesprochen zu haben. Ich erzählte es A., als ich heimkam. A. fand mich glänzend aussehend, wurde zärtlich, fast stürmisch. Ich bin zurückhaltend. Ich sagte, ich mag keine Sinnlichkeit, wenn nicht auch die Seele dabei ist. Er antwortete: „Ich habe dich immer gleich lieb. Nie ändert sich etwas in meinen Gefühlen zu dir, nur die Fähigkeit sich zu äussern ist verschieden[“] und hänge mit seinem jeweiligen Befinden, seiner Stimmung zusammen. Es ist als ob Nebel sich teilen würde. Er bewundert wieder alles an mir. Ich frage lachend, fast übermütig: „Warst du mir immer treu?“ Er: „Ich schwöre dir, mir ist noch nie der Wunsch gekommen dich zu betrügen.“ Stundenlang wirbt er um mich. Ich werde nicht mehr widerstehen können[.] […]
@@ -92,6 +93,49 @@ Abends. Nach einer wundervollen Liebesstunde noch in meinen Armen sagt er: „Ir
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-683">
+               <persName>Dissel, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/11728582X</idno>
+            </person>
+            <person xml:id="ask-person-1070">
+               <persName>Gosewisch, Helen</persName>
+            </person>
+            <person xml:id="ask-person-1249">
+               <persName>Helm, Brigitte</persName>
+               <idno type="GND">https://d-nb.info/gnd/116690585</idno>
+            </person>
+            <person xml:id="ask-person-1484">
+               <persName>Kerst, Rittmeister</persName>
+               <idno type="GND">https://d-nb.info/gnd/173625738</idno>
+            </person>
+            <person xml:id="ask-person-1608">
+               <persName>Lantz, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1275649637</idno>
+            </person>
+            <person xml:id="ask-person-1655">
+               <persName>Leska, Peter</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062195612</idno>
+            </person>
+            <person xml:id="ask-person-2072">
+               <persName>Odemar, Fritz</persName>
+            </person>
+            <person xml:id="ask-person-2106">
+               <persName>Pabst, Georg Wilhelm </persName>
+               <idno type="GND">https://d-nb.info/gnd/118942387</idno>
+            </person>
+            <person xml:id="ask-person-2771">
+               <persName>Trevor, Jack</persName>
+               <idno type="GND">https://d-nb.info/gnd/1014099668</idno>
+            </person>
+            <person xml:id="ask-person-2803">
+               <persName>Vajda, Ladislaus</persName>
+               <idno type="GND">https://d-nb.info/gnd/129296805</idno>
+            </person>
+            <person xml:id="ask-person-2870">
+               <persName>Walter, Hertha von</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Marienbad</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">104</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>16/10 […] Abd. mit C. P. (Maria Theresien Kino) Der Blitzer;– dann mit C. P. „Weingartl“ soup.–</ab></div>
          <div type="ckp"><ab><hi>I6ten.</hi> Mit A. V. M. spazieren gegangen. Nur kurze Zeit. N. M. am Roman gearbeitet. Abend mit A. im Kino „Der Blitzer“ sehr fader Film. Dann „Weingartel“ genachtmahlt. A sprach schon Vor-Mittag viel über den gestrigen Opern-Abend aber ich reagierte nicht. Zwischen den zahllosen Briefen auf den Semmaring[!] und diesen angeblich so seltenen Zusammenkünften, liegt zu viel Unaufrichtigges[!] und Ungeklärtes. (Nach seinen Mitteilungen hätte er sie in diesen 4 Wochen 2mal gesehen – Ich <hi>weiss</hi> es ist nicht wahr, aber ich schweige. – Die Oper soll sehr schön gewesen sein der Bub sehr begeistert, und er hat mit dem <hi>Gatten</hi> über die finanzielle Lage gesprochen. Nachher hat er allein im „Meissl“ genachtmahlt. [III, 251]</ab></div>
@@ -90,6 +91,47 @@ Ankündigung NFP 6.10.1931, S. 12, für Opern- und Imperial-Kino. Anzeige und Pr
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-261">
+               <persName>Berry, Mady</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062103084</idno>
+            </person>
+            <person xml:id="ask-person-520">
+               <persName>Clauser, Suzanne</persName>
+               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
+            </person>
+            <person xml:id="ask-person-543">
+               <persName>Colombier, Pierre</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061989526</idno>
+            </person>
+            <person xml:id="ask-person-986">
+               <persName>Garat, Jean</persName>
+            </person>
+            <person xml:id="ask-person-1481">
+               <persName>Kerny, Henri</persName>
+               <idno type="GND">https://d-nb.info/gnd/106235219X</idno>
+            </person>
+            <person xml:id="ask-person-1926">
+               <persName>Milton, Georges</persName>
+               <idno type="GND">https://d-nb.info/gnd/137811314</idno>
+            </person>
+            <person xml:id="ask-person-2016">
+               <persName>Nay, Pierre</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062246411</idno>
+            </person>
+            <person xml:id="ask-person-2149">
+               <persName>Perdrière, Hélène</persName>
+               <idno type="GND">https://d-nb.info/gnd/173293425</idno>
+            </person>
+            <person xml:id="ask-person-2247">
+               <persName>Pujol, René</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062158474</idno>
+            </person>
+            <person xml:id="ask-person-2348">
+               <persName>Robert, Hélène</persName>
+               <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

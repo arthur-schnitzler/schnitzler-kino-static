@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">31</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>23/2 […] Mit C. P. Kino „Sturm“ (Barrymore), Auge Gottes soup.–</ab></div>
          <div type="ckp"><ab>24.2. Gestern Abend noch im Kino mit A. Etwas gemütlicher, wenn auch ohne jede Zärtlichkeit. Heute Vormittag war ich beim Eisstoss auf der Reichsbrücke mit ihm, dann in der Hauptallee. Eisiger Wind. Wann wird dieser Winter ein Ende nehmen? Am Abend soll ich zu ihm. Ich fürchte mich. Eine Aussprache wird sich nicht umgehen lassen und wenn, dann ist es eine Verlogenheit. [II, 196]</ab></div>
@@ -89,6 +90,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-163">
+               <persName>Barrymore, John</persName>
+               <idno type="GND">https://d-nb.info/gnd/119340933</idno>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-854">
+               <persName>Fast, Boris de</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062428110</idno>
+            </person>
+            <person xml:id="ask-person-856">
+               <persName>Fawcett, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/1239089732</idno>
+            </person>
+            <person xml:id="ask-person-1330">
+               <persName>Horn, Camilla</persName>
+            </person>
+            <person xml:id="ask-person-2713">
+               <persName>Taylor, Sam</persName>
+               <idno type="GND">https://d-nb.info/gnd/140979778</idno>
+            </person>
+            <person xml:id="ask-person-2975">
+               <persName>Wolheim, Louis</persName>
+               <idno type="GND">https://d-nb.info/gnd/129297542</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

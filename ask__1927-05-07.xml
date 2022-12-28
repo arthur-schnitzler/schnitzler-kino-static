@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">339</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>7/5 […] Mit C. P. Kino „Der Wüstling“. Im silb. Brunnen mit ihr genachtm.– </ab></div>
          <div type="anmerkung"><ab>Anzeige NFP 6.5.1927, S. 20, dort nachgewiesene Spielorte (bis 9.5.): Gartenbau-, Imperial-, Opern-, Busch-, Haydn-, Palast-, Kolosseum- und Theater-Kino. Besprechung von nd in NFP 13.5.1927, S. 21: »Verhältnismäßig am heitersten sind die Szenen, da Reginald Jones (Reginald Denny) unfreiwillig die Rolle eines Pfarrers spielt und als solcher in die Lage kommt, seine eigene Verlobte mit dem Nebenbuhler trauen zu sollen […]. Die deutschen Zwischentitel sind schwerfällig, ungrammatikalisch (›Sie braucht den Trost eines Mannes wie mir (!)‹) und bedien[en] sich, namens des Dienstmädchens, eines frei erfundenden Dialekts.«</ab></div>
@@ -88,6 +89,34 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-117">
+               <persName>Austin, William</persName>
+            </person>
+            <person xml:id="ask-person-663">
+               <persName>Denny, Reginald</persName>
+               <idno type="GND">https://d-nb.info/gnd/1023970252</idno>
+            </person>
+            <person xml:id="ask-person-1203">
+               <persName>Harlan, Otis</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062430638</idno>
+            </person>
+            <person xml:id="ask-person-1253">
+               <persName>Hendricks, Ben</persName>
+               <idno type="GND">https://d-nb.info/gnd/1021970360</idno>
+            </person>
+            <person xml:id="ask-person-2050">
+               <persName>Nixon, Marian</persName>
+            </person>
+            <person xml:id="ask-person-2181">
+               <persName>Pitts, Zazu</persName>
+               <idno type="GND">https://d-nb.info/gnd/141535598</idno>
+            </person>
+            <person xml:id="ask-person-2656">
+               <persName>Storm, William A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/142191612</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

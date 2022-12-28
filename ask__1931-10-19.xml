@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">105</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>19/10 […] Mit C. P. (Schubert) Kino, Café Paradiso. Allein zu Haus genachtm.– […]</ab></div>
          <div type="ckp"><ab>I9ten Okt. – Gestern Abend, sehr dürftiges Stück in hübscher Aufmachung A. schlief zumeist. Sein Aussehen furchtbar. Mein Herz setzte oft aus vor Angst. Nachher im „Vindobona“ genachtmahlt. A. wurde nachdem er gegessen hatte viel frischer. Er betrachtete mit lächelndem Mistrauen einen blauen Fleck auf meinem nackten Arm. Ich leide seit August an einer Angio Neurose wie Dr Bl. diese kleinen blauen Beulen nennt und Folgen der Aufregung sind – aber ich liess ihm sein Mistrauen und lächelte eben so listig zurück. Vielleicht besser so. Er sah immer wieder hin – – Fand mich übrigens gut und hübsch aussehend und sagte es mir.
@@ -93,6 +94,67 @@ Deutsche Version von »Les amants de minuit« von Marc Allégret und Augusto Gen
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-45">
+               <persName>Allégret, Marc</persName>
+               <idno type="GND">https://d-nb.info/gnd/126419531</idno>
+            </person>
+            <person xml:id="ask-person-176">
+               <persName>Batcheff, Pierre</persName>
+               <idno type="GND">https://d-nb.info/gnd/137697716</idno>
+            </person>
+            <person xml:id="ask-person-198">
+               <persName>Behr, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1095130935</idno>
+            </person>
+            <person xml:id="ask-person-298">
+               <persName>Bloch, Dr.</persName>
+            </person>
+            <person xml:id="ask-person-520">
+               <persName>Clauser, Suzanne</persName>
+               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
+            </person>
+            <person xml:id="ask-person-959">
+               <persName>Froelich, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/11683093X</idno>
+            </person>
+            <person xml:id="ask-person-976">
+               <persName>Gael, Josseline</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062056701</idno>
+            </person>
+            <person xml:id="ask-person-1008">
+               <persName>Genina, Augusto</persName>
+               <idno type="GND">https://d-nb.info/gnd/119039184</idno>
+            </person>
+            <person xml:id="ask-person-1714">
+               <persName>Loretto, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062470338</idno>
+            </person>
+            <person xml:id="ask-person-2126">
+               <persName>Parola, Daniela</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061455661</idno>
+            </person>
+            <person xml:id="ask-person-2422">
+               <persName>Salten, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/118840819</idno>
+            </person>
+            <person xml:id="ask-person-2454">
+               <persName>Schlettow, Hans Adalbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/117326747</idno>
+            </person>
+            <person xml:id="ask-person-2468">
+               <persName>Schnitzler, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/118609807</idno>
+            </person>
+            <person xml:id="ask-person-2472">
+               <persName>Schnitzler, Olga, geb. Gussmann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
+            </person>
+            <person xml:id="ask-person-4096">
+               <persName>Pollaczek, Clara Katharina</persName>
+               <idno type="GND">https://d-nb.info/gnd/13950916X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

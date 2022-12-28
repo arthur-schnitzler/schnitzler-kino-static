@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">343</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>1/6 […] – C. P. bei mir, mit ihr ins Kino (Zorro, mit Fairbanks) – dann auf der Terrasse des Kursalons (zum ersten Mal in meinem Leben) genachtm.</ab></div>
          <div type="anmerkung"><ab>Illustrierte Anzeige zur Uraufführung NFP 6.10.1925, S. 16. Besprechung (Pressevorführung) von ss in ebd., S. 12. Anzeige NFP 27.5.1927, S. 10. Nachgewiesene Spielorte vom 31.5.–2.6.: Schottenring-, Flieger- und Kolosseum-Kino sowie Lichtspiele Wienzeile.</ab></div>
@@ -88,6 +89,27 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-195">
+               <persName>Beery, Noah</persName>
+               <idno type="GND">https://d-nb.info/gnd/106168153X</idno>
+            </person>
+            <person xml:id="ask-person-836">
+               <persName>Fairbanks, Douglas</persName>
+               <idno type="GND">https://d-nb.info/gnd/118682997</idno>
+            </person>
+            <person xml:id="ask-person-1779">
+               <persName>Mailes, Charles Hill</persName>
+            </person>
+            <person xml:id="ask-person-1921">
+               <persName>Miller, Eugene</persName>
+               <idno type="GND">https://d-nb.info/gnd/1186925612</idno>
+            </person>
+            <person xml:id="ask-person-2036">
+               <persName>Niblo, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/140082085</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

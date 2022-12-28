@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">16</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>17/6 Ischl. – Regen. […] Mit C. P. Kino.</ab></div>
          <div type="ckp"><ab>17.6. Aus dem Ausseer Ausflug ist nichts geworden, denn es regnet, regnet. A. kam zeitlich in der Früh zu mir herein, setzte sich auf mein Bett. Wir gingen erst gegen Mittag fort (Kaisergarten). A. den ganzen Tag sehr lieb und zärtlich. Nach Tisch wieder bei Zauner, eine Frau Flegmann gesprochen. (Alte, kluge Jüdin, einst mit Brahms befreundet). Gegen Abend im Kino „Liebe einer Nonne“. Unbeträchtlicher, aber nicht allzu langweiliger Film. Nach dem Nachtmahl in der Halle gelesen (Rahel Sanzara, „Das verlorene Kind“). Sehr begabt, aber scheusslich. Sehr beglückendes Zusammensein und Einvernehmen zwischen A. und mir. [II, 126f.]</ab></div>
@@ -91,6 +92,58 @@ Besprechung von Lilly Klaudy in NFP 23.10.1927, S. 17. Spielort in Ischl nicht n
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-86">
+               <persName>Arndt, Erich</persName>
+            </person>
+            <person xml:id="ask-person-231">
+               <persName>Bergen, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/116130091</idno>
+            </person>
+            <person xml:id="ask-person-899">
+               <persName>Flegmann, Berta</persName>
+               <idno type="GND">https://d-nb.info/gnd/1017096228</idno>
+            </person>
+            <person xml:id="ask-person-1312">
+               <persName>Hollay, Camilla von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061701883</idno>
+            </person>
+            <person xml:id="ask-person-1364">
+               <persName>Iros, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/11720420X</idno>
+            </person>
+            <person xml:id="ask-person-1401">
+               <persName>John, Georg</persName>
+               <idno type="GND">https://d-nb.info/gnd/1194256775</idno>
+            </person>
+            <person xml:id="ask-person-1504">
+               <persName>Klaudy, Lilly</persName>
+            </person>
+            <person xml:id="ask-person-1569">
+               <persName>Kürti, Ellen</persName>
+               <idno type="GND">https://d-nb.info/gnd/106177368X</idno>
+            </person>
+            <person xml:id="ask-person-2053">
+               <persName>Nolan, Mary</persName>
+               <idno type="GND">https://d-nb.info/gnd/1148700323</idno>
+            </person>
+            <person xml:id="ask-person-2182">
+               <persName>Pittschau, Werner</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062207742</idno>
+            </person>
+            <person xml:id="ask-person-2353">
+               <persName>Robertson, Imogen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1209240513</idno>
+            </person>
+            <person xml:id="ask-person-2433">
+               <persName>Sanzara, Rahel</persName>
+               <idno type="GND">https://d-nb.info/gnd/118605526</idno>
+            </person>
+            <person xml:id="ask-person-2639">
+               <persName>Sterler, Hermine</persName>
+               <idno type="GND">https://d-nb.info/gnd/117273627</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Ischl</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">325</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>15/1 […] – Mit C. P. Kino Student von Prag (Conr. Veidt).– Dann silb. Brunnen.– […]</ab></div>
          <div type="anmerkung"><ab>Pollaczek und Schnitzler sehen die Neuverfilmung des Stoffes von Henrik Galeen (1926), die Verfilmung Stellan Ryes hatte er am 10. September 1913 in München gesehen. 1921 hatte Galeen (dessen bürgerlicher Name Heinrich Wiesenberg lautet) für Murnaus »Nosferatu« das Drehbuch geschrieben. »Haben die Autoren so versagt, daß man offen auf dieselben Motive zurückgreifen muß?« fragte Willy Haas (Film-Kurier, Nr. 251, 26.10.1926). Die Besprechung von Felix Cleve in NFP 21.2.1927, S. 17 bezieht sich auf jene Version, die i. J. 1913 schon Franz Kafka gesehen hatte: »Die neue Verfilmung wirkt merkwürdigerweise einigermaßen schwächer. Woran das liegen mag, ist schwer zu sagen. Denn zumal die Leistung Conrad Veidts in der Rolle, die einst Wegener spielte, ist meisterlich.«</ab></div>
@@ -88,6 +89,53 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-28">
+               <persName>Alberti, Fritz</persName>
+            </person>
+            <person xml:id="ask-person-53">
+               <persName>Alten, Ferdinand von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031504273</idno>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-822">
+               <persName>Esterházy, Agnes</persName>
+               <idno type="GND">https://d-nb.info/gnd/1274139910</idno>
+            </person>
+            <person xml:id="ask-person-830">
+               <persName>Ewers, Hanns Heinz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118685570</idno>
+            </person>
+            <person xml:id="ask-person-979">
+               <persName>Galeen, Henrik</persName>
+               <idno type="GND">https://d-nb.info/gnd/119151545</idno>
+            </person>
+            <person xml:id="ask-person-1154">
+               <persName>Haas, Willy</persName>
+            </person>
+            <person xml:id="ask-person-1554">
+               <persName>Krauß, Werner</persName>
+            </person>
+            <person xml:id="ask-person-1991">
+               <persName>Murnau, Friedrich Wilhelm</persName>
+               <idno type="GND">https://d-nb.info/gnd/118585878</idno>
+            </person>
+            <person xml:id="ask-person-2218">
+               <persName>Porta, Elizza la</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061730611</idno>
+            </person>
+            <person xml:id="ask-person-2276">
+               <persName>Rauscher, Ulrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/118749323</idno>
+            </person>
+            <person xml:id="ask-person-2818">
+               <persName>Veidt, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

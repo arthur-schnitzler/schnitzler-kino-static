@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">443</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>19/10 […] Mit C. P. Kino. Wunderbare Lüge der Nina Petrowna (Brigitte Helm). (Besonders gut.) – Mit C. P. im Hotel Imperial genachtm.– […]</ab></div>
          <div type="anmerkung"><ab>Ankündigung NFP 11.10.1929, S. 11, für weitere Kinos (nach der Uraufführung im Ufa-Tonkino) ab 18.10.1929. Anzeige und Notiz NFP 18.10.1929, S. 11, dort nachgewiesene Spielorte: Capitol-, Eos-, Atlantis-, Eisenbahnerheim-, Margaretner Bürger-, Flieger- und Gudrun-Kino sowie Kino Wienzeile, Weltbiograph, Raimund-Lichtspiele und Kino Weltspiegel.</ab></div>
@@ -88,6 +89,28 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-1197">
+               <persName>Hardt, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
+            </person>
+            <person xml:id="ask-person-1249">
+               <persName>Helm, Brigitte</persName>
+               <idno type="GND">https://d-nb.info/gnd/116690585</idno>
+            </person>
+            <person xml:id="ask-person-1620">
+               <persName>Lederer, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/130217492</idno>
+            </person>
+            <person xml:id="ask-person-2502">
+               <persName>Schwarz, Hanns</persName>
+               <idno type="GND">https://d-nb.info/gnd/138875057</idno>
+            </person>
+            <person xml:id="ask-person-2879">
+               <persName>Ward, Warwick</persName>
+               <idno type="GND">https://d-nb.info/gnd/106153457X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">340</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>14/5 […] Mit C. P. Kino „So ist Paris“ (Lubitsch), dann mit ihr Opernrestaurant – Dann Pathéphon. […]</ab></div>
          <div type="anmerkung"><ab>»Pathéphon«: Metrophon, Wien 1., Graben 20. Neben einem Phonographen-Modell ist Pathéphon auch der generische Ausdruck für Salons zum Anhören von Tonträgern – die Firma Pathé, die Platten und Abspielgeräte vertrieb, entwickelte in Paris das Modell: Der Kunde, der in einem bequemen Sessel sitzen konnte, warf zuvor erworbene Jetons ein und konnte sich dann über ein Rohrsystem mit einem Operateur verbinden und Musikstücke vorspielen lassen. Später (für Kopenhagen ist die Umstellung auf 1913 beschrieben) wurde die Technik ausgetauscht und der Name Pathéphon verschwand nach und nach. Schnitzler greift also auf einen bereits veralteten Begriff zurück, der aber auch vom Betreiber des „Metrophon“ verwendet wurde: Als solches firmierte in Wien prominent am Graben 20 ein derartiger „Konzertsalon und Musikhaus“ (so der Eintrag im „Lehmann“ 1929). Metrophon verwendete auf den Jetons die Bezeichnung „Pathefon Konzert Salon Wien I. Graben 20“, so daß „Pathéphon“ und „Metrophon“ (so Schnitzler später alternativ) den selben Ort bezeichnen. Zur Geschichte des Pathéphons vgl. Gert J. Almind, Coin-Op Telephone Line Music (http://www.juke-box.dk/gert-telephone-music.htm, Abfrage vom 13.1.2010).
@@ -89,6 +90,32 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-225">
+               <persName>Béranger, André</persName>
+               <idno type="GND">https://d-nb.info/gnd/1047634589</idno>
+            </person>
+            <person xml:id="ask-person-302">
+               <persName>Blue, Monte</persName>
+               <idno type="GND">https://d-nb.info/gnd/1026977673</idno>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-1733">
+               <persName>Lubitsch, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
+            </person>
+            <person xml:id="ask-person-1922">
+               <persName>Miller, Patsy Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/1017766495</idno>
+            </person>
+            <person xml:id="ask-person-2710">
+               <persName>Tashman, Lilyan</persName>
+               <idno type="GND">https://d-nb.info/gnd/128704969</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

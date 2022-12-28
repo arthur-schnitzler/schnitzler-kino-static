@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">497</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>21/5 […] Mit C. P. Abds. Kino (Erzh. Otto und Wäschermädl) (Lilian Ellis).– Mit C. P. bei Meissl genachtm.– </ab></div>
          <div type="ckp"><ab>23.5. Kino, Theater, Autofahrten ohne jede Freude oder Zärtlichkeit. Oft glaube ich es steckt noch etwas anderes hinter seinem Wesen. – Versuch einer Auseinandersetzung und zum Schluss wieder Verkrampfung. Ich arbeite und meine Arbeit gedeiht, das ist der einzige Weg, den ich sehe. Am 27. heiratet Harry. [III, 43]</ab></div>
@@ -90,6 +91,37 @@ Nachgewiesener Spielort: Schottenring-Kino (NFP, 21.5.1930, S. 9)..</ab></div>
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-790">
+               <persName>Ellis, Lilian</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061396495</idno>
+            </person>
+            <person xml:id="ask-person-820">
+               <persName>Erzherzog Otto</persName>
+            </person>
+            <person xml:id="ask-person-952">
+               <persName>Friedmanova, Martha</persName>
+            </person>
+            <person xml:id="ask-person-975">
+               <persName>Fütterer, Werner</persName>
+               <idno type="GND">https://d-nb.info/gnd/138898278</idno>
+            </person>
+            <person xml:id="ask-person-1440">
+               <persName>Kallina, Anna</persName>
+               <idno type="GND">https://d-nb.info/gnd/116032413</idno>
+            </person>
+            <person xml:id="ask-person-1485">
+               <persName>Kersten, Albert von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1097234576</idno>
+            </person>
+            <person xml:id="ask-person-2202">
+               <persName>Pollaczek, Hermann Erich</persName>
+            </person>
+            <person xml:id="ask-person-2436">
+               <persName>Sauer, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/121684965X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

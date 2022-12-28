@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">333</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>17/3 […] Mit C. P. Kino (die lebende Maske – Heinrich IV., Pirandello) Conrad Veidt;– unwahrscheinlich dumm.– Mit C. P. silb. Brunnen soup. </ab></div>
          <div type="anmerkung"><ab>„Veidt hat große Szenen, seine Erscheinung ist faszinierend, sein Gang von sonderbarer Bedeutung. In den Großaufnahmen übertreibt er die Ironie“ (SK I, S. 376). »Wie verhält sich der Darsteller zu den von ihm verkörperten Persönlichkeiten? Ganz präzise: die sogenannten Bösewichte sind im Grund genommen nicht so schlecht, und wenn ich sie gerne spiele, so ist es nicht darum, weil mir das Zerstörende ihres Wesens liegt, sondern weil ich den Zipfel Menschentum, der im bösesten Böse­wicht verborgen ist, zeigen will« (Conrad Veidt an B. Z. am Mittag, 1928, zit. nach Hätte ich das Kino 1976, S. 293. Besprechung NFP 18.3.1927, S. 18.   </ab></div>
@@ -88,6 +89,40 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-822">
+               <persName>Esterházy, Agnes</persName>
+               <idno type="GND">https://d-nb.info/gnd/1274139910</idno>
+            </person>
+            <person xml:id="ask-person-846">
+               <persName>Fantis, Henriette</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061564304</idno>
+            </person>
+            <person xml:id="ask-person-878">
+               <persName>Ferrari, Angelo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057598798</idno>
+            </person>
+            <person xml:id="ask-person-2118">
+               <persName>Palmeri, Amleto</persName>
+               <idno type="GND">https://d-nb.info/gnd/119353180</idno>
+            </person>
+            <person xml:id="ask-person-2178">
+               <persName>Pirandello, Luigi</persName>
+               <idno type="GND">https://d-nb.info/gnd/118594567</idno>
+            </person>
+            <person xml:id="ask-person-2476">
+               <persName>Scholz, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
+            </person>
+            <person xml:id="ask-person-2807">
+               <persName>Vallentin, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/117341606</idno>
+            </person>
+            <person xml:id="ask-person-2818">
+               <persName>Veidt, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

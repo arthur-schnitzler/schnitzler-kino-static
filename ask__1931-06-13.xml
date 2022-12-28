@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">95</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>13/6 […] – Abds. mit C. P. (Apollo) Kino „Salto mortale“ Dupont,– dann mit C. P. Dtsch. Haus.– […]</ab></div>
          <div type="ckp"><ab>14.6. Gestern Abend mit A. im Kino (Salto mortale). Endlich ein guter Film. A. kam in scheinbar besserer Stimmung und berichtete, Ruth sei plötzlich aufgetaucht und drüben gewesen. Er wisse eigentlich nicht, was sie wolle, da die gerichtliche Scheidung vollzogen ist. <hi>Ich</hi> verstehe natürlich nicht, wozu er sie empfangen hat. Aber das geht mich Gottlob nichts an. Beim Abendessen, bei dem er auch etwas gesprächiger war, frug er mich plötzlich, was ich im Sommer tun werde. Und auf meine Antwort, dass ich vorläufig keinerlei Plan hätte, meinte er, ich soll doch irgendwo hingehen, er werde mir dann nachkommen. Ich sagte sehr dezidiert: <hi>„Nein“!</hi> Ich lasse mich heuer nicht wegschicken, er müsse fühlen, dass zur Besserung unserer Beziehung von <hi>ihm</hi> aus etwas geschehen müsste und wenn das nicht der Fall sein wird, dann werde <hi>ich</hi> eben entsprechende Entschlüsse fassen. Es habe aber keinen Sinn darüber irritante Gespräche zu führen. Wir waren dabei ganz liebenswürdig und ruhig. Im Wagen sagte er, er könne nicht leicht in ein Hotel wegen seines Magens und wisse überhaupt nicht, wohin man gehen könnte. Ich meinte, ein Ort und ein Hotel werden sich schon finden lassen, er wisse sehr genau, dass ich mich da ganz seinen Wünschen füge und jedesfalls müsste man fragen, was seiner Gesundheit nützlich sei. Das <hi>Wohin</hi> sei keinesfalls der springende Punkt für uns. Ich hatte Abend wieder Gallenbeschwerden und eine sehr schlechte Nacht. […] [III, 186f.]</ab></div>
@@ -91,6 +92,55 @@ Premierennotiz der Uraufführung im Apollo-Kino NFP 9.6.1931, S. 9 für 12.6.193
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-258">
+               <persName>Bernt, Reinhold</persName>
+               <idno type="GND">https://d-nb.info/gnd/116147822</idno>
+            </person>
+            <person xml:id="ask-person-730">
+               <persName>Dupont, E. A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119061872</idno>
+            </person>
+            <person xml:id="ask-person-780">
+               <persName>Eis, Egon</persName>
+               <idno type="GND">https://d-nb.info/gnd/1115839799</idno>
+            </person>
+            <person xml:id="ask-person-1023">
+               <persName>Gerron, Kurt</persName>
+               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
+            </person>
+            <person xml:id="ask-person-1458">
+               <persName>Katscher, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1051107830</idno>
+            </person>
+            <person xml:id="ask-person-1762">
+               <persName>Machard, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/134251679</idno>
+            </person>
+            <person xml:id="ask-person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="ask-person-2473">
+               <persName>Albu, Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/130068101</idno>
+            </person>
+            <person xml:id="ask-person-2636">
+               <persName>Sten, Anna</persName>
+               <idno type="GND">https://d-nb.info/gnd/138875537</idno>
+            </person>
+            <person xml:id="ask-person-2858">
+               <persName>Walburg, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/120288380X</idno>
+            </person>
+            <person xml:id="ask-person-2964">
+               <persName>Wohlbrück, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/117456888</idno>
+            </person>
+            <person xml:id="ask-person-3029">
+               <persName>Zuckmayer, Carl</persName>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

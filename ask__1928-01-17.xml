@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">373</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>17/1 […] Mit C. P. Kino „Stacheldraht“ mit der Negri; ergriff mich bis zu Thränen, trotz aller Sentimentalität und einiger Kitschigkeit: Aber ein vortrefflicher Film.– Nachher nachtm. C. P. bei mir.– </ab></div>
          <div type="anmerkung"><ab>»Der Krieg ist die eigentliche Hauptperson; er widerlegt in dem Film sich selbst« (SK I, S. 395). Notiz NFP 6.1.1928, S. 21. Anzeige und Ankündigung NFP 13.1.1928, S. 18/19. (15 Spielorte). Besprechung von Lilly Klaudy in NFP 14.1.1928, S. 8f.</ab></div>
@@ -88,6 +89,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-1629">
+               <persName>Lee, Rowland</persName>
+               <idno type="GND">https://d-nb.info/gnd/141280557</idno>
+            </person>
+            <person xml:id="ask-person-2019">
+               <persName>Negri, Pola</persName>
+               <idno type="GND">https://d-nb.info/gnd/118843249</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

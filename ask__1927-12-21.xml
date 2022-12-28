@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">370</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>21/12 […] Mit C. P. Kino „Frauenhaus von Rio“; zu Haus allein genachtm.–</ab></div>
          <div type="anmerkung"><ab>Ankündigung und Anzeige in NFP 16.12.1927, S. 19 (direkt über Pollaczeks Fortsetzungsroman »Der Aufstieg«, 62. Teil), dort nachgewiesene Spielorte: Kärntner-, Rotenturm-, Schweden-, Heimat- und Votivpark-Kino sowie Eos-Lichtspiele, Kino Handl und Kino Weltspiegel. Besprechung NFP 18.12.1927, S. 20.</ab></div>
@@ -88,6 +89,39 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-58">
+               <persName>Ama, Lissy</persName>
+            </person>
+            <person xml:id="ask-person-1028">
+               <persName>Gibson, Vivian</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062485130</idno>
+            </person>
+            <person xml:id="ask-person-1374">
+               <persName>Jacques, Norbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/118556444</idno>
+            </person>
+            <person xml:id="ask-person-1745">
+               <persName>Lüthge, Bobby E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/106438158</idno>
+            </person>
+            <person xml:id="ask-person-2476">
+               <persName>Scholz, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/109024195X</idno>
+            </person>
+            <person xml:id="ask-person-2632">
+               <persName>Steinhoff, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/118993933</idno>
+            </person>
+            <person xml:id="ask-person-2633">
+               <persName>Steinrück, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/117263923</idno>
+            </person>
+            <person xml:id="ask-person-2677">
+               <persName>Stüwe, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/11736293X</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

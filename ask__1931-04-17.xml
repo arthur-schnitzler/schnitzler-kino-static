@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">82</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>17/4 […] Zu C. P. […] Mit ihr Phönix Kino Oberst Redl, im Hahn genachtm. Diese Abende sind schlimm.–</ab></div>
          <div type="ckp"><ab>17.4. Vorm. Friedhof, Sterbetag meines Mannes, ich gehe hin, weil niemand mehr sich um ihn den „Vielgeliebten“ kümmert und er mir leid tut.– Dann bei Carry, der in strahlender Stimmung ist, gestern ein[e] Stunde ausser Bett, heute schon Vor- und Nachmittag.
@@ -91,6 +92,63 @@ Notiz NFP 20.2.1931, S. 12. Premierennotiz NFP 24.2.1931, S. 10, für 6.3.1931. 
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-72">
+               <persName>Anton, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/138936579</idno>
+            </person>
+            <person xml:id="ask-person-112">
+               <persName>Auernheimer, Irene</persName>
+               <idno type="GND">https://d-nb.info/gnd/116377577</idno>
+            </person>
+            <person xml:id="ask-person-113">
+               <persName>Auernheimer, Raoul</persName>
+               <idno type="GND">https://d-nb.info/gnd/118505033</idno>
+            </person>
+            <person xml:id="ask-person-520">
+               <persName>Clauser, Suzanne</persName>
+               <idno type="GND">https://d-nb.info/gnd/1215497164</idno>
+            </person>
+            <person xml:id="ask-person-611">
+               <persName>Dagover, Lil</persName>
+               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
+            </person>
+            <person xml:id="ask-person-1499">
+               <persName>Kisch, Egon Erwin</persName>
+               <idno type="GND">https://d-nb.info/gnd/118562533</idno>
+            </person>
+            <person xml:id="ask-person-1712">
+               <persName>Loos, Theodor</persName>
+               <idno type="GND">https://d-nb.info/gnd/116850345</idno>
+            </person>
+            <person xml:id="ask-person-1780">
+               <persName>Majer, Vladimír</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062172612</idno>
+            </person>
+            <person xml:id="ask-person-2033">
+               <persName>Newlinski, Michael von</persName>
+               <idno type="GND">https://d-nb.info/gnd/138232547</idno>
+            </person>
+            <person xml:id="ask-person-2204">
+               <persName>Pollaczek, Karl Friedrich</persName>
+            </person>
+            <person xml:id="ask-person-2206">
+               <persName>Pollaczek, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/132915251</idno>
+            </person>
+            <person xml:id="ask-person-2450">
+               <persName>Schirokauer, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/117276464</idno>
+            </person>
+            <person xml:id="ask-person-2647">
+               <persName>Stifter, Magnus</persName>
+               <idno type="GND">https://d-nb.info/gnd/1026925436</idno>
+            </person>
+            <person xml:id="ask-person-2837">
+               <persName>Vigny, Benno</persName>
+               <idno type="GND">https://d-nb.info/gnd/117417645</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

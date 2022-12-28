@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">96</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>26/6 […] – Mit C. P. Abds. (Imperial-) Kino Granowsky Lied des Lebens (Praetentiös dumm, mit einigen schönen Bildern).– Im „Dtsch. Haus“ genachtm. […]</ab></div>
          <div type="ckp"><ab>27.6. Furchtbarer Abend. Weiss nicht, wie man so etwas überlebt. Nach quälendem Film „Lied des Lebens“ im Deutschen Haus Nachtmahl. Er sagt, dass Dr. D., bei dem er heute Mittag war, Palace-Sanatorium Dr. Hecht für <hi>mich</hi> empfiehlt. Er würde dann später mit Prof. Schinnerer ins Südbahn-Hotel Semmering gehen (eine halbe Stunde wenigstens entfernt). Ich sagte, anfangs lächelnd: „Nein, danke,– wenn ich <hi>allein</hi> fort soll, dann nach Bad Gastein, wozu mein Arzt rät“, dass ich aber, wenn er <hi>mit mir</hi> ] geht mich ganz seinen Wünschen anpasse. Er kann sich augenblicklich ein Alleinsein mit mir nicht vorstellen, will erst mit Schinnerer in meiner Nähe, dann <hi>ganz allein</hi>, dann Heini, Arnoldo, Olga für paar Tage treffen, eventuell mich ganz zum Schluss. Zunehmende Erbitterung. Am Weg zum Auto erklärt er, er geht zu Fuss, ich soll allein fahren. Ich antworte: „Ich auch“ und stürze wie eine Irrsinnige von der Teinfaltstrasse in die Stadt zurück. Er hinter mir drein. Beim Café Central holt er mich ein: „Sei nicht dumm – wir fahren zusammen“. Mir ist so schwindlig, dass ich mich an den Häusern anhalten muss, bis wir ein Auto finden. Ich bringe kein Wort mehr über die Lippen. Zuhause Harry: „Wie siehst du aus? Kann ich dir helfen?“ 4 Allonal. Jetzt seit 6 Uhr wach.
@@ -93,6 +94,67 @@ Ankündigung NFP 22.5.1931, S. 12. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-427">
+               <persName>Busch, Ernst</persName>
+            </person>
+            <person xml:id="ask-person-450">
+               <persName>Cappellini, Arnoldo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
+            </person>
+            <person xml:id="ask-person-695">
+               <persName>Donath, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
+            </person>
+            <person xml:id="ask-person-877">
+               <persName>Ferra, Margot</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062114744</idno>
+            </person>
+            <person xml:id="ask-person-951">
+               <persName>Friedmann, Mitzi</persName>
+               <idno type="GND">https://d-nb.info/gnd/116802944</idno>
+            </person>
+            <person xml:id="ask-person-1087">
+               <persName>Granowski, Alexis</persName>
+               <idno type="GND">https://d-nb.info/gnd/1206293667</idno>
+            </person>
+            <person xml:id="ask-person-1233">
+               <persName>Hecht, Dr.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1047198002</idno>
+            </person>
+            <person xml:id="ask-person-1618">
+               <persName>Lechner, H.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1018730222</idno>
+            </person>
+            <person xml:id="ask-person-1937">
+               <persName>Mog, Aribert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1032675357</idno>
+            </person>
+            <person xml:id="ask-person-2139">
+               <persName>Paulsen, Harald</persName>
+               <idno type="GND">https://d-nb.info/gnd/116065796</idno>
+            </person>
+            <person xml:id="ask-person-2448">
+               <persName>Schinnerer, Otto P.</persName>
+               <idno type="GND">https://d-nb.info/gnd/105204042X</idno>
+            </person>
+            <person xml:id="ask-person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="ask-person-2472">
+               <persName>Schnitzler, Olga, geb. Gussmann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
+            </person>
+            <person xml:id="ask-person-2772">
+               <persName>Trivas, Victor</persName>
+               <idno type="GND">https://d-nb.info/gnd/137797753</idno>
+            </person>
+            <person xml:id="ask-person-2853">
+               <persName>Wagner, Elsa</persName>
+               <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

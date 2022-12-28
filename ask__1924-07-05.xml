@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">729</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>5/7 Salzburg.– […] Abends mit Manns und Heini Kino (Verschneite Spuren, guter franz. Film) Mit ihnen Bristol genachtm.;– […] Nach dem Kino war ich mit Manns bei Latzko (der im Hotel wohnt). […]</ab></div>
          <div type="anmerkung"><ab></ab></div>
@@ -88,6 +89,20 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-1611">
+               <persName>Latzko, ?</persName>
+               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
+            </person>
+            <person xml:id="ask-person-1798">
+               <persName>Mann, ?</persName>
+               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
+            </person>
+            <person xml:id="ask-person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Salzburg</placeName>

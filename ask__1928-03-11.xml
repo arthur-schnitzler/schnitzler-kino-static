@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">389</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>11/3 […] Mit C. P. Kino „Hochzeitsreise“; zuhause allein genachtm. […]</ab></div>
          <div type="anmerkung"><ab>„In jedem seiner Filme – so auch in dem neuesten: ‚Mein Freund Harry‘ – bezwingt Harry Liedtke das Herz einer reichen Erbin; er muß sich schon Millionen auf diese Weise erworben haben“ (SK II, S. 23). Ankündigung NFP 2.3.1928, S. 19 für 9.3.1928. Nachgewiesene Spielorte: Opern- und Zirkus Busch-Kino (NFP 11.3.1928, S. 26).</ab></div>
@@ -88,6 +89,35 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-1457">
+               <persName>Kastner, Bruno</persName>
+               <idno type="GND">https://d-nb.info/gnd/116066008</idno>
+            </person>
+            <person xml:id="ask-person-1670">
+               <persName>Liedtke, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
+            </person>
+            <person xml:id="ask-person-1777">
+               <persName>Maggi, Rina</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061986543</idno>
+            </person>
+            <person xml:id="ask-person-2080">
+               <persName>Opal, Max</persName>
+            </person>
+            <person xml:id="ask-person-2135">
+               <persName>Paudler, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/118592041</idno>
+            </person>
+            <person xml:id="ask-person-2864">
+               <persName>Wallburg, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/119368080</idno>
+            </person>
+            <person xml:id="ask-person-2987">
+               <persName>Wüst, Ida</persName>
+               <idno type="GND">https://d-nb.info/gnd/116119667</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

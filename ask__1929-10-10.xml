@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">440</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>10/10 Telegr. Curtis Brown – Daybreak Tonfilm 10.000 d. – – leider Verhandlungen mit Feher kaum mehr zu storniren. […] Mit C. P. Kino Manolescu (Mosjoukine), bei Hartmann soup.</ab></div>
          <div type="anmerkung"><ab>»Daybreak«: Schnitzler arbeitete an der Novelle »Spiel im Morgengrauen«, die 1927 bei Fischer in Berlin erscheint. Eine Verfilmung durch die Bilton-Film erscheint möglich, Verhandlungen nimmt Friedrich Feher als Regisseur auf, das Projekt platzt aber letztlich und Schnitzler verkauft die Rechte ertragreich an MGM. Dazu vgl. ausführlich Wolf 2006, S. 130–139. 
@@ -89,6 +90,38 @@ Besprechung von Lilly Klaudy in NFP 2.10.1929, S. 9. Notiz NFP 8.11.1929, S. 8, 
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-1013">
+               <persName>George, Heinrich</persName>
+            </person>
+            <person xml:id="ask-person-1249">
+               <persName>Helm, Brigitte</persName>
+               <idno type="GND">https://d-nb.info/gnd/116690585</idno>
+            </person>
+            <person xml:id="ask-person-1504">
+               <persName>Klaudy, Lilly</persName>
+            </person>
+            <person xml:id="ask-person-1974">
+               <persName>Mosjoukine, Iwan</persName>
+               <idno type="GND">https://d-nb.info/gnd/1272156737</idno>
+            </person>
+            <person xml:id="ask-person-2125">
+               <persName>Parlo, Dita</persName>
+               <idno type="GND">https://d-nb.info/gnd/1014815126</idno>
+            </person>
+            <person xml:id="ask-person-2695">
+               <persName>Székely, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/129820016</idno>
+            </person>
+            <person xml:id="ask-person-2761">
+               <persName>Tourjansky, Viatcheslav</persName>
+               <idno type="GND">https://d-nb.info/gnd/119140195</idno>
+            </person>
+            <person xml:id="ask-person-2853">
+               <persName>Wagner, Elsa</persName>
+               <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

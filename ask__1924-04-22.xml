@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">176</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>22/4 […] Im Kino mit C. P. (Das alte Gesetz).– […]</ab></div>
          <div type="anmerkung"><ab>Kritik in Filmwelt, Jg. 1924, Nr. 9, S. 4f., Kurzkritik in Nr. 10/11, S. 12. An anderer Stelle (Jg. 1923, Nr. 16, S. 14) wird erwähnt, daß für die Aufnahmen der Zuschauerraum und die Außenfront des alten Burgtheaters am Michaelerplatz »mit der angrenzenden Hofburg und dem berühmten ehemaligen Künstlercafé Griensteidl« im Studio nachgebaut wurden. Offenbar bezieht sich auch Roda Roda in einem Artikel für dieselbe Illustrierte (Jg. 1923, Nr. 13, S. 5f.) auf die aufwendige Ausstattung des Films. Besprechung von R. St. in NFP 29.2.1924, S. 24.</ab></div>
@@ -88,6 +89,59 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-236">
+               <persName>Berger, Grete</persName>
+               <idno type="GND">https://d-nb.info/gnd/116131519</idno>
+            </person>
+            <person xml:id="ask-person-670">
+               <persName>Deutsch, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118678019</idno>
+            </person>
+            <person xml:id="ask-person-730">
+               <persName>Dupont, E. A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119061872</idno>
+            </person>
+            <person xml:id="ask-person-996">
+               <persName>Garrison, Robert</persName>
+            </person>
+            <person xml:id="ask-person-1234">
+               <persName>Hechy, Alice</persName>
+               <idno type="GND">https://d-nb.info/gnd/1038141079</idno>
+            </person>
+            <person xml:id="ask-person-1676">
+               <persName>Limburg, Olga</persName>
+               <idno type="GND">https://d-nb.info/gnd/117007145</idno>
+            </person>
+            <person xml:id="ask-person-1963">
+               <persName>Morewsky, Abraham</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061599213</idno>
+            </person>
+            <person xml:id="ask-person-2219">
+               <persName>Porten, Henny</persName>
+               <idno type="GND">https://d-nb.info/gnd/118817272</idno>
+            </person>
+            <person xml:id="ask-person-2362">
+               <persName>Roda-Roda, Alexander</persName>
+               <idno type="GND">https://d-nb.info/gnd/11874562X</idno>
+            </person>
+            <person xml:id="ask-person-2453">
+               <persName>Schlegel, Margarethe</persName>
+               <idno type="GND">https://d-nb.info/gnd/1140451758</idno>
+            </person>
+            <person xml:id="ask-person-2746">
+               <persName>Tiedtke, Jakob</persName>
+               <idno type="GND">https://d-nb.info/gnd/117377066</idno>
+            </person>
+            <person xml:id="ask-person-2807">
+               <persName>Vallentin, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/117341606</idno>
+            </person>
+            <person xml:id="ask-person-2924">
+               <persName>Weyher, Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/1138037524</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>

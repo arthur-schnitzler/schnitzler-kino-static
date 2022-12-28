@@ -29,6 +29,7 @@
             <publisher>
 Austrian Centre for Digital Humanities and Cultural Heritage
             </publisher>
+            <idno type="db-id">372</idno>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -54,10 +55,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </sourceDesc>
       </fileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2022-12-23">template populated with script "create_teis.py"</change>
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
       </revisionDesc>
    </teiHeader>
-   <text type="letter">
+   <text>
       <body>
          <div type="as"><ab>14/1 […] Mit C. P. Kino Juana (Bergner) matter Film.– […] In der „Pilsenetzer“ genachtm. (seitdem C. P. dort gewohnt (Regina) zum 1. Mal). </ab></div>
          <div type="anmerkung"><ab>„Schönheit ohne Sprengkraft, Kunstgewerbe ohne jede Gewalt – nicht mehr. Schade“ (SK II, S. 27). Ankündigung der »Welt-Uraufführung« am 22.12.1927 (Elite-Kino) in NFP 16.12.1927, S. 19. Anzeige und Ankündigung des Erscheinungstermins am 13.1.1928 in NFP 6.1.1928, S. 18/21, dort elf nachgewiesene Spielorte. Besprechung von Felix Cleve in NFP 15.1.1928, S. 17.</ab></div>
@@ -88,6 +89,38 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
       </body>
       <back>
+         <listPerson>
+            <person xml:id="ask-person-242">
+               <persName>Bergner, Elisabeth</persName>
+               <idno type="GND">https://d-nb.info/gnd/11850956X</idno>
+            </person>
+            <person xml:id="ask-person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="ask-person-608">
+               <persName>Czinner, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/116787651</idno>
+            </person>
+            <person xml:id="ask-person-996">
+               <persName>Garrison, Robert</persName>
+            </person>
+            <person xml:id="ask-person-1107">
+               <persName>Greiner, Fritz</persName>
+            </person>
+            <person xml:id="ask-person-1944">
+               <persName>Molina, Tirso De</persName>
+               <idno type="GND">https://d-nb.info/gnd/118642863</idno>
+            </person>
+            <person xml:id="ask-person-2329">
+               <persName>Rilla, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/116547979</idno>
+            </person>
+            <person xml:id="ask-person-2807">
+               <persName>Vallentin, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/117341606</idno>
+            </person>
+         </listPerson>
          <listPlace>
             <place type="location">
                <placeName>Wien</placeName>
