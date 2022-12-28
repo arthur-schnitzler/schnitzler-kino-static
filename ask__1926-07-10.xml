@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-07-10.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-07-10.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1926-07-09.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1926-07-16.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -61,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    <text>
       <body>
          <div type="as"><ab>10/7 […] – Mit H. K. Kino, „Volk in Not“.–</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="anmerkung"><ab/></div>
          <div type="film">
             <table>
                <head>Filme</head>
@@ -78,7 +75,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <row role="data">
                   <cell role="data">„Volk in Not. Ein Heldenlied von Tannenberg“</cell>
                   <cell role="data"><date>[1925]</date></cell>
-                  <cell role="data"></cell>
+                  <cell role="data"/>
                   <cell role="data"><placeName>D</placeName></cell>
                   <cell role="data"><persName>Wolfgang Neff</persName></cell>
                   <cell role="data"><persName>Marie-Louise Droop</persName></cell>

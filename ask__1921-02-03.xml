@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1921-02-03.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1921-02-03.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1921-01-22.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1921-02-08.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -61,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    <text>
       <body>
          <div type="as"><ab>3/2 […] Im Kino (Cagliostro).</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="anmerkung"><ab/></div>
          <div type="film">
             <table>
                <head>Filme</head>
@@ -78,12 +75,12 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <row role="data">
                   <cell role="data">„Der Graf von Cagliostro“</cell>
                   <cell role="data"><date>[1920]</date></cell>
-                  <cell role="data"></cell>
+                  <cell role="data"/>
                   <cell role="data"><placeName>Ö/D</placeName></cell>
-                  <cell role="data"><persName></persName></cell>
+                  <cell role="data"><persName/></cell>
                   <cell role="data"><persName>[Robert Liebmann]</persName></cell>
-                  <cell role="data"><orgName></orgName></cell>
-                  <cell role="data"></cell>
+                  <cell role="data"><orgName/></cell>
+                  <cell role="data"/>
                </row>
             </table>
          </div>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-04-16.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-04-16.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1926-04-12.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1926-04-18.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -64,7 +61,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 
 [AS an CP am 19.4.1926:]
 […] Uebrigens ist das Schiff von höherem Niveau als ich anfangs vermuthet; insbesondere die Küche ist ausserordentlich (Largeheit versteht sich auf dem Schiff von selbst.) – (Uebel ist nur das Kino,– bald im freien (für die 2. Classe), bald im Speisesaal, – ohne Musik und so lustige Sachen, dass Du’s gar nicht aushieltest (ich auch nicht). Aber schliesslich ist man ja nicht deswegen da; – […] [I, 270]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="anmerkung"><ab/></div>
          <div type="film">
             <table>
                <head>Filme</head>
@@ -79,14 +76,14 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="label">Darsteller</cell>
                </row>
                <row role="data">
-                  <cell role="data"></cell>
-                  <cell role="data"><date></date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName></placeName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName></orgName></cell>
-                  <cell role="data"></cell>
+                  <cell role="data"/>
+                  <cell role="data"><date/></cell>
+                  <cell role="data"/>
+                  <cell role="data"><placeName/></cell>
+                  <cell role="data"><persName/></cell>
+                  <cell role="data"><persName/></cell>
+                  <cell role="data"><orgName/></cell>
+                  <cell role="data"/>
                </row>
             </table>
          </div>

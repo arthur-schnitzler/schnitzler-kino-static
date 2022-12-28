@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-05-24.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1930-05-24.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1930-05-21.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1930-05-25.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,7 +79,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data">Drama</cell>
                   <cell role="data"><placeName>USA</placeName></cell>
                   <cell role="data"><persName>Jacques Feyder</persName></cell>
-                  <cell role="data"><persName></persName></cell>
+                  <cell role="data"><persName/></cell>
                   <cell role="data"><orgName>Metro-Vitaphone-Film</orgName></cell>
                   <cell role="data">Greta Garbo, Conrad Nagel, Lew Aires, Anders Randolph, Holmes Herbert</cell>
                </row>

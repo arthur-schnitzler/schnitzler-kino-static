@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-05-09.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1931-05-09.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1931-05-08.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1931-05-10.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,7 +79,7 @@ Spielort bestätigt NFP 9.5.1931, S. 22.</ab></div>
                   <cell role="data">Komisch</cell>
                   <cell role="data"><placeName>USA</placeName></cell>
                   <cell role="data"><persName>Edward Sedgewick</persName></cell>
-                  <cell role="data"><persName></persName></cell>
+                  <cell role="data"><persName/></cell>
                   <cell role="data"><orgName>Metro-Movieton</orgName></cell>
                   <cell role="data">Buster Keaton, Arnold Korff, Cliff Edwards, Sally Eilers</cell>
                </row>

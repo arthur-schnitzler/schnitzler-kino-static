@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-06-07.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-06-07.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1928-06-06.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1928-06-08.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -61,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    <text>
       <body>
          <div type="as"><ab>7/6 […] Ins Kino (allein), „Bekenntnisse einer Sechzehnjährigen“ – […]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="anmerkung"><ab/></div>
          <div type="film">
             <table>
                <head>Filme</head>

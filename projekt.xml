@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" xml:id="projekt.xml" prev="https://id.acdh.oeaw.ac.at.at/ckp/editionsprinzipien.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/zitat.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>

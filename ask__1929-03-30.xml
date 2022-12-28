@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-03-30.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-03-30.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1929-03-19.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1929-04-08.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,7 +78,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data">Drama</cell>
                   <cell role="data"><placeName>Ö</placeName></cell>
                   <cell role="data"><persName>Géza von Bolváry</persName></cell>
-                  <cell role="data"><persName></persName></cell>
+                  <cell role="data"><persName/></cell>
                   <cell role="data"><orgName>Sascha British-Intern.-Film</orgName></cell>
                   <cell role="data">Betty Balfour, Vivian Gibson, Jack Tayor, Marcel Vibert, Fritz Greiner, Julius Strobl</cell>
                </row>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-10-25.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-10-25.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1929-10-20.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1929-10-26.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,11 +74,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </row>
                <row role="data">
                   <cell role="data">„Der Kameramann“ („Cameraman“)</cell>
-                  <cell role="data"><date></date></cell>
+                  <cell role="data"><date/></cell>
                   <cell role="data">Komisch</cell>
                   <cell role="data"><placeName>USA</placeName></cell>
                   <cell role="data"><persName>Edw[ard] Sedgewick</persName></cell>
-                  <cell role="data"><persName></persName></cell>
+                  <cell role="data"><persName/></cell>
                   <cell role="data"><orgName>Metro-Film</orgName></cell>
                   <cell role="data">Buster Keaton, Harry Gibbon, Marceline Day</cell>
                </row>

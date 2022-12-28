@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-10-08.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-10-08.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1928-10-02.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1928-10-13.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -64,7 +61,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 
 [AS an CP am 8.10.1928:]
 […] ich ruhte mich im Hotel ein wenig aus, sah mir einen sehr [sp]annenden Film an, Looping the loop, in dem Werner Krauss ausserordentlich war; nachtmahlte mit Heini, der aus den Webern kam, wo er eine kleine Rolle hat und früh fertig ist. […] [II, 154]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="anmerkung"><ab/></div>
          <div type="film">
             <table>
                <head>Filme</head>

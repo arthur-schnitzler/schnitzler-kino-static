@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-03-31.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-03-31.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1928-03-27.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1928-04-02.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -61,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    <text>
       <body>
          <div type="as"><ab>31/3 […] Im Kino allein (Mädchen in den Tropen mit Baker) […]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="anmerkung"><ab/></div>
          <div type="film">
             <table>
                <head>Filme</head>
@@ -77,9 +74,9 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </row>
                <row role="data">
                   <cell role="data">„Das Mädchen aus den Tropen“ (Ot. „La sirène des tropiques“)</cell>
-                  <cell role="data"><date></date></cell>
+                  <cell role="data"><date/></cell>
                   <cell role="data">Drama</cell>
-                  <cell role="data"><placeName></placeName></cell>
+                  <cell role="data"><placeName/></cell>
                   <cell role="data"><persName>Henri Etievant, Marie Nalpas</persName></cell>
                   <cell role="data"><persName>Maurice Dekobra (Drehbuch)</persName></cell>
                   <cell role="data"><orgName>Prod. Alex. Nalpas</orgName></cell>

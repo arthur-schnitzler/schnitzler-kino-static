@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-03-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-03-28.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1927-03-26.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1927-03-30.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,7 +78,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data">Komisch</cell>
                   <cell role="data"><placeName>USA</placeName></cell>
                   <cell role="data"><persName>Alfred A. Green</persName></cell>
-                  <cell role="data"><persName></persName></cell>
+                  <cell role="data"><persName/></cell>
                   <cell role="data"><orgName>First Nationalfilm</orgName></cell>
                   <cell role="data">Colleen Moore, Vera Lewis, Doris Bakon, Lloyd Hughes</cell>
                </row>

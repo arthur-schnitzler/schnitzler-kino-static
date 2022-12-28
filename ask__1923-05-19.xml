@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1923-05-19.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1923-05-19.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1923-04-21.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1923-05-22.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -61,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    <text>
       <body>
          <div type="as"><ab>19/5 Stockholm. […] Mit Dir. Singer und Linden ins Picadilly Kino – sah den amerik. Anatol Film, der ganz blödsinnig und nicht einmal schauspielerisch gut ist.– […]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="anmerkung"><ab/></div>
          <div type="film">
             <table>
                <head>Filme</head>
@@ -79,7 +76,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data">„Anatol, der Frauenretter“ [Ot. „The Affairs of Anatol“ / „Five Kisses“]</cell>
                   <cell role="data"><date>[1921]</date></cell>
                   <cell role="data">Drama</cell>
-                  <cell role="data"><placeName></placeName></cell>
+                  <cell role="data"><placeName/></cell>
                   <cell role="data"><persName>Cecil B. De Mille</persName></cell>
                   <cell role="data"><persName>Arthur Schnitzler (Vorlage); [Jeanie MacPherson (Drehbuch)]</persName></cell>
                   <cell role="data"><orgName>Famous Players-Lasky</orgName></cell>

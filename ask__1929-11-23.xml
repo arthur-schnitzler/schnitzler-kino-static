@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-11-23.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1929-11-23.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1929-11-22.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1929-12-03.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,7 +74,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                </row>
                <row role="data">
                   <cell role="data">„Eine schamlose Frau“ („A woman of Affairs“)</cell>
-                  <cell role="data"><date></date></cell>
+                  <cell role="data"><date/></cell>
                   <cell role="data">Drama</cell>
                   <cell role="data"><placeName>USA</placeName></cell>
                   <cell role="data"><persName>Clarence Brown</persName></cell>

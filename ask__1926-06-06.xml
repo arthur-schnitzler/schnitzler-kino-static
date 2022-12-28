@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-06-06.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1926-06-06.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1926-06-04.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1926-06-08.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -61,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    <text>
       <body>
          <div type="as"><ab>6/6 […] Abd. H. K. bei mir. Gewitter. Mit ihr Kino (Goldfisch).</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="anmerkung"><ab/></div>
          <div type="film">
             <table>
                <head>Filme</head>
@@ -78,7 +75,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <row role="data">
                   <cell role="data">„L’ Abbé Constantin“ („Der Goldfisch“)</cell>
                   <cell role="data"><date>[1925]</date></cell>
-                  <cell role="data"></cell>
+                  <cell role="data"/>
                   <cell role="data"><placeName>F</placeName></cell>
                   <cell role="data"><persName>Julien Duvivier</persName></cell>
                   <cell role="data"><persName>[Ludovic Halévy (Vorlage gleichnamiger Roman); Hector Crémieux (Vorlage gleichnamiges Bühnenstück); Julien Duvivier (Drehbuch)]</persName></cell>

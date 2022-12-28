@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-03-16.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1928-03-16.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1928-03-14.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1928-03-17.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,11 +76,11 @@ Höchstwahrscheinlich sehen Pollaczek und Schnitzler eine späte Aufführung des
                <row role="data">
                   <cell role="data">„Die Königin von Paris“ [Ot. „La Revue des Revues“]</cell>
                   <cell role="data"><date>[1927]</date></cell>
-                  <cell role="data"></cell>
+                  <cell role="data"/>
                   <cell role="data"><placeName>F</placeName></cell>
                   <cell role="data"><persName>Joe Franc[i]s</persName></cell>
                   <cell role="data"><persName>[Joe Francis, Clément Vautel]</persName></cell>
-                  <cell role="data"><orgName></orgName></cell>
+                  <cell role="data"><orgName/></cell>
                   <cell role="data">Josephine Baker, André Luguet, Hélène Hallier, Pépa Bonafé u.a.</cell>
                </row>
             </table>

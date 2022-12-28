@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-10-18.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1927-10-18.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1927-10-15.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1927-10-20.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,7 +79,7 @@ Nachgewiesene Spielorte: Tuchlauben-Kino (NZG 18.10.1927, S. 8), Central-, Votiv
                   <cell role="data">Drama</cell>
                   <cell role="data"><placeName>USA</placeName></cell>
                   <cell role="data"><persName>Erwin Willat</persName></cell>
-                  <cell role="data"><persName></persName></cell>
+                  <cell role="data"><persName/></cell>
                   <cell role="data"><orgName>[Ray Rockett Productions]</orgName></cell>
                   <cell role="data">Milton Sills, Lloyd Whitlock, Charles Murray, Betty Bronson</cell>
                </row>

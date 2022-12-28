@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-03-20.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1925-03-20.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1925-03-17.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1925-03-28.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -64,7 +61,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
 
 [AS an CP am 21.3.1925:]
 […] dann holt mich Bettina, wir treffen mit Heini vor dem Kino zusammen, sehen einen glänzenden Film mit der Asta Nielsen (Athleten). […] [I, 154]</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="anmerkung"><ab/></div>
          <div type="film">
             <table>
                <head>Filme</head>
@@ -81,7 +78,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                <row role="data">
                   <cell role="data">„Athleten“</cell>
                   <cell role="data"><date>[1924/25]</date></cell>
-                  <cell role="data"></cell>
+                  <cell role="data"/>
                   <cell role="data"><placeName>D</placeName></cell>
                   <cell role="data"><persName>Friedrich Zelnik</persName></cell>
                   <cell role="data"><persName>Fanny Carlsen, Hans Behrendt</persName></cell>

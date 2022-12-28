@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1922-09-28.xml" xml:base="https://id.acdh.oeaw.ac.at/ask">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ask__1922-09-28.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ask__1922-08-23.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ask__1922-10-02.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -61,7 +58,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    <text>
       <body>
          <div type="as"><ab>28/9 […] In einem Kino. „Schminke“.– Wie leicht bin ich „gerührt“.–</ab></div>
-         <div type="anmerkung"><ab></ab></div>
+         <div type="anmerkung"><ab/></div>
          <div type="film">
             <table>
                <head>Filme</head>
@@ -76,14 +73,14 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="label">Darsteller</cell>
                </row>
                <row role="data">
-                  <cell role="data"></cell>
-                  <cell role="data"><date></date></cell>
-                  <cell role="data"></cell>
-                  <cell role="data"><placeName></placeName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><persName></persName></cell>
-                  <cell role="data"><orgName></orgName></cell>
-                  <cell role="data"></cell>
+                  <cell role="data"/>
+                  <cell role="data"><date/></cell>
+                  <cell role="data"/>
+                  <cell role="data"><placeName/></cell>
+                  <cell role="data"><persName/></cell>
+                  <cell role="data"><persName/></cell>
+                  <cell role="data"><orgName/></cell>
+                  <cell role="data"/>
                </row>
             </table>
          </div>
