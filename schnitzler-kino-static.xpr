@@ -14,7 +14,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>beacon</String>
+                                        <String>listperson.xml</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
