@@ -154,3 +154,5 @@ arche.rdf
 vendor/
 composer.*
 html/beacon.txt
+*.ipynb
+hansi.*

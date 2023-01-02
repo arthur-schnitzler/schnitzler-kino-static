@@ -4,3 +4,4 @@ unzip main.zip && rm main.zip
 mv schnitzler-kino-data-main/data ./data
 rm -rf schnitzler-kino-data-main
 ./dl_imprint.sh
+python create_listperson.py
