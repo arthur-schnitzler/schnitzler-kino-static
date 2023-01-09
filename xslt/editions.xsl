@@ -132,7 +132,7 @@
                                 </xsl:if>
                                 <xsl:if test="descendant::tei:div[@type='film']">
                                     <dl>
-                                    <xsl:for-each select="descendant::tei:cell[@type='data']">
+                                    <xsl:for-each select="descendant::tei:cell[@role='data']">
                                         <xsl:element name="dt">
                                             <xsl:value-of select="@ana"/>
                                         </xsl:element>
