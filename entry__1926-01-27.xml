@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ein Drama Auf Hoher See«, 1926-01-27, Wien</title>
-            <title type="alternative" when-iso="1926-01-27"/>
+            <title type="alternative" when-iso="1926-01-27">Mittwoch, 27. Januar 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-01-27.html">
             <ab>27/1 […] Mit H. K. Kino „Ein Drama auf hoher See“ (Farrère).</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Eine Schreckensnacht auf dem Meere“ („Eine Nacht der Liebe“, „Kapitän Corlaix“; Ot.: „Veille d'armes“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

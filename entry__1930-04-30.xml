@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Nacht Gehört Uns«, 1930-04-30, Wien</title>
-            <title type="alternative" when-iso="1930-04-30"/>
+            <title type="alternative" when-iso="1930-04-30">Mittwoch, 30. April 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-04-30.html">
             <ab>30/4 […] ferner ein Traum; dass ich mit Suz. (die sich aber zuweilen in C. P. verwandelt) im Vorraum eines Kino, sie verliere; […] Mit C. P. Kino „Nacht gehört uns“ (hatte es schon in Berlin gesehn;– interessirte mich diesmal mehr). Mit C. P. Hotel Meissl.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp773.html">
             <ab>30.4. Kino. „Die Nacht gehört uns“. Der beste Tonfilm bisher. Und doch eigentlich blöd und unerträglich. Nachher Meisl und Schadn. Unpersönliche Konversation. Nachmittag Gisela Berger. [III, 37]</ab>
          </div>
          <div type="anmerkung">
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Nacht gehört uns“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

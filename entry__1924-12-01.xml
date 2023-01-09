@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Nibelungen I«, 1924-12-01, Wien</title>
-            <title type="alternative" when-iso="1924-12-01"/>
+            <title type="alternative" when-iso="1924-12-01">Montag, 01. Dezember 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-12-01.html">
             <ab>1/12 […] Abds. C. P. bei mir; mit ihr Kino (Nibelungen I) – im Hotel Regina mit ihr genachtm.</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Vgl. dreiseitiger Artikel in Filmwelt, Jg. 1924, Nr. 33, S. 4–6. Vgl. Hätte i
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Nibelungen“ („1.Film: Siegfried“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922-24]</date>

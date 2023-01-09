@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Blitzer«, 1931-10-16, Wien</title>
-            <title type="alternative" when-iso="1931-10-16"/>
+            <title type="alternative" when-iso="1931-10-16">Freitag, 16. Oktober 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-10-16.html">
             <ab>16/10 […] Abd. mit C. P. (Maria Theresien Kino) Der Blitzer;– dann mit C. P. „Weingartl“ soup.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp987.html">
             <ab>
                <hi>I6ten.</hi> Mit A. V. M. spazieren gegangen. Nur kurze Zeit. N. M. am Roman gearbeitet. Abend mit A. im Kino „Der Blitzer“ sehr fader Film. Dann „Weingartel“ genachtmahlt. A sprach schon Vor-Mittag viel über den gestrigen Opern-Abend aber ich reagierte nicht. Zwischen den zahllosen Briefen auf den Semmaring[!] und diesen angeblich so seltenen Zusammenkünften, liegt zu viel Unaufrichtigges[!] und Ungeklärtes. (Nach seinen Mitteilungen hätte er sie in diesen 4 Wochen 2mal gesehen – Ich <hi>weiss</hi> es ist nicht wahr, aber ich schweige. – Die Oper soll sehr schön gewesen sein der Bub sehr begeistert, und er hat mit dem <hi>Gatten</hi> über die finanzielle Lage gesprochen. Nachher hat er allein im „Meissl“ genachtmahlt. [III, 251]</ab>
          </div>
@@ -70,7 +70,7 @@ Ankündigung NFP 6.10.1931, S. 12, für Opern- und Imperial-Kino. Anzeige und Pr
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der König der Blitzer“ (Ot. „Le roi des resquilleurs“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Sonne Im Herzen«, 1930-06-27, Wien</title>
-            <title type="alternative" when-iso="1930-06-27"/>
+            <title type="alternative" when-iso="1930-06-27">Freitag, 27. Juni 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-06-27.html">
             <ab>27/6 […] C. P. abgeholt. Tasche und Halsband zum Geschenk; das sie kaum nehmen wollte.– Ins Kino, Sonne im Herzen (Gaynor) langweilig, Kitsch.– Sie weinte immer wieder. In den Türkenschanzpark nach 11; wir allein. (Stürmisch.) […]</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Hab’ Sonne im Herzen“ („Sunny Side Up“)</cell>
                   <cell role="data" ana="Jahr">
                      <date/>

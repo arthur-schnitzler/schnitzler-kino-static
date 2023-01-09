@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Pilgrim«, 1928-07-05, Wien</title>
-            <title type="alternative" when-iso="1928-07-05"/>
+            <title type="alternative" when-iso="1928-07-05">Donnerstag, 05. Juli 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-07-05.html">
             <ab>5/7 […] Mit C. P. Buschkino der Pilgrim (Chaplin).– Dann Prochaska genachtm. (Prater).– </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp553.html">
             <ab>5.7. Im Busch-Kino beim „Pilgrim“ mit Charly Chaplin mit A. Dann bei Prohaska genachtmahlt. Gestern Unterredung mit Paul Zsolnay. Soll ihm den Roman schicken. Halte es für recht aussichtslos. [II, 128]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Pilgrim“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>

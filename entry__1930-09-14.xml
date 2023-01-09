@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Lindenwirtin«, 1930-09-14, Wien</title>
-            <title type="alternative" when-iso="1930-09-14"/>
+            <title type="alternative" when-iso="1930-09-14">Sonntag, 14. September 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-09-14.html">
             <ab>14/9 […] Mit C. P. Kino Lindenwirthin (Dorsch) jammervoll, sie nachtm. bei mir, ich bringe sie nach Hause.– </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp832.html">
             <ab>14. Cary-Magdi zu Tisch, lieb wie immer. Fühlte mich physisch nicht sehr wohl. Abend mit A. im Kino. (Annemarie mit der Dorsch). Dann bei A. Betonte Kühle. Dabei sieht er sehr gut aus und ist viel weniger nervös. Sowohl Frieda wie Dr. D. sagten mir (D. telefonisch), wie A. sich in den 14 Tagen erholt hat und D. findet ihn in so guter Verfassung, wie schon lange nicht. Nur nicht verschreien! Aber warum ist er wieder so merkwürdig gegen mich? [III, 96f.]</ab>
          </div>
          <div type="anmerkung">
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Annemarie“ („Die Lindenwirtin“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

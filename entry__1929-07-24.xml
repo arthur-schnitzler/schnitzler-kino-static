@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Exotischer Club«, 1929-07-24, Wien</title>
-            <title type="alternative" when-iso="1929-07-24"/>
+            <title type="alternative" when-iso="1929-07-24">Mittwoch, 24. Juli 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-07-24.html">
             <ab>24/7 […] Zu C. P., mit ihr, Kolap Schinnerer Film – „Exot. Club“. Jammervoll. Alle im freien beim „Gruss“ genachtm.– </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp710.html">
             <ab>24.7. Mit A., Schinnerer und Frieda im Kino. Elender Film. Beim Gruss genachtmahlt. Gute Stimmung. An einem Tisch ein Herr van Hanen, der ein Flirt von Lili gewesen ist. Was für einen schlechten Geschmack hatte dieses arme Kind. Abenteurerphysiognomie. [II, 252]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Nachgewiesener Spielort: Flieger-Kino (NZG 24.7.1929, S. 8). In PFL ist der Kino
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Exotische Klub“ („Man ist nur einmal jung…“) [Ot. „Red Wine“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Melodie Des Herzens«, 1930-01-02, Berlin</title>
-            <title type="alternative" when-iso="1930-01-02"/>
+            <title type="alternative" when-iso="1930-01-02">Donnerstag, 02. Januar 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-01-02.html">
             <ab>2/1 Berlin. […] Mit O. in den „Ufa Palast“, Tonfilm „Melodie des Herzens“;– im ganzen wenig erträglich. […]
 
 [AS an CP am 3.1.1930]
@@ -71,7 +71,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Melodie des Herzens“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

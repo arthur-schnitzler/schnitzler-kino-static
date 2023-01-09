@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Fürst Der Gasse«, 1928-03-02, Wien</title>
-            <title type="alternative" when-iso="1928-03-02"/>
+            <title type="alternative" when-iso="1928-03-02">Freitag, 02. März 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-03-02.html">
             <ab>2/3 […] Mit C. P. Kino Fürst der Gasse (mit Veidt und Barrymore) – ganz besonders dumm und widerwärtig.– 
 Mit C. P. Opernrest. </ab>
          </div>
@@ -66,7 +66,7 @@ Mit C. P. Opernrest. </ab>
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Fürst der Gasse“ („Der Bettelpoet“, „The beloved Rogue“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>

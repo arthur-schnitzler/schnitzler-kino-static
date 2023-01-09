@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Nju«, 1929-09-16, Marienbad</title>
-            <title type="alternative" when-iso="1929-09-16"/>
+            <title type="alternative" when-iso="1929-09-16">Montag, 16. September 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-09-16.html">
             <ab>16/9 Marienbad. […] Mit Rich. und Paula Kino. Wieder „Nju“ (Bergner – unvergleichlich). Conrad Veidt – hier begann Lilis Schwärmerei.– […]
 
 [AS an CP am 17.9.1929:]
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel"/>
                   <cell role="data" ana="Jahr">
                      <date/>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Wachsfigurenkabinett«, 1926-07-01, Wien</title>
-            <title type="alternative" when-iso="1926-07-01"/>
+            <title type="alternative" when-iso="1926-07-01">Donnerstag, 01. Juli 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-07-01.html">
             <ab>1/7 […] Abds. mit C. P. Kino „Wachsfigurencabinet“.– 
 Mit C. P. Pohl genachtm. Las das 1. Capitel eines Romans von C. P., den sie eben begonnen. […]</ab>
          </div>
@@ -67,7 +67,7 @@ Kracauer beschreibt den Film in seinem Buch »Von Caligari zu Hitler« (Kap. 6).
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Wachsfigurenkabinett“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

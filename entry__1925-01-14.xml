@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Zehn Gebote«, 1925-01-14, Bern</title>
-            <title type="alternative" when-iso="1925-01-14"/>
+            <title type="alternative" when-iso="1925-01-14">Mittwoch, 14. Januar 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-01-14.html">
             <ab>14/1 […] Von C. P. tägliche Nachrichten, Sendung des Nov.-Mscrpts. – von H. K. amüsante Briefe.–
 Abends in einem Kino („zehn Gebote“), Schweizerhof gen.
 
@@ -69,7 +69,7 @@ Abends in einem Kino („zehn Gebote“), Schweizerhof gen.
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„The Ten Commandments“ („Die Zehn Gebote“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>

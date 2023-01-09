@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Postmeister«, 1927-07-29, Wien</title>
-            <title type="alternative" when-iso="1927-07-29"/>
+            <title type="alternative" when-iso="1927-07-29">Freitag, 29. Juli 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-07-29.html">
             <ab>29/7 Vm. R. L. Behandlung.– Reist über Böhmen nach Schweden.
 Dictirt aphoristisches.–
 Dr. Müller und ein Dr. Berg (?). Dieser will die „Dramatisirungrechte“ Frl. Else erwerben. D. h. er hat meine Idee, Else monologisch, aber mit andern aufzuführen, etc., die ich mit der Bergner besprochen – und will mich quasi sich steuerpflichtig machen. Nein.– Die Filmgustlsache zerschlagen; nun „interessirt man sich für Spiel im Morgengraun“.– […]
@@ -69,7 +69,7 @@ Anzeige (elf Spielorte) und Besprechung von Kurt Sonnenfeld in NFP 29.7.1929, S.
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Postmeister“ [Ot. „Kollezhskiy registrator“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

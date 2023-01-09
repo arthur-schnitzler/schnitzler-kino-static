@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Neuen Herren«, 1930-03-12, Wien</title>
-            <title type="alternative" when-iso="1930-03-12"/>
+            <title type="alternative" when-iso="1930-03-12">Mittwoch, 12. März 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-03-12.html">
             <ab>12/3 […] Mit C. P. Kino „Die neuen Herren“ (die ich schon in Berlin sah), dann „Hahn“ genachtm. […]</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Premierennotiz für Imperial-Kino NFP 3.1.1930, S. 13, ab 8.1.1930. Anzeige der 
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Neuen Herren“ (Ot. „Les nouveaux Messieurs“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

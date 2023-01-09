@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1927-11-29, Berlin</title>
-            <title type="alternative" when-iso="1927-11-29"/>
+            <title type="alternative" when-iso="1927-11-29">Dienstag, 29. November 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-11-29.html">
             <ab>29/11 […] Mit O. Ufa Palast; ein Harold Lloyd Film. Aßen, mit Heini in der Frolies Bar.–
 
 [AS an CP am 30.11.1927:]
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„For Heaven’s Sake“ („Um Himmelswillen“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

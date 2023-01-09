@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Liebesbrief«, 1924-12-26, Wien</title>
-            <title type="alternative" when-iso="1924-12-26"/>
+            <title type="alternative" when-iso="1924-12-26">Freitag, 26. Dezember 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-12-26.html">
             <ab>26/12 […] Im Regina, bei C. P.; mit ihr Kino „der Liebesbrief“ (Walton) im Regina genachtm.–</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Liebesbrief“ [Ot. „The Love Letter“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923]</date>

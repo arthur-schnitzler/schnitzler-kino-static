@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Rin Tin«, 1928-06-20, Ischl</title>
-            <title type="alternative" when-iso="1928-06-20"/>
+            <title type="alternative" when-iso="1928-06-20">Mittwoch, 20. Juni 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-06-20.html">
             <ab>20/6 Ischl. Regen wie immer.– […] Kino „Rin Tin“.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp552.html">
             <ab>20.6. Regen! Gegen Mittag spazieren. Es ist wirklich zu schade, dass man nicht mehr von diesem Aufenthalt hat. Bin nur froh, dass A. gut aussieht und meist in guter Stimmung ist. Sagte mir gestern, er kenne keine Frau, die so viele gute Eigenschaften hat als ich. Ich meinte, das kommt ihm nur so vor, weil er Frauen mit besonders schlechten Eigenschaften gekannt hat. Mir wäre lieber, er würde einfach sagen: Ich hab dich sehr lieb. Aber er findet, ich müsse das fühlen und manchmal merke ich es auch wirklich. – Gegen Abend im Kino. „Rintintin“ – langweiliger Hundefilm. Vor Schluss fortgegangen. [II, 127]</ab>
          </div>
          <div type="anmerkung">
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Rin-Tin-Tin unter den Goldsuchern – Der Kampf ums rote Gold“ („Hinaus ins Freie“, [Ot. „Tracked in the Snow Country“])</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

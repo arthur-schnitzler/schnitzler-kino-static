@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Scapa Flow«, 1930-04-20, Wien</title>
-            <title type="alternative" when-iso="1930-04-20"/>
+            <title type="alternative" when-iso="1930-04-20">Sonntag, 20. April 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-04-20.html">
             <ab>20/4 […] Abends mit C. P. Kino (Scapa Flow), dann Meissl.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/.html">
             <ab>18.4. Finde A. seit 2 Tagen weniger müd und etwas besser aussehend, aber eher enerviert.
 Bei „Dreyfuss“ im Volkstheater. Schade, dass der schöne Stoff nicht einem <hi>Dichter</hi> in die Hände kam.
 Nachher mit Werfel im Imperial genachtmahlt. A. sehr kühl gegen mich. Was muss sich Werfel denken?
@@ -72,7 +72,7 @@ Premierennotiz NFP 11.4.1930, S. 11, für 19.4.1930. Nachgewiesene Spielorte: Im
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Scapa Flow“ („Der Untergang der deutschen Flotte“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

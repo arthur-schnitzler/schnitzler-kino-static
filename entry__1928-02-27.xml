@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ergib Dich Weib«, 1928-02-27, Wien</title>
-            <title type="alternative" when-iso="1928-02-27"/>
+            <title type="alternative" when-iso="1928-02-27">Montag, 27. Februar 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-02-27.html">
             <ab>27/2 […] Mit C. P. Kino „Ergib dich Weib“ mit Mosjoukine, mit ihr silb. Brunnen genachtm.</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ergib dich, Weib!“ („Lion Lea – Surrender“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

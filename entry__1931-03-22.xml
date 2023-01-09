@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Flötenconcert Sanssouci«, 1931-03-22, Wien</title>
-            <title type="alternative" when-iso="1931-03-22"/>
+            <title type="alternative" when-iso="1931-03-22">Sonntag, 22. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-03-22.html">
             <ab>22/3 […] Zu C. P.; mit ihr Flieger Kino (Flötenconcert Sanssouci) (Gebühr u. a.) – Mit ihr bei mir genachtm.–</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Ankündigung NFP 13.3.1931, S. 9. Premierennotiz NFP 17.3.1931, S. 8, für 20.3.
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Flötenkonzert von Sanssouci“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

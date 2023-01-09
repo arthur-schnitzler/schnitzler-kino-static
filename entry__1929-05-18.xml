@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Cagliostro«, 1929-05-18, Wien</title>
-            <title type="alternative" when-iso="1929-05-18"/>
+            <title type="alternative" when-iso="1929-05-18">Samstag, 18. Mai 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-05-18.html">
             <ab>18/5 […] Mit C. P. Film „Cagliostro“ (schlimm); mit ihr bei mir soupirt.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp698.html">
             <ab>18.5. Heute Vormittag meine 1000 S. in der Presse behoben. Das tut wohl selbstverdientes Geld. Dann wegen eines Reisemantels Umschau gehalten. Schade, dass seit dem 15. so eisiges und regnerisches Wetter ist. Wie wenig hat man von dem Frühling – er ist fort ehe er da war. Nur meine Wohnung ist ein Fliedermeer, drei riesige Vasen voll Flieder von A. Einen Strauss brachte mir Magdi heute Früh und dann noch der Flieder aus meinem Garten. Das ist sehr schön. 
 Zu Tisch Harry, sehr vergnügt und entschlossen sich am 1. Juni zu verloben. Grosses Vertrauen hab ich zu der Sache nicht. 
 Abend Kino und bei A. [II, 240]</ab>
@@ -71,7 +71,7 @@ Premierennotiz NFP 3.5.1929, S. 11, für 6.5.1929 unter der Angabe »Ur- und All
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Cagliostro“ („Graf Cagliostro“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

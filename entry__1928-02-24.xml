@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Landarzt«, 1928-02-24, Wien</title>
-            <title type="alternative" when-iso="1928-02-24"/>
+            <title type="alternative" when-iso="1928-02-24">Freitag, 24. Februar 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-02-24.html">
             <ab>24/2 […] Mit H. K. Kino Landarzt (Schildkraut), […].–</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Landarzt“ (Ot. „The Country Doctor“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Mann Zwischen 3 Frauen«, 1928-09-18, Wien</title>
-            <title type="alternative" when-iso="1928-09-18"/>
+            <title type="alternative" when-iso="1928-09-18">Dienstag, 18. September 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-09-18.html">
             <ab>18/9 […] Mit C. P. Kino (der Mann zwischen 3 Frauen); dann mit ihr Rest. Heumühle – vielleicht zum ersten Mal, seit ich – mit M. G. dort war;– vor 35–36 Jahren.–</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Zwischen drei Frauen“ („Der Tanz um die Ehe“, „Der Tanzstudent“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Karriere; Menschen Im Feuer«, 1930-03-06, Wien</title>
-            <title type="alternative" when-iso="1930-03-06"/>
+            <title type="alternative" when-iso="1930-03-06">Donnerstag, 06. März 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-03-06.html">
             <ab>6/3 […] – Abds. mit C. P. in einem schlechten (Albert-)Kino, „Karriere“ (Ralston), und „Menschen im Feuer“ (Piel), mit ihr Rest. Hahn.– […]</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Das Programm des Albertkinos ist in den hier berücksichtigten Tageszeitungen ni
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Karriere“ („The Spotlight“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Helena«, 1924-11-07, Wien</title>
-            <title type="alternative" when-iso="1924-11-07"/>
+            <title type="alternative" when-iso="1924-11-07">Freitag, 07. November 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-11-07.html">
             <ab>7/11 […] Im Kino (mit Lili, Frl. S. und C. P.) „Helena“.– […]</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Helena“ (1. Teil: „Helena, der Untergang Trojas“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1923/24]</date>

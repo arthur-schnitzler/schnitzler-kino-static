@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Wetterwart«, 1924-02-29, Wien</title>
-            <title type="alternative" when-iso="1924-02-29"/>
+            <title type="alternative" when-iso="1924-02-29">Freitag, 29. Februar 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-02-29.html">
             <ab>29/2 […] Nm. schickte mir „Vita“ ein Filmmscrpt., das ich gleich las „Die Welt des Scheins“, und in Schlagworten begutachtete. Mit C. P. Gersthofer Kino „Wetterwart“; worin Albert hervorragend,– und mich, offenbar auch aus persönlichen Gründen ergriff;– dachte an Liesl; über Liesl an O; vergangene Zeiten; […]</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Besprechung von –e. in NFP, 29.1.1924, S. 16: »Die Regie verdient höchstes L
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Wetterwart“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

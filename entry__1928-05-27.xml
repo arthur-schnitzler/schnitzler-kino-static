@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Vielgeliebte«, 1928-05-27, Wien</title>
-            <title type="alternative" when-iso="1928-05-27"/>
+            <title type="alternative" when-iso="1928-05-27">Sonntag, 27. Mai 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-05-27.html">
             <ab>27/5 Pfingstsonntag. […] Burgth. – die zugesagten Sitze Gneisenau nicht da (ich war angeblich telef. nicht zu erreichen).– Mit C. P. Kino (der „vielgeliebte“);– dann (am farbig leuchtenden Schwarzenbergbrunnen vorbei) Rest. Opera genachtm.– […] </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp548.html">
             <ab>27.5. Pfingstsonntag. Mittag bei Tolnay. Sollte Abend mit A. zu Gneisenau (Werner Krauss). Karten von der Intendanz versprochen, liess uns aufsitzen. A. begreiflicherweise wütend. Ich im Abendkleid mit ihm ins Kino. Dann Opernkeller. [II, 123]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Besprechung von Eduard Siebrecht in NFP 26.5.1928, S. 8. »Der« bzw. »Die Viel
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Vielgeliebte“ („Brautnacht mit Hindernissen“, Ot. „The Gay Deceiver“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

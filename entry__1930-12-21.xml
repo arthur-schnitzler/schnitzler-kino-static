@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Va Banque«, 1930-12-21, Wien</title>
-            <title type="alternative" when-iso="1930-12-21"/>
+            <title type="alternative" when-iso="1930-12-21">Sonntag, 21. Dezember 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-12-21.html">
             <ab>18/12 […] Mit C. P. Kino „Va banque“; sie nachtm. bei mir. </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp867.html">
             <ab>21.12.1930. Goldener Sonntag. […] Nachmittag „Komödie“ (Chlumberg Trauerfeier) mit Gisella B. Abend wieder mit A. Eos-Kino Va banque (ganz nett, Gründgens, Dagover), dann bei ihm genachtmahlt. Vor dem Fortgehn knöpfelte ich ihm seine neuen Stiefel auf, er schien plötzlich bewegt, küsste mich mit Herzlichkeit, ein Augenblick, in dem man sich etwas näher war. Er sagte: „Du bist rührend.“ [III, 131]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Ankündigung NFP 31.10.1930, S. 10. Notiz NFP 4.11.1930, S. 11. Dies ist der let
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Va banque“ („Alles oder nichts“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ich Hab Mein Herz In Kritzendorf Verloren«, 1928-01-06, Wien</title>
-            <title type="alternative" when-iso="1928-01-06"/>
+            <title type="alternative" when-iso="1928-01-06">Freitag, 06. Januar 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-01-06.html">
             <ab>6/1 […] Mit C. P. Kino „Hab mein Herz in Kritzendorf verloren…“. Mit ihr silb. Brunnen genachtm.– </ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ich hab mein Herz in Kritzendorf verloren“ („Wochenendzauber“)</cell>
                   <cell role="data" ana="Jahr">
                      <date/>

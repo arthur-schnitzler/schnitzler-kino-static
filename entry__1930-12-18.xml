@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Kiebitz«, 1930-12-18, Wien</title>
-            <title type="alternative" when-iso="1930-12-18"/>
+            <title type="alternative" when-iso="1930-12-18">Donnerstag, 18. Dezember 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-12-18.html">
             <ab>18/12 […] Abd. mit C. P. Kino („Kiebitz“), sie nachtm. bei mir. […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp865.html">
             <ab>19.12. Kino („Kibitz“). Furchtbarer Schund. Dann bei A. genachtmahlt. Forciert heiter, forcierte Ungezwungenheit, aber Trockenheit im Herzen bleibt zurück. Er zeigt mir den neuen Schlafrock. Irgendein Verdacht ist wieder in mir, aber ich lasse nichts merken. Er hat seinen Kleiderkasten rasch zugemacht, als ich näherkam, als wolle er verhüten, dass ich hineinsehe und war dabei merkwürdig blass und atemlos. Voriges Jahr hing einmal ein himmelblauer Schlafrock in diesem Kasten und er sagte damals auf meine erstaunte Frage, dass er Lili gehöre und ich glaubte ihm. Vielleicht hat er an diese Erklärung vergessen und hatte Angst, dass ich ihn verdächtigen könnte, wenn ich diesen Schlafrock sähe. –
 Es ist vielleicht wirklich vertrottelt von mir misstrauisch gegen diesen müden alten Mann zu sein. Aber sein ganzes Verhalten gegen mich ist so sonderbar, so unnatürlich und veränderlich. […] [III, 129f.]</ab>
          </div>
@@ -70,7 +70,7 @@ Premierennotiz NFP 16.12.1930, S. 13. Besprechung von Philipp Winter in NFP 19.1
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Kiebitz“ [Ot. „The Kibitzer“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Rosen Von Ravensberg; Wenn Die Stadt Schläft«, 1929-11-18, Wien</title>
-            <title type="alternative" when-iso="1929-11-18"/>
+            <title type="alternative" when-iso="1929-11-18">Montag, 18. November 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-11-18.html">
             <ab>18/11 […] Mit C. P. (zum ersten Mal) Rochus Kino. Rosen von Ravensberg; und Wenn die Stadt schläft (Chaney).– Imperial genachtm. </ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Weißen Rosen von Ravensberg“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

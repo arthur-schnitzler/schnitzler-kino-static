@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Danton«, 1931-02-08, Wien</title>
-            <title type="alternative" when-iso="1931-02-08"/>
+            <title type="alternative" when-iso="1931-02-08">Sonntag, 08. Februar 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-02-08.html">
             <ab>8/2 […] – Mit C. P. Kino „Danton“ (Kortner), dann mit ihr „Meissl“. Immer dasselbe.– […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp887.html">
             <ab>9.2.1931. Im Kino bei Danton und nachher Meisl. <hi>Schrecklicher Abend.</hi> Als ich aus meiner Erbitterung heraus über Dora Michaelis eine Bemerkung machte (über ihre seinerzeitige Intervention) strampelte er im Auto mit den Füssen vor Wut. Und doch, wäre sie nicht gewesen – Mittag Cary, Magdi. Dann ermattet am Diwan gelegen. Habe A. erklärt, dass ich abend zuhause bleibe. Ich bin müde. [III, 151]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Danton“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930/31]</date>

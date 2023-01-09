@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Verführte«, 1929-06-14, Wien</title>
-            <title type="alternative" when-iso="1929-06-14"/>
+            <title type="alternative" when-iso="1929-06-14">Freitag, 14. Juni 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-06-14.html">
             <ab>14/6 […] – Mit C. P. Kino „die Verführte“. Linde genachtm.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/.html">
             <ab>14.6. Gestern Abend Verlobungsessen in einem Separée des Hotel Krantz. Uebertrieben chick und elegant, Abendkleider und Smoking. Nach einer halben Stunde trug man mir das Du an.
 Heute Vorm. Stadt, Nachm. Alma Mahler. Anregend wie immer, aber mit Vorsicht zu gebrauchen. Schimpferei über die O., wie gewöhnlich. Versteht nicht, dass ich A. nicht heirate. Ich sage ihr, dass mir der Gedanke unerträglich wäre. Sie lässt durchblicken, dass Sie Werfel heiraten möchte (sie sagt, nur wegen der 12jährigen Tochter, die sie im Haus hat).
 Am Abend im Kino und bei der „Linde“ genachtmahlt. A. sehr liebevoll. [II, 245]</ab>
@@ -71,7 +71,7 @@ Premierennotiz NFP 7.6.1929, S. 12, für 14.6.1929. Anzeigen und Notiz NFP 14.6.
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Angst“ (Ut. „Die Verführte“ / „Die schwache Stunde einer Frau“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1928-10-18, Wien</title>
-            <title type="alternative" when-iso="1928-10-18"/>
+            <title type="alternative" when-iso="1928-10-18">Donnerstag, 18. Oktober 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="">
             <ab/>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp618.html">
             <ab>[CP an AS am 18.10.1928:]
 […] Dann ging ich mit Frieda zur letzten Vorstellung zu „Lolotte“ ins Kino. Ich hatte so sehr das Bedürfnis nach ein wenig Ablenkung und Aufheiterung. Der harmlose, gut gespielte Film mit hübschen Bildern erfüllte ganz seinen Zweck. Frieda freut sich auch sehr über die Wohnung. […] [II, 164]</ab>
          </div>
@@ -69,7 +69,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Sprung ins Glück“ („Lotte hat ihr Glück gemacht…“) [Ot. F „Totte et sa chance“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>

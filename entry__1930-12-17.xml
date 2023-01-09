@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Westfront 1918«, 1930-12-17, Wien</title>
-            <title type="alternative" when-iso="1930-12-17"/>
+            <title type="alternative" when-iso="1930-12-17">Mittwoch, 17. Dezember 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-12-17.html">
             <ab>17/12 […] Mit C. P. Kino Westfront 1918 (wegen Pabst);– erschütternder unerträglicher Film.– […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp865.html">
             <ab>18.12. Gestern Abend mit A. im Kino. „Westfront 1918“. Erschütternd, aber nichts für unsere Nerven. Da sollen die Jungen hineingehen. [III, 129]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Ankündigung NFP 15.8.1930, S. 7. Premierennotiz NFP 22.8.1930, S. 10, für 30.8
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Westfront 1918“ (Ut. „Vier von der Infanterie“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

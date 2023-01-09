@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Im Prater Blüh’n Wieder Die Bäume«, 1930-04-13, Wien</title>
-            <title type="alternative" when-iso="1930-04-13"/>
+            <title type="alternative" when-iso="1930-04-13">Sonntag, 13. April 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-04-13.html">
             <ab>13/4 […] – Mit C. P. Abds. Kino („Palast“ zum 1. Mal) – „Im Prater blühn wieder die Bäume“; unergründlich albern und banal,– von jener innerlichen Ordinärheit, die ein besondres Geheimnis der Filmdichter scheint. Im „Hahn“ mit C. P. genachtm.;– ihre fast immer wache Besorgtheit rührt wohl aber macht ungeduldig.– </ab>
          </div>
          <div type="anmerkung">
@@ -67,7 +67,7 @@ Vermutlich hat Schnitzler am 21. Juli 1928 das Palastkino in der Josefstädterst
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Im Prater blüh’n wieder die Bäume“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

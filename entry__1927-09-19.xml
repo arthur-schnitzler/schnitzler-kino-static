@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Geheimnis Einer Nacht«, 1927-09-19, Wien</title>
-            <title type="alternative" when-iso="1927-09-19"/>
+            <title type="alternative" when-iso="1927-09-19">Montag, 19. September 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-09-19.html">
             <ab>19/9 […] Mit C. P. Kino „Geheimnis einer Nacht“ (mit Gebühr und Steinrück, besonders gut), im Opernrest. soup.–</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Geheimnis einer Nacht“ (Ot. „Die Spork’schen Jäger“; At. „Bataillon Sporck“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

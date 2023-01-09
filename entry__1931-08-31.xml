@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Nie Wieder Liebe«, 1931-08-31, Wien</title>
-            <title type="alternative" when-iso="1931-08-31"/>
+            <title type="alternative" when-iso="1931-08-31">Montag, 31. August 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-08-31.html">
             <ab>31/8 […] Später zu ihr [C. P.]; ich hatte mir jede Disc. verbeten und sie hielt sich danach…– Über die miserable Situation. Ich ging bald;– in ein Kino („Nie wieder Liebe“).</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Nie wieder Liebe!“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>

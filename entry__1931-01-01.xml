@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Annie Christie«, 1931-01-01, Wien</title>
-            <title type="alternative" when-iso="1931-01-01"/>
+            <title type="alternative" when-iso="1931-01-01">Donnerstag, 01. Januar 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,13 +57,13 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-01-01.html">
             <ab>1/1 […] Hofr. Z. teleph.; über Gaunereien und Erpressungen auf Tonfilm- und anderen Gebieten. […]
 Zu C. P.; begleitete sie in die Stadt zu ihrer Tante;– hole Billets Imperial Kino;– zu Julius. Zahlreiche Familien- und Condolenzbesuche.– Mit Ferry ein Gespräch wegen C. P. [etc.] – Sie möchte ihn durchaus noch „vor Arnoldo“ sprechen.– (C. P. hatte mir von ihrem Gespräch mit Suz. über Suz. Roman berichtet – (das ich schon gestern von Suz. erfahren hatte).–)
 […] C. P. geholt, mit ihr Imp. Kino; Garbo in Annie Christie, welche wunderbare Frau!–
 Mit C. P. bei mir genachtm. Ich versuchte in aller Güte wieder ihr die Natur unsrer Beziehung klar zu machen;– sie will nicht klar sehn.– Das Radio (noch bei mir) angehört.– […] </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp870.html">
             <ab>2.1.31. Gestern Abend mit A. im Kino (Anna Krystin mit der Garbo). Wundervoll trotz <hi>Ton</hi>film. Nachher bei A., obwohl ich Restaurant vorgeschlagen hatte. Nach dem Nachtmahl in seinem Arbeitszimmer frug er mich, warum ich innerlich nicht gut zu ihm stehe. Ich müsse doch fühlen, dass er mich jetzt <hi>besonders lieb</hi> habe. Ich antwortete, dass ich das gar nicht merke, und ich mich doch ganz seinen Wünschen und Intentionen in meinem Wesen füge, er wolle es doch gar nicht anders. Er meinte wieder, es sei bei ihm nur ein Versagen der Libido und auch die Tiere im Winter…. etc. Das habe aber mit seinen Gefühlen für mich nichts zu tun, er vermag nur nicht sie zu äussern. Im ganzen war es ein besserer Abend als sonst. Aber ich will mich keinen Hoffnungen mehr hingegeben, es kommen doch immer Enttäuschungen nach. [III, 134]</ab>
          </div>
          <div type="anmerkung">
@@ -74,7 +74,7 @@ Verfilmung bereits 1923, vgl. NFP 13.2.1925, S. 23. Ankündigung NFP 12.12.1930,
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Anna Christie“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

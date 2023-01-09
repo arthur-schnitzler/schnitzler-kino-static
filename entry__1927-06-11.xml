@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Mädchen Für Alles«, 1927-06-11, Wien</title>
-            <title type="alternative" when-iso="1927-06-11"/>
+            <title type="alternative" when-iso="1927-06-11">Samstag, 11. Juni 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-06-11.html">
             <ab>11/6 […] Mit C. P. Kino Syd Chaplin (Mädchen für alles). – Bei ihr genachtm.– </ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Besprechung von Lilly Klaudy in NFP, 17.6.1927, S. 14. Nachgewiesene Spielorte: 
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Syd, das Mädchen für alles“ („The Man on the Box“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

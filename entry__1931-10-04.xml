@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Entehrt«, 1931-10-04, Wien</title>
-            <title type="alternative" when-iso="1931-10-04"/>
+            <title type="alternative" when-iso="1931-10-04">Sonntag, 04. Oktober 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-10-04.html">
             <ab>4/10 […] Mit C. P. (Imperial) Kino „Entehrt“ (Marlene Dietrich) mit C. P. bei mir zu Hause genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp984.html">
             <ab>
                <hi>4ten Sonntag.</hi> Einsam V. Mittag spazieren gegangen, da A. ablehnte mit mir zu gehen – – – Abend Kino bei „Entehrt[“] mit Marlene Dietrich nachher bei ihm. Eifrige Conversation und Verlegenheit. Ich gieng bald. Er begleitete mich bis vor meine Türe. [III, 248]</ab>
          </div>
@@ -69,7 +69,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Entehrt“ (Ot. „Dishonored“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>

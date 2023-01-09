@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Robert Und Bertram«, 1929-05-17, Wien</title>
-            <title type="alternative" when-iso="1929-05-17"/>
+            <title type="alternative" when-iso="1929-05-17">Freitag, 17. Mai 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-05-17.html">
             <ab>17/5 […] Mit C. P. Kino, „Robert und Bertram“, bei mir mit ihr genachtm.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp696.html">
             <ab>16.5. […] Am Abend mit ihm im Kino, harmloser Film mit Liedtke „Robert und Bertram“ Dann bei ihm Worterraten gespielt. Trotzdem sehr zärtlich. [II, 240]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Premierennotiz NFP 10.5.1929, S. 12. Anzeige und Notiz NFP 17.5.1929, S. 12, dor
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Robert und Bertram“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

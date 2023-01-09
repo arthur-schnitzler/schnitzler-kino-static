@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Kongress Tanzt«, 1931-10-07, Wien</title>
-            <title type="alternative" when-iso="1931-10-07"/>
+            <title type="alternative" when-iso="1931-10-07">Mittwoch, 07. Oktober 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-10-07.html">
             <ab>7/10 […] Mit C. P. Scala Kino (neu), Congress tanzt (Charell), mit ihr Meissl soup.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp985.html">
             <ab>6ten Okt. Abend Otto u. Emmy bei mir. A bei Schmiedl. 
 Schönes Herbst-Wetter. 
 V. Mittag. A. zufällig Türkenschanzstr. allein begegnet. Er hatte etwas Nasen-Bluten. Ich bin ängstlich.
@@ -74,7 +74,7 @@ Ankündigung NFP 11.8.1931, S. 9, mit der Angabe, daß damit das Scala-Kino neu 
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Kongreß tanzt“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»„frau Mit Den Millionen“ I«, 1924-01-21, Wien</title>
-            <title type="alternative" when-iso="1924-01-21"/>
+            <title type="alternative" when-iso="1924-01-21">Montag, 21. Januar 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-01-21.html">
             <ab>21/1 […] Mit C. P. Bürgerkino („Frau mit den Millionen“ I).
 – Las eine sehr begabte Novelle von C. P.’s Schwester; „Marquise von Fontenoy“.– </ab>
          </div>
@@ -67,7 +67,7 @@ Besprechung von –e. in NFP 18.1.1924, S. 19. NFP, 11.1.1924, S. 17, gibt von 1
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Frau mit den Millionen“ (1.Teil: „Der Schuß in der Pariser Oper“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1922/23]</date>

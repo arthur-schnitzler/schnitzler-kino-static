@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»L’homme Qui Rit«, 1928-10-15, Berlin</title>
-            <title type="alternative" when-iso="1928-10-15"/>
+            <title type="alternative" when-iso="1928-10-15">Montag, 15. Oktober 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-10-15.html">
             <ab>15/10 Berlin. Vm. Büro Universal Pictures.– Vorführung eines neuen Films L’homme qui rit – mit Veidt. Langweilig kitschig gute Aufnahmen, Hr. Kohner spielte schlecht Clavier dazu. […] Kohner immer noch unentschieden – ich sage Biro, der das Benehmen auch unmöglich findet, ich sei weder gekommen herumzustehen, noch herumzuschwätzen, noch herumzuhandeln. Bin angeekelt.– […]
 
 [AS an CP am 16.10.1928:]
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Mann, der lacht…“ („L’homme qui rit“) [Ot. „The Man Who Laughs“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

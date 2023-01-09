@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Greifer «, 1930-09-28, Wien</title>
-            <title type="alternative" when-iso="1930-09-28"/>
+            <title type="alternative" when-iso="1930-09-28">Sonntag, 28. September 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-09-28.html">
             <ab>28/9 […] Mit C. P. Kino „Der Greifer“, (Albers, Susa), dann mit ihr bei mir soup.– […]</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Ankündigung NFP 19.9.1930, S. 14. Premierennotiz NFP 26.9.1930, S. 9, für 27.9
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Greifer“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

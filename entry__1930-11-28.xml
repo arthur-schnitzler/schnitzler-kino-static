@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Csikosbaroness«, 1930-11-28, Wien</title>
-            <title type="alternative" when-iso="1930-11-28"/>
+            <title type="alternative" when-iso="1930-11-28">Freitag, 28. November 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-11-28.html">
             <ab>28/11 […] Um 7 mit C. P. Kino (Csikosbaroness); in übler gegenseitiger Stimmung; – jeder für sich nach Haus.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp860.html">
             <ab>28.11. Den ganzen Tag gearbeitet. Abend Kino mit A. „Cikos-Baronnesse“. Womöglich noch öder. A. fast immer geschlafen. Dann wieder nachhause. [III, 124]</ab>
          </div>
          <div type="anmerkung">
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Csikosbaroness“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

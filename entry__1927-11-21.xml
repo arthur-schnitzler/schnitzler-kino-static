@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Mutter«, 1927-11-21, Wien</title>
-            <title type="alternative" when-iso="1927-11-21"/>
+            <title type="alternative" when-iso="1927-11-21">Montag, 21. November 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-11-21.html">
             <ab>21/11 […] Mit C. P. Kino „Mutter“ (russisch); silb. Brunnen soup.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp492.html">
             <ab>21.11. Abend mit A. Russischer Film „Mutter“. Einzig – keine Schauspieler, Menschen. 
 A.’s Abreise nach B. rückt immer näher. Beklommenheit zwischen uns. Ich fühle Unaufrichtigkeiten, wenn wir auch sehr freundlich miteinander sind. [II, 68]</ab>
          </div>
@@ -71,7 +71,7 @@ Anzeige NFP 18.11.1927, S. 19 (14 Spielorte). Besprechung NFP 19.11.1927, S. 9.<
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Mutter“ [Ot. „Mat“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

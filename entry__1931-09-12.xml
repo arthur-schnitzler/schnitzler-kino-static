@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Vergewaltigt«, 1931-09-12, Wien</title>
-            <title type="alternative" when-iso="1931-09-12"/>
+            <title type="alternative" when-iso="1931-09-12">Samstag, 12. September 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-09-12.html">
             <ab>12/9 […] Mit C. P. (Ideal Kino) „Vergewaltigt“ (Bassermann, Eyck),– dort Mizi H.-F. und Gatten (V. L.s Schwester) gesprochen allein zu Hause genachtm.–</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Ankündigung NFP 4.8.1931, S. 10. Notiz NFP 7.8.1931, S. 10. Premierennotiz NFP 
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Vergewaltigt“ („Gefahren der Liebe“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>

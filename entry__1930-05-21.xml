@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Erzh. Otto Und Wäschermädl«, 1930-05-21, Wien</title>
-            <title type="alternative" when-iso="1930-05-21"/>
+            <title type="alternative" when-iso="1930-05-21">Mittwoch, 21. Mai 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-05-21.html">
             <ab>21/5 […] Mit C. P. Abds. Kino (Erzh. Otto und Wäschermädl) (Lilian Ellis).– Mit C. P. bei Meissl genachtm.– </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="">
             <ab>23.5. Kino, Theater, Autofahrten ohne jede Freude oder Zärtlichkeit. Oft glaube ich es steckt noch etwas anderes hinter seinem Wesen. – Versuch einer Auseinandersetzung und zum Schluss wieder Verkrampfung. Ich arbeite und meine Arbeit gedeiht, das ist der einzige Weg, den ich sehe. Am 27. heiratet Harry. [III, 43]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Nachgewiesener Spielort: Schottenring-Kino (NFP, 21.5.1930, S. 9)..</ab>
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Erzherzog Otto und das Wäschermädel“ („Wiener Herzen“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Tropenglut«, 1930-02-17, Wien</title>
-            <title type="alternative" when-iso="1930-02-17"/>
+            <title type="alternative" when-iso="1930-02-17">Montag, 17. Februar 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-02-17.html">
             <ab>17/2 […] – Mit C. P. Kino „Tropenglut“ (Garbo, Lewis Stone). Mit C. P. Weingartl genachtm.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp764.html">
             <ab>Gestern Abend mit A. Kino „Tropenzauber“ mit Greta Garbo. Ein wundervolles Wesen. A. in guter Stimmung, aber ich wage es kaum mehr mich zu freuen. Ich arbeite fleissig an der „Corday“. [III, 30]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Ankündigung für das Schweden-Kino NFP 7.2.1930, S. 8. Premierennotiz und Anzei
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Tropenglut“ („Wilde Orchideen“, [Ot. „Wild Orchids“])</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

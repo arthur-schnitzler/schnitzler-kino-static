@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ihre Majestät Die Liebe«, 1931-03-08, Wien</title>
-            <title type="alternative" when-iso="1931-03-08"/>
+            <title type="alternative" when-iso="1931-03-08">Sonntag, 08. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-03-08.html">
             <ab>8/3 […] Mit C. P. ins Lustspielth.;– ein Kinostück „Ihre Majestät die Liebe“, dann mit ihr Eisvogel genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp892.html">
             <ab>8.3.1931. Vormittag mit A. bei Carry. Julius kam einen Augenblick herein, sprach nicht ein Wort zu mir und ging nach zwei Minuten mit seinem Bruder fort. Carrys Befinden trotz neuer Therapie ganz dasselbe. Chinin-Tropfenclysma. Temperatur Nachmittag 39.2.
 Abend mit A. im Kino (der darauf bestand), dann in einem Beisel genachtmahlt. Meine Stimmung trostlos, Kälte und Schnee anhaltend. [III, 156]</ab>
          </div>
@@ -70,7 +70,7 @@ Abend mit A. im Kino (der darauf bestand), dann in einem Beisel genachtmahlt. Me
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ihre Majestät die Liebe“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

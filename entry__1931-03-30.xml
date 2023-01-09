@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Karamasow«, 1931-03-30, Wien</title>
-            <title type="alternative" when-iso="1931-03-30"/>
+            <title type="alternative" when-iso="1931-03-30">Montag, 30. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-03-30.html">
             <ab>30/3 […] Zu C. P., mit ihr Bürgerkino, Karamasow (Kortner und Anna Sten).– Allein zu Haus genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp895.html">
             <ab>30.3. Carry 37.6 Temp. A. mich erst um 1/4 11 angerufen, weil die „Masseurin“ bei ihm war.– Abend A. mich geholt. „Brüder Karamasoff“. Dann nachhause. Carry Nachmittag weniger wohl, 39.2. [III, 159]</ab>
          </div>
          <div type="anmerkung">
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Mörder Dimitri Karamasoff“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930/31]</date>

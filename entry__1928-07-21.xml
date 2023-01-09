@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1928-07-21, Wien</title>
-            <title type="alternative" when-iso="1928-07-21"/>
+            <title type="alternative" when-iso="1928-07-21">Samstag, 21. Juli 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,11 +57,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-07-21.html">
             <ab>21/7 […] Mit C. P. Palastkino, den Christusfilm mit tiefstem Widerwillen angesehn. Hier ist wirklich Blasphemie, Verlogenheit und Feigheit im Verein;– und auf allen Seiten.– 
 In den Prater gefahren;– besahn uns den Festplatz und die Sängerhalle (das Concert schon aus); aßen in einer der improvisirten Buden. […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="">
             <ab>21.7. […] Am Abend mit A. in der Sängerhalle im Prater. Unten genachtmahlt. Dann mit Liliputbahn in den Wurstelprater. Fülle und Leben. Wien steht im Zeichen des Sängerfestes (Schubertfeier). Aus dem Riesenrad herunter tönt ein Waldhorn, Melodie der Volkshymne, es ist aber auch gleichzeitig „Deutschland, Deutschland über alles“. Wir gingen Arm in Arm. Um 3/4 1 nachhause. [II, 130f.]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ In den Prater gefahren;– besahn uns den Festplatz und die Sängerhalle (das Co
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„König der Könige“ („King of the kings“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

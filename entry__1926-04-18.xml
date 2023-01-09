@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1926-04-18, Wien</title>
-            <title type="alternative" when-iso="1926-04-18"/>
+            <title type="alternative" when-iso="1926-04-18">Sonntag, 18. April 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="">
             <ab/>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/.html">
             <ab>[CP an AS am 21.4.1926:]
 […] Einen Brief werde ich wohl erst am 23. erhalten. Zu erzählen ist nicht viel. Sonntag Nachmittag waren programmgemäss Byk und Emmy Erl. da und später gingen Emmy und ich noch ins Kino zum „Generaldirektor“ mit Bassermann, da Byk in einen Vortrag musste. Ganz guter Film, Bassermann fabelhaft wie immer. […] [I, 283]</ab>
          </div>
@@ -69,7 +69,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Der Herr Generaldirektor“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

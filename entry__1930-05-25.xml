@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Es Gibt Eine Frau, Die Dich Niemals Vergißt…«, 1930-05-25, Wien</title>
-            <title type="alternative" when-iso="1930-05-25"/>
+            <title type="alternative" when-iso="1930-05-25">Sonntag, 25. Mai 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-05-25.html">
             <ab>25/5 […] Mit C. P. Imperialkino „Es gibt eine Frau, die dich niemals vergißt“ (Dagover), Meissl genachtm.–</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ PFL nennen als Tag der EA den 23.5.1930. In NFP 23.5.1930, S. 21, wird jedoch au
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Es gibt eine Frau die Dich niemals vergißt…“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1919-03-05, Wien</title>
-            <title type="alternative" when-iso="1919-03-05"/>
+            <title type="alternative" when-iso="1919-03-05">Mittwoch, 05. März 1919</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1919-03-05.html">
             <ab>5/3 […] Major Michel;– Institut für Weltkultur, zeigte interessante Films (Czechen – Polen – Deutsche; politisches zur Friedensconferenz) […] </ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel"/>
                   <cell role="data" ana="Jahr">
                      <date/>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»None«, 1929-09-22, Wien</title>
-            <title type="alternative" when-iso="1929-09-22"/>
+            <title type="alternative" when-iso="1929-09-22">Sonntag, 22. September 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="">
             <ab>None</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp735.html">
             <ab>22.9. […] Mit Anna und Maria in einem peinlichen Sexualfilm. Jetzt sehr einsam zu Hause. Meine Hausfrau seit 2 Tagen verreist, das Mädchen Sonntagsausgang. Es ist etwas unheimlich.
 Und morgen kommt A.! Gott gebe uns gute frohe Zeiten und einen schönen glücklichen Winter. Ich will A. morgen mit frohem Herzen begrüssen. [II, 276]</ab>
          </div>
@@ -69,7 +69,7 @@ Und morgen kommt A.! Gott gebe uns gute frohe Zeiten und einen schönen glückli
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel"/>
                   <cell role="data" ana="Jahr">
                      <date/>

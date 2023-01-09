@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Konzert«, 1931-09-11, Wien</title>
-            <title type="alternative" when-iso="1931-09-11"/>
+            <title type="alternative" when-iso="1931-09-11">Freitag, 11. September 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-09-11.html">
             <ab>11/9 […] – Um ½7 zu C. P.; ins Michelbeuern Kino „Konzert“ (Bahr) – langweilig; dann zu mir; mit C. P. genachtm… – Gespräch über die Sorgen und Unannehmlichkeiten.–</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Ankündigung NFP 18.8.1931, S. 10. Notiz NFP 21.8.1931, S. 10. Premierennotiz NF
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Konzert“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>

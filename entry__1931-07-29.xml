@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ich Geh Aus Und Du Bleibst Da«, 1931-07-29, Wien</title>
-            <title type="alternative" when-iso="1931-07-29"/>
+            <title type="alternative" when-iso="1931-07-29">Mittwoch, 29. Juli 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-07-29.html">
             <ab>29/7 […] – Allein ins (Colosseum) Kino „Ich geh aus und du bleibst da“ – allein zu Haus genachtm.– In den 5. Akt gehören solche Dinge nicht.– […]</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Ich geh’ aus und du bleibst da… “</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1931]</date>

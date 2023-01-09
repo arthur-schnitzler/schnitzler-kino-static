@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1927-12-15, Wien</title>
-            <title type="alternative" when-iso="1927-12-15"/>
+            <title type="alternative" when-iso="1927-12-15">Donnerstag, 15. Dezember 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,11 +57,11 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="">
             <ab>15/12 […] Abds. mit C. P. Silb. Brunnen genachtm.–
 Ostbahn. Lili und Arnoldo kommen aus Venedig an.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp514.html">
             <ab>15.12. Mit A. im Kino und nachtmahlen. Dann fuhr er zur Bahn Lili und ihren Mann holen. Viel Schnee und Kälte. [II, 89]</ab>
          </div>
          <div type="anmerkung">
@@ -70,7 +70,7 @@ Ein Kinobesuch an diesem Tag ist nur bei Pollaczek notiert und ist möglicherwei
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel"/>
                   <cell role="data" ana="Jahr">
                      <date/>

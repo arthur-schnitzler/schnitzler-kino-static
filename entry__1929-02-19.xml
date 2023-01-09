@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Loge 13«, 1929-02-19, Wien</title>
-            <title type="alternative" when-iso="1929-02-19"/>
+            <title type="alternative" when-iso="1929-02-19">Dienstag, 19. Februar 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-02-19.html">
             <ab>19/2 […] Mit C. P. Kino (Loge 13; Garbo), […]. Nachts ruft E. B. an – ich müsse vor der Filmprem. unbedingt Berlin kommen. […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp645.html">
             <ab>19.2. Kino. „Loge Nr. 13“ (Greta Garbo wundervoll). Melancholischer Abend mit A., der nervös ist. Um 11 Uhr nachhause, da A. einen Anruf der Elisabeth Bergner wegen „Else“ erwartet. Irgendetwas stimmt wieder nicht in seinem Wesen. [II, 195]</ab>
          </div>
          <div type="anmerkung">
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Dame von Loge 13“ („Die schöne Spionin“ / Ot. „Mysterious Lady“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

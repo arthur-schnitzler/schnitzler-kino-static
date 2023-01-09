@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Komödiantin«, 1929-07-27, Wien</title>
-            <title type="alternative" when-iso="1929-07-27"/>
+            <title type="alternative" when-iso="1929-07-27">Samstag, 27. Juli 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-07-27.html">
             <ab>27/7 […] Mit C. P. Kino (Komödiantin, Shearer), Linde genachtm.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp710.html">
             <ab>27.7. A. sieht schlecht aus. Im Kino bei „Komödiantin“ (netter Kitsch). Dann „Linde“ genachtmahlt. Gedrückte Stimmung, Unschlüssigkeit wegen unserer Reise. Fühle, er wartet auf irgendwelche Entschlüsse der O. Nachm. Lotte M. (besonders liebe Person). [II, 252]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Komödiantin“ („The Actress“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

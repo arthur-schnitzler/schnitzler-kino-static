@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Schule Der Cocotten«, 1925-05-05, Wien</title>
-            <title type="alternative" when-iso="1925-05-05"/>
+            <title type="alternative" when-iso="1925-05-05">Dienstag, 05. Mai 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-05-05.html">
             <ab>5/5 […] – Mit C. P. Kino (Schule der Cocotten); mit ihr Meissl soupirt.</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Schule der Kokotten“ („Goldfisch“) [Ot. „ The Goldfish“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

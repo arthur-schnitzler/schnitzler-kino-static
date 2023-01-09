@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Frau Im Mond«, 1929-12-25, Wien</title>
-            <title type="alternative" when-iso="1929-12-25"/>
+            <title type="alternative" when-iso="1929-12-25">Mittwoch, 25. Dezember 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-12-25.html">
             <ab>25/12 Vm. packen u. dgl.–
 Telef. mit O. Berlin.
 Vor Tisch zu C. P., wo auch Karl mit Magda.
@@ -72,7 +72,7 @@ Mit C. P. bei ihr genachtm.; mühselige Conversation; begleite sie heim, in schl
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Frau im Mond“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

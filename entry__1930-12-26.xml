@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Olympia«, 1930-12-26, Wien</title>
-            <title type="alternative" when-iso="1930-12-26"/>
+            <title type="alternative" when-iso="1930-12-26">Freitag, 26. Dezember 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-12-26.html">
             <ab>26/12 […] Mit C. P. Kino „Olympia“.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp868.html">
             <ab>26.12.1930. Vormittag bei Tante Klara, die etwas erkältet ist. Am Abend mit A. im Kino (Olympia), nachher auf meinen Wunsch jeder für sich nachhause. Ich sollte bei ihm nachtmahlen, aber ich lehnte sehr freundlich ab. Jetzt werde <hi>ich</hi> diesen Tête-à-têtes ausweichen. [III, 132]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Ankündigung NFP 28.11.1930, S. 10. Premierennotiz NFP 2.12.1930, S. 10, für 1.
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Olympia“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

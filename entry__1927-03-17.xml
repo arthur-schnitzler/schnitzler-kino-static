@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Lebende Maske«, 1927-03-17, Wien</title>
-            <title type="alternative" when-iso="1927-03-17"/>
+            <title type="alternative" when-iso="1927-03-17">Donnerstag, 17. März 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-03-17.html">
             <ab>17/3 […] Mit C. P. Kino (die lebende Maske – Heinrich IV., Pirandello) Conrad Veidt;– unwahrscheinlich dumm.– Mit C. P. silb. Brunnen soup. </ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Lebende Maske“ („Die Flucht in die Nacht“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927]</date>

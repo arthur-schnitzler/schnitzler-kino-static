@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Große Parade«, 1929-06-15, Wien</title>
-            <title type="alternative" when-iso="1929-06-15"/>
+            <title type="alternative" when-iso="1929-06-15">Samstag, 15. Juni 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-06-15.html">
             <ab>15/6 […] Mit C. P. Kino große Parade, dann (Prater) Prochaska genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp704.html">
             <ab>15.6.1929. Mittag Harry, Mädi, Cary, Magdi zu Tisch. Herry empörend, sein Ton gegen die Braut grotesk, gegen Magda ungezogen. Magdi sitzt starr mit weitaufgerissenen Augen, bereit zu weinen.
 Diese Verlobung macht mir keine Freude, es ist gut, dass wir übermorgen auf den Semmering fahren.
 Abend fader Film „Parade“, dann im Prater genachtmahlt. A. <hi>sehr</hi> lieb. Ich habe leider Zahnschmerzen. [II, 246]</ab>
@@ -70,7 +70,7 @@ Abend fader Film „Parade“, dann im Prater genachtmahlt. A. <hi>sehr</hi> lie
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Parade des Todes“ (Ot. „The big Parade“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>

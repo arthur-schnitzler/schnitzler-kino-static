@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Training Zur Ehe«, 1930-03-19, Wien</title>
-            <title type="alternative" when-iso="1930-03-19"/>
+            <title type="alternative" when-iso="1930-03-19">Mittwoch, 19. März 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-03-19.html">
             <ab>19/3 […] Mit C. P. Kino (Schäffer, zum 1. Mal) (Training zur Ehe u. a.), mit ihr „Weingartl“ soup.–</ab>
          </div>
          <div type="anmerkung">
@@ -68,7 +68,7 @@ NZG vom 19.3.1930, S. 8, nennt für das Kino Schäffer »Liebschaften einer Scha
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Training zur Ehe“ („The Duke Steps out“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1929]</date>

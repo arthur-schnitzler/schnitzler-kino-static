@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Rund Um Die Ehe«, 1924-11-28, Wien</title>
-            <title type="alternative" when-iso="1924-11-28"/>
+            <title type="alternative" when-iso="1924-11-28">Freitag, 28. November 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-11-28.html">
             <ab>28/11 […] Mit C. P. Kino (Rund um die Ehe).</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Anzeige NFP 7.11.1924, S. 13f., dort Spielorte von 7.–13.11.1924.</ab>
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Rund um die Ehe“ („The Marriage Circle“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

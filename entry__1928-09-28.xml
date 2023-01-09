@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Circus Wolfson«, 1928-09-28, Wien</title>
-            <title type="alternative" when-iso="1928-09-28"/>
+            <title type="alternative" when-iso="1928-09-28">Freitag, 28. September 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-09-28.html">
             <ab>28/9 […] Abends mit C. P. Kino „Circus Wolfson“.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp596.html">
             <ab>28.09. A. hat mir sein neues Stück vorgelesen. Ich finde es ausgezeichnet, sehr bühnenwirksam, stellenweise ergreifend. Die Führung und Durchführung vorbildlich und trotzdem hat es nicht das dichterische Niveau seiner anderen Stücke, vom „Gang zum Weiher“ z.B. (trotz aller Schwächen und Peinlichkeiten dieses Stückes) oder von „Medardus“, „Beatrice“, „Bernhardi“. Aber ich glaube an einen Erfolg dieses Stückes.
 A. in guter Stimmung gelesen. Er hat Baumeister Siebert Auftrag gegeben Wohnung für mich im 18. oder 19. Bezirk zu suchen. 
 Ich habe A. Modernisierung vom „Zug der Schatten“ geraten, Uebertragung in unsere Zeit.
@@ -75,7 +75,7 @@ Notiz NFP 28.9.1928, S. 11. Nachgewiesene Spielorte: Gartenbau-, Haydn-, Palast-
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Letzte Galavorstellung des Zirkus Wolfson“ („Zirkus Wolfsons’s letzte Galavorstellung – Neue Bearbeitung“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1927/28]</date>

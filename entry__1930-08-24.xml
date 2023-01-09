@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Eine Schwache Stunde«, 1930-08-24, Wien</title>
-            <title type="alternative" when-iso="1930-08-24"/>
+            <title type="alternative" when-iso="1930-08-24">Sonntag, 24. August 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-08-24.html">
             <ab>24/8 […] Mit C. P. Kino (vorher wegen Verfrühung kurze Spazierfahrt Cobenzl) schwache Stunde (jammervoll);– sie nachtm. dann bei mir – […] </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp826.html">
             <ab>25.8. Gestriger Abend Kino, vorher Spazierfahrt Cobenzl, dann bei ihm. Alles still, trübselig. Was in ihm vorgeht weiss ich nicht und noch weniger, was er von dieser Reise erwartet. Ich kann nicht mehr denken.
 <hi>Fühle mich krank.</hi> [III, 90]</ab>
          </div>
@@ -71,7 +71,7 @@ Ankündigung NFP 8.8.1930, S. 11, mit den Spielorten Imperial-, Kolosseum- und L
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Eine Schwache Stunde“ („Zweimal Hochzeit“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

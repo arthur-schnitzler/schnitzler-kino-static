@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Heimliche Sünder«, 1926-08-14, Bern</title>
-            <title type="alternative" when-iso="1926-08-14"/>
+            <title type="alternative" when-iso="1926-08-14">Samstag, 14. August 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-08-14.html">
             <ab>14/8 Bern. […] Mit C. P. Kino „Heimliche Sünder“ (wirklich amüsirt). […]</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp380.html">
             <ab>14.8. Seit gestern hier. Das Wiedersehen so schön, wie es noch nie war. Der Himmel blau und wolkenlos. Am Abend Bummel durch die Stadt. Wundervoller Sonnenuntergang. Ich fürchte mich so glücklich zu sein. Heute Ausflug an den Thunersee, es ist ½10 Uhr Früh.
 Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsympathisches Bad. Flitterwochenstimmung. Abend im Kino. Französischer Film „Heimliche Sünder“. [I, 339]</ab>
          </div>
@@ -69,7 +69,7 @@ Thunersee sehr lieblich, aber nicht zum Bleiben einladend. Enger Strand,– unsy
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Heimliche Sünder“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

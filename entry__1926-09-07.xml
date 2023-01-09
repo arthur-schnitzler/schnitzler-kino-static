@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Wien Bleibt Wien«, 1926-09-07, Luzern</title>
-            <title type="alternative" when-iso="1926-09-07"/>
+            <title type="alternative" when-iso="1926-09-07">Dienstag, 07. September 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-09-07.html">
             <ab>7/9 Luzern.– […] Abends im Kino „Wien bleibt Wien“; idiotisch und verlogen. (Offenbar bin ich „verbittert“ gegen den Film.)
 
 [AS an CP am 8.9.1926:]
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„The Greater Glory“ („Wien bleibt Wien“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

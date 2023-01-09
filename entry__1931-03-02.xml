@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Drei Tage Liebe«, 1931-03-02, Wien</title>
-            <title type="alternative" when-iso="1931-03-02"/>
+            <title type="alternative" when-iso="1931-03-02">Montag, 02. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-03-02.html">
             <ab>2/3 […] Mit C. P. Kino „Drei Tage Liebe“ (Albers, Dorsch); jeder für sich nach Hause.– […] </ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp891.html">
             <ab>3.3. Bei Carry im Spital gewesen, erst jetzt erfahren, dass man ein Abszess an der Rippe geöffnet hat (in Narkose). Man hat es mir verheimlicht, da ich mit Grippe doch nicht zu ihm hätte dürfen. Er ist gottlob fieberfrei und fidel. Nachher mit A. in einem langweiligen Film und jeder für sich nachhause. Heute sollen wir in die Oper (Opernball) und ich will auch nachher zu mir nachhause, das Zusammensein ist zur Qual geworden. [III, 155]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Drei Tage Liebe“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930/31]</date>

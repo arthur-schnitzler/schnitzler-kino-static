@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Prater«, 1924-09-27, Wien</title>
-            <title type="alternative" when-iso="1924-09-27"/>
+            <title type="alternative" when-iso="1924-09-27">Samstag, 27. September 1924</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-09-27.html">
             <ab>27/9 […] Mit C. P. Votivkino („Prater“); dann Pilsenetzer;– es ging leidlich, bis wieder Eifersüchteleien anfingen.– </ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Prater“ („Merry go round“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

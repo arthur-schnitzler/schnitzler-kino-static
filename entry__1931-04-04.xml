@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Zwei Herzen Im Dreivierteltakt«, 1931-04-04, Wien</title>
-            <title type="alternative" when-iso="1931-04-04"/>
+            <title type="alternative" when-iso="1931-04-04">Samstag, 04. April 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-04-04.html">
             <ab>4/4 […] wir gingen ins Kino (Gersthofer) (Zwei Herzen in 3/4 Takt) – auf der Stiege zum Viaduct, verknaxte sie sich;– nach Schluss des Kino, mußte sie im Wagen nach Haus;– ich brachte sie in die Wohnung.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/.html">
             <ab>Ostersonntag. Gestern Abend in der Beckenbründlgasse am Weg ins Gürtel-Kino gestürzt, Fuss verletzt, ich glaube aus innerer Nervosität; mich noch mit A. ins Kino geschleppt, nachher verdammte Schmerzen. A. brachte mich nachhause. Ich verbiss meinen Schmerz, damit er nur fortging, schlaflose Nacht, Fuss stark geschwollen, Temp. 37.7. A. mit Familie Clauser nach Thalheim. Ich habe ihm mein Befinden verschwiegen, damit er sich nicht bemüssigt fühlt zurück zu bleiben. Anna, Emmy Nachmittag bei mir. [III, 160f.]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Ankündigung NFP 4.4.1930, S. 10. Anzeige NFP 18.4.1930, S. 18, dort genannt der
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Zwei Herzen im 3/4 Takt“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

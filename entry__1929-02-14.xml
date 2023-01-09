@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Gelbe Lilie«, 1929-02-14, Wien</title>
-            <title type="alternative" when-iso="1929-02-14"/>
+            <title type="alternative" when-iso="1929-02-14">Donnerstag, 14. Februar 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-02-14.html">
             <ab>14/2 […] Abd. mit C. P. Kino, „gelbe Lilie“;– […].–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp644.html">
             <ab>14.2. Vormittag bei Harry, der noch immer fiebert. Abend mit A. bei „Die gelbe Lilie“ im Kino, nachher in der „Linde“ genachtmahlt. Kälte und Schnee. [II, 194]</ab>
          </div>
          <div type="anmerkung">
@@ -69,7 +69,7 @@ Anzeige NFP 8.2.1929, S. 7, dort genannte Spielorte ab 12.2.1929: Flotten-, Sch�
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Gelbe Lilie“ (Ot. „The Yellow Lily“)</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

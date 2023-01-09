@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Afrika Spricht«, 1931-03-23, Wien</title>
-            <title type="alternative" when-iso="1931-03-23"/>
+            <title type="alternative" when-iso="1931-03-23">Montag, 23. März 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-03-23.html">
             <ab>23/3 […] Abd. mit C. P. Kino „Afrika spricht“;– dann allein zu Haus genachtm.–</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp894.html">
             <ab>23.3. Carry Morgentemperatur 37.9. Schwips mit Tokayer 1874 von einem anonymen Spender, ich glaube von meinem alten Freund Globoznik, aber Carry lacht mich aus und sagt: „Von einem einfachen Mann aus dem Ambulatorium.“
 Mittag 39–39.2, leichte Uebelkeit. Im Ganzen Besserung. Am Abend mit A. Kino „Afrika spricht“, dann allein nach Haus. [III, 158]</ab>
          </div>
@@ -69,7 +69,7 @@ Mittag 39–39.2, leichte Uebelkeit. Im Ganzen Besserung. Am Abend mit A. Kino �
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Afrika spricht!“ („Das Paradies der Hölle“) [Ot. „Africa Speaks“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1930]</date>

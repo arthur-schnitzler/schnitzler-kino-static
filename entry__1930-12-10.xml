@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Aufruhr Der Geschlechter«, 1930-12-10, Wien</title>
-            <title type="alternative" when-iso="1930-12-10"/>
+            <title type="alternative" when-iso="1930-12-10">Mittwoch, 10. Dezember 1930</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-12-10.html">
             <ab>10/12 […] – Um 9 mit C. P. Kino „Aufruhr der Geschlechter“ (Tschechowa) dann nachtm. sie bei mir.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp863.html">
             <ab>10.12. Gesangsstunde, aber ich bin jetzt nie in Stimmung.
 A. war bei Dr. D. rief mich nachher an. Das Herz „angeblich“ ganz in Ordnung. Keinerlei Mittel, nur weniger Flüssigkeiten. Ich bin doch nicht beruhigt. Am Abend Kino mit A. „Geschlecht in Not“. Guter Film, dann Sternwartestrasse. A. elend ausgesehen. Ich lasse mich nicht nachhause begleiten, weil es schüttet. [III, 127]</ab>
          </div>
@@ -69,7 +69,7 @@ A. war bei Dr. D. rief mich nachher an. Das Herz „angeblich“ ganz in Ordnung
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Menschen im Sturm“ („Ein Mädel von der Reeperbahn“, „Geschlecht in Aufruhr“)</cell>
                   <cell role="data" ana="Jahr">
                      <date/>

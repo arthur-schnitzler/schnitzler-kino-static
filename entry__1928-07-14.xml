@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Die Verkaufte Frau«, 1928-07-14, Wien</title>
-            <title type="alternative" when-iso="1928-07-14"/>
+            <title type="alternative" when-iso="1928-07-14">Samstag, 14. Juli 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,10 +57,10 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1928-07-14.html">
             <ab>14/7 […] – Im Fliegerfreiluftkino (die verkaufte Frau mit Rio Dolores);– mit C. P. und Heini; fuhren Prater, nachtm. Prochaska.</ab>
          </div>
-         <div type="ckp">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp554.html">
             <ab>14.7. Am Abend mit A. und Heini erst im Kino, dann bei Prohaska genachtmahlt. Sehr nett, wenn auch ein wenig Befangenheit auf allen Seiten. Heini sieht sehr gut aus, gar nicht wie ein Schauspieler, eher wie ein junger, deutsch-völkischer Student. [II, 129]</ab>
          </div>
          <div type="anmerkung">
@@ -68,7 +68,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Die Verkaufte Frau“ [Ot. „No Other Woman“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1928]</date>

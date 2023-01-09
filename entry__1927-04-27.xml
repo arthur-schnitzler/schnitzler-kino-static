@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Il Cav. Petagna«, 1927-04-27, Venedig</title>
-            <title type="alternative" when-iso="1927-04-27"/>
+            <title type="alternative" when-iso="1927-04-27">Mittwoch, 27. April 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-04-27.html">
             <ab>27/4 Venedig. […] Mit Lili und Arn. bei Bonvecchiati genachtm.– Dann mit ihnen Kino (Ridotto) – il Cav. Petagna;– zu „Florian“.</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Il Cavalier Petagna“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1926]</date>

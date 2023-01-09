@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Wiener Mädl«, 1925-10-06, Wien</title>
-            <title type="alternative" when-iso="1925-10-06"/>
+            <title type="alternative" when-iso="1925-10-06">Dienstag, 06. Oktober 1925</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1925-10-06.html">
             <ab>6/10 […] – Hole C. P. Peregring. ab – heute ist sie dort wieder eingezogen. Kino (Wiener Mädl, Olaf Fönss);– […].</ab>
          </div>
          <div type="anmerkung">
@@ -66,7 +66,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Das Mädel aus Wien“ [Ot. „Wienerbarnet“]</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>

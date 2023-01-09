@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Sumpf Und Moral«, 1926-08-12, Bern</title>
-            <title type="alternative" when-iso="1926-08-12"/>
+            <title type="alternative" when-iso="1926-08-12">Donnerstag, 12. August 1926</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -57,7 +57,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
    </teiHeader>
    <text>
       <body>
-         <div type="as">
+         <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1926-08-12.html">
             <ab>12/8 Bern. […] Abend Spaziergang, Kino, „Sumpf und Moral“. […]</ab>
          </div>
          <div type="anmerkung">
@@ -65,7 +65,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          </div>
          <div type="film">
             <table type="movies">
-               <row xmlns="http://www.tei-c.org/ns/1.0">
+               <row>
                   <cell role="data" ana="Filmtitel">„Sumpf und Moral“</cell>
                   <cell role="data" ana="Jahr">
                      <date>[1925]</date>
