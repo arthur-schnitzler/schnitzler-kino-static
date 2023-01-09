@@ -25,7 +25,7 @@
                             style="background-image: url(img/teaser.jpg); background-size: 100%;">
                             <div class="carousel-caption"
                                 style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));position: static;">
-                                <h1>Schnitzler-Kino</h1>
+                                <h1>Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino</h1>
                                 <h2>Digitale Ausgabe</h2>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                         <div class="row">
                             <div class="col-md-8" style="margin: 0 auto; ">
                                 <p style="font-size:18px;line-heigth:27px;">Clara Katharina
-                                    Pollaczek (geb. Loeb, 1875–1951) war die zentrale Lebensgefährtin Arthur Schnitzlers 
+                                    Pollaczek (1875–1951) war die zentrale Lebensgefährtin Arthur Schnitzlers 
                                     in den letzten Lebensjahren. Beide waren schriftstellerisch 
                                     tätig, beide frönten der Kinoleidenschaft. Die vorliegende
                                     digitale Ausgabe ist eine erweiterte Fassung der Buchausgabe
@@ -47,9 +47,9 @@
                                     Filmerlebnis in den Jahren 1923–1931 wird so zum Angelpunkt von
                                     Literaturgeschichte, Kinogeschichte und Wiener
                                     Lokalgeschichte.</p>
-                                <p style="text-align: right;"><i>Stephan Kurz, Michael Rohrwasser und Daniel Schopper</i></p>
                                 <p/>
-                                <p><i>Digitale Ausgabe: Peter Andorfer, Martin Anton Müller, Laura Untner</i></p>
+                                <p>Buchausgabe 2012: <i>Stephan Kurz, Michael Rohrwasser unter Mitarbeit von Daniel Schopper</i></p>
+                                <p>Digitale Ausgabe 2023: <i>Peter Andorfer unter Mitarbeit von Martin Anton Müller und Laura Untner</i></p>
                             </div>
                         </div>
                     </div>
