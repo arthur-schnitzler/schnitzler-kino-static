@@ -90,12 +90,28 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <h2><a href=".//tei:div[@type='as']/@source" target="_blank">Schnitzler, Tagebuch:</a></h2>
-                                        <xsl:apply-templates select=".//tei:div[@type='as']"/>
+                                        <xsl:choose>
+                                            <xsl:when test="descendant::tei:div[@type='as']">
+                                                <h2><a href="{descendant::tei:div[@type='as']/@source}" target="_blank">Schnitzler, Tagebuch:</a></h2>
+                                                <xsl:apply-templates select=".//tei:div[@type='as']"/>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <h2><a href="{concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', ancestor::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/@when-iso, '.html')}" target="_blank">Schnitzler, Tagebuch:</a></h2>
+                                                <p><i>[kein diesbezüglicher Eintrag]</i></p>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
                                     </div>
                                     <div class="col-md-6">
-                                        <h2><a href=".//tei:div[@type='ckp']/@source" target="_blank">Pollaczek, Tagebuch:</a></h2>
-                                        <xsl:apply-templates select=".//tei:div[@type='ckp']"/>
+                                        <xsl:choose>
+                                            <xsl:when test="descendant::tei:div[@type='ckp']">
+                                                <h2><a href="{descendant::tei:div[@type='ckp']/@source}" target="_blank">Pollaczek, Tagebuch:</a></h2>
+                                                <xsl:apply-templates select=".//tei:div[@type='ckp']"/>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <h2>Pollaczek, Tagebuch:</h2>
+                                                <p><i>[kein diesbezüglicher Eintrag]</i></p>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
                                     </div>
                                 </div>
                                 
