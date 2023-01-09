@@ -89,10 +89,10 @@
                             </div>
                             <div class="card-body">
                                 <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-6" style="background: #f1f1f1">
                                         <xsl:choose>
                                             <xsl:when test="descendant::tei:div[@type='as']">
-                                                <h2><a href="{descendant::tei:div[@type='as']/@source}" target="_blank">Schnitzler, Tagebuch:</a></h2>
+                                                <h2><a href="{descendant::tei:div[@type='as']/@source}" target="_blank" style="color:#037A33">Schnitzler, Tagebuch:</a></h2>
                                                 <xsl:apply-templates select=".//tei:div[@type='as']"/>
                                             </xsl:when>
                                             <xsl:otherwise>
@@ -101,10 +101,10 @@
                                             </xsl:otherwise>
                                         </xsl:choose>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6" style="background: #f1f1f1">
                                         <xsl:choose>
                                             <xsl:when test="descendant::tei:div[@type='ckp']">
-                                                <h2><a href="{descendant::tei:div[@type='ckp']/@source}" target="_blank">Pollaczek, Tagebuch:</a></h2>
+                                                <h2><a href="{descendant::tei:div[@type='ckp']/@source}" target="_blank" style="color:#1e81b0">Pollaczek, Tagebuch:</a></h2>
                                                 <xsl:apply-templates select=".//tei:div[@type='ckp']"/>
                                             </xsl:when>
                                             <xsl:otherwise>
@@ -140,7 +140,7 @@
                                             </tr>
                                         </thead>
                                         <tbody>
-                                            <xsl:apply-templates select="descendant::tei:div[@type='film']/tei:table[tei:cell/@role='data']/tei:row"/>
+                                            <xsl:apply-templates select="descendant::tei:div[@type='film']/tei:table/tei:row[tei:cell/@role='data']"/>
                                         </tbody>
                                     </table>
                                 </xsl:if>
