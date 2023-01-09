@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1926-07-16.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1926-07-10.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1926-08-01.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Gösta Berling«, 1926-07-16, Wien</title>
+            <title type="alternative" when-iso="1926-07-16"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">301</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>16/7 […] Mit C. P. Kino (Gösta Berling). Mit ihr Churhauskeller.– Ihre Zeichnung.– Zweites Capitel ihres Romans.– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Schnitzler bezieht sich vermutlich auf diesen letzten gemeinsamen Kinobesuch vor seiner Reise nach Adelboden, wenn er am 1. August 1926 an Pollaczek schreibt: »Ein Maler sprach mich an… er möchte gern über ›Literatur‹ mit mir reden und eine Skizze von mir machen. Ich lehnte ab (höflicher als neulich im Kino gegenüber dem Autografenmädel) –« (CKP I, 317). Schnitzler reist am 27.7.1926 aus Wien ab. Am 29.7. trifft er sich mit seiner Familie in Adelboden. Pollaczek trifft – aus Zürich kommend – am 13.8. in Bern mit Schnitzler zusammen, die beiden verbringen gemeinsam einen Urlaub in der Schweiz (Bern, Zermatt, Interlaken, Luzern, siehe die folgenden Einträge), Pollaczek reist am 6.9. weiter nach Altaussee. Schnitzler trifft am 12.9. in Wien ein und ißt gleich wieder mit Pollaczek zu abend.
+Premierennotiz und Anzeige NFP 11.12.1925, S. 17. Robert Walser über den Film in: Hätte ich das Kino, S. 269f.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Gösta Berling“ [Ot. „Gösta Berlings saga“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>SWE</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Mauritz Stiller</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Selma Lagerlöf (Vorlage gleichnamiger Roman), [Mauritz Stiller, Ragnar Hyltén-Cavallius (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Svensk Filmindustri</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lars Hanson, Gerda [Lundequist], Hilda [Forsslund], Otto [Elg-]Lundberg, [Sixton] Malmerfelt, Karin [Swanström], Jenny [Hasselquist], Ellen [Hartmann-Cederström], [Torsten Hammarén, Greta Garbo] u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-787">
+               <persName>Elg-Lundberg, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/170412520</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-922">
+               <persName>Forsslund, Hilda</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-987">
+               <persName>Garbo, Greta</persName>
+               <idno type="GND">https://d-nb.info/gnd/118537571</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1185">
+               <persName>Hammarén, Torsten</persName>
+               <idno type="GND">https://d-nb.info/gnd/1246764016</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1192">
+               <persName>Hanson, Lars</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1213">
+               <persName>Hartmann-Cederström, Ellen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1246780380</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1220">
+               <persName>Hasselquist, Jenny</persName>
+               <idno type="GND">https://d-nb.info/gnd/141258721</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1354">
+               <persName>Hyltén-Cavallius, Ragnar</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061639169</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1579">
+               <persName>Lagerlöf, Selma</persName>
+               <idno type="GND">https://d-nb.info/gnd/118726005</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1742">
+               <persName>Lundequist, Gerda</persName>
+               <idno type="GND">https://d-nb.info/gnd/1237758769</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1792">
+               <persName>Malmerfelt, Sixton</persName>
+               <idno type="GND">https://d-nb.info/gnd/123188105</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2648">
+               <persName>Stiller, Mauritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/124994504</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2689">
+               <persName>Swanström, Karin</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061915026</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2867">
+               <persName>Walser, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/118628860</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_wirt__9" type="wirt">
+               <placeName>Meinl Churhaus-Restaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Stephansplatz 3, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

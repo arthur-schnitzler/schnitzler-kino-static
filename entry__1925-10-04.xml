@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1925-10-04.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1925-09-30.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1925-10-06.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Großstadtkavaliere«, 1925-10-04, Wien</title>
+            <title type="alternative" when-iso="1925-10-04"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">255</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>4/10 […] C. P. abgeholt; Kino (Großstadtkavaliere); Nachtmahlen bei Pohl […].– […].</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotiz und Anzeige NFP 11.9.1925, S. 20, unter dem ursprünglichen Titel »Das Warenhausmädel«.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Großstadtkavaliere“ („Das Warenhausmädel“ / „Die Kleine aus der Konfektion“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Wolfgang Neff]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Ruth Goetz]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Nivo-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Reinhold Schünzel, Carl Beckersachs, Henry Peters-[Arnolds], Evi Eva, Lilly Flohr, Margarete Kupfer, Olga Engl, Claire [Rommer] u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-188">
+               <persName>Beckersachs, Carl</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-804">
+               <persName>Engl, Olga</persName>
+               <idno type="GND">https://d-nb.info/gnd/116504110</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-825">
+               <persName>Eva, Evi</persName>
+               <idno type="GND">https://d-nb.info/gnd/106178925X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-905">
+               <persName>Flohr, Lilly</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062232801</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1053">
+               <persName>Goetz, Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/1147031363</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1568">
+               <persName>Kupfer, Margarete</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2018">
+               <persName>Neff, Wolfgang</persName>
+               <idno type="GND">https://d-nb.info/gnd/1164098349</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2155">
+               <persName>Peters-Arnolds, Henry</persName>
+               <idno type="GND">https://d-nb.info/gnd/106234569X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2371">
+               <persName>Rommer, Claire</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019375620</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2498">
+               <persName>Schünzel, Reinhold</persName>
+               <idno type="GND">https://d-nb.info/gnd/118892223</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

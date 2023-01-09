@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-02-10.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-02-04.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-02-11.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Meineidbauern«, 1927-02-10, Wien</title>
+            <title type="alternative" when-iso="1927-02-10"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">777</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>10/2 […] Allein ins Kino, um „Meineidbauer“, einen (schlechten) Film der Hegewald Firma zu sehn.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Meineidbauer“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Jakob] Fleck, [Louise] Fleck</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Ludwig Anzengruber (Vorlage Bühnenstück); [Siegfried Philippi]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Hegewald-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Eduard von Winterstein, Arthur Ranzenhofer, Fritz Hofbauer, Alfred Gerasch, Olaf Storm, Elisabeth Markus, Ingrid Peters[e]n, Gisela Günther</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-74">
+               <persName>Anzengruber, Ludwig</persName>
+               <idno type="GND">https://d-nb.info/gnd/11850357X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-897">
+               <persName>Fleck, Jakob</persName>
+               <idno type="GND">https://d-nb.info/gnd/1011893878</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-898">
+               <persName>Fleck, Louise</persName>
+               <idno type="GND">https://d-nb.info/gnd/116598271</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1018">
+               <persName>Gerasch, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/116564342</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1138">
+               <persName>Günther, Gisela</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1296">
+               <persName>Hofbauer, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1824">
+               <persName>Markus, Elisabeth</persName>
+               <idno type="GND">https://d-nb.info/gnd/1020954558</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2160">
+               <persName>Petersen, Ingrid</persName>
+               <idno type="GND">https://d-nb.info/gnd/1148689230</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2165">
+               <persName>Philippi, Siegfried</persName>
+               <idno type="GND">https://d-nb.info/gnd/102510367X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2271">
+               <persName>Ranzenhofer, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062106253</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2655">
+               <persName>Storm, Olaf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062011155</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2958">
+               <persName>Winterstein, Eduard von</persName>
+               <idno type="GND">https://d-nb.info/gnd/118633864</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

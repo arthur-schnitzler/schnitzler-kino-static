@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1930-09-12.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1930-09-07.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1930-09-14.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Ungleiche Moral«, 1930-09-12, Wien</title>
+            <title type="alternative" when-iso="1930-09-12"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">119</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>12/9 Früh. Dr. Hoffmann. Juridisches. Tonfilmangelegenheiten etc.– Allerlei enervantes.– […] – Abends mit C. P. Kino „Ungleiche Moral“ (Garbo) – bei der „Linde“ mit ihr genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>13.9. Gestern Abend Kino (Zweierlei Moral mit Greta Garbo), wundervoll.
+A. starrt wieder vor sich hin und an mir vorbei. 
+Heute Vormittag Schneiderin ein Herbstkleid bestellt. Otto zu Tisch, wie immer lieb und gut und erfrischend. Abschriften Corday durchgesehen. Ich <hi>glaube</hi> an dieses Stück. [III, 96]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Interessanterweise gibt es aus demselben Jahr einen Film mit dem Titel »Zweierlei Moral« (D 1930, Klangfilm GmbH. Regie: Gerhard Lamprecht). Da Greta Garbo eine der wenigen Darstellerinnen war, von denen sich Pollaczek (genauso wie Schnitzler) in ihren Notaten begeistert zeigt, scheint eine Namensverwechslung jedoch ausgeschlossen. Auch Schnitzler nennt die Darstellerin, allerdings lautet der Filmtitel bei ihm »Ungleiche Moral« (Tb 12.9.1930).
+Ankündigung NFP 29.8.1930, S. 10. Nachgewiesene Spielorte: Rotenturm- und Flieger-Kino sowie Tuchlauben Lichtspiele (NFP 12.9.1930, S. 17, und NZG 12.9.1930, S. 7).</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Gleiche Moral“ („The Single Standard“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>John S. Robertson</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Metro-Vitaphone-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Greta Garbo, Kathleen Williams, Dorothy Sebastian, Nils Asther, John Mac Brown, Fred Solm</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-102">
+               <persName>Asther, Nils</persName>
+               <idno type="GND">https://d-nb.info/gnd/118970240</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-390">
+               <persName>Brown, John Mac</persName>
+               <idno type="GND">https://d-nb.info/gnd/1116445514</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-567">
+               <persName>Corday, Charlotte</persName>
+               <idno type="GND">https://d-nb.info/gnd/118676881</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-987">
+               <persName>Garbo, Greta</persName>
+               <idno type="GND">https://d-nb.info/gnd/118537571</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1299">
+               <persName>Hoffmann, Dr.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1050486609</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1587">
+               <persName>Lamprecht, Gerhard</persName>
+               <idno type="GND">https://d-nb.info/gnd/116665483</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1705">
+               <persName>Loeb, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/126501343</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2354">
+               <persName>Robertson, John S.</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2509">
+               <persName>Sebastian, Dorothy</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2580">
+               <persName>Solm, Fred</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2947">
+               <persName>Williams, Kathleen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1141824701</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

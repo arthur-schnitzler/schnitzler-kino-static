@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1925-10-06.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1925-10-04.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1925-10-14.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Wiener Mädl«, 1925-10-06, Wien</title>
+            <title type="alternative" when-iso="1925-10-06"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">256</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>6/10 […] – Hole C. P. Peregring. ab – heute ist sie dort wieder eingezogen. Kino (Wiener Mädl, Olaf Fönss);– […].</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Peregring.«: Die Wohnung Pollaczeks in der Peregringasse 4, 2. Stock, war vermietet gewesen, weshalb sie ein Jahr lang im Hotel Regina (Wien 9., Freiheitsplatz 16) gewohnt hatte. 
+»Olaf Fönss« ist in den Quellen zum Film nicht nachgewiesen, allerdings kommt aufgrund der Kinoprogramme nur dieser Film in Frage. Premierennotiz und Anzeige NFP 2.10.1925, S. 20. Dort nachgewiesene Spielorte ab 6.10.1925: Wiedner Grand-, Bellaria- und Votivpark-Kino, Raimund- und Künstler-Lichtspiele. </ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Mädel aus Wien“ [Ot. „Wienerbarnet“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>DK</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>A. W. Sandberg</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Svend Rindom (Vorlage gleichnamiges Bühnenstück); [Sam Ask]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Nordiskfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gunnar [Tolnæs], Karina Bell, [Gerhard Jessen, Karen Caspersen, Martin Herzberg, Nils Asther, Mathilde Nielsen, Else Nielsen]</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-97">
+               <persName>Ask, Sam</persName>
+               <idno type="GND">https://d-nb.info/gnd/1154872092</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-102">
+               <persName>Asther, Nils</persName>
+               <idno type="GND">https://d-nb.info/gnd/118970240</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-206">
+               <persName>Bell, Karina</persName>
+               <idno type="GND">https://d-nb.info/gnd/141914335</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-481">
+               <persName>Caspersen, Karen</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1270">
+               <persName>Herzberg, Martin</persName>
+               <idno type="GND">https://d-nb.info/gnd/1112559868</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1396">
+               <persName>Jessen, Gerhard</persName>
+               <idno type="GND">https://d-nb.info/gnd/139577572</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2041">
+               <persName>Nielsen, Else</persName>
+               <idno type="GND">https://d-nb.info/gnd/137991177</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2042">
+               <persName>Nielsen, Mathilde</persName>
+               <idno type="GND">https://d-nb.info/gnd/1026705797</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2333">
+               <persName>Rindom, Svend</persName>
+               <idno type="GND">https://d-nb.info/gnd/141197455</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2427">
+               <persName>Sandberg, A. W.</persName>
+               <idno type="GND">https://d-nb.info/gnd/141914289</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2752">
+               <persName>Tolnæs, Gunnar</persName>
+               <idno type="GND">https://d-nb.info/gnd/141911581</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

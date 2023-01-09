@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1922-02-25.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1922-02-20.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1922-02-27.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Hintertreppe«, 1922-02-25, Wien</title>
+            <title type="alternative" when-iso="1922-02-25"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">667</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>25/2 […] Wir gingen dann ins Kino (Jessner „Hintertreppe“ bizarr, und doch banal; praetentiös).– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Hintertreppe“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>1921</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName/>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Leopold Jessner, Paul Leni</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Carl Mayer</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Henny Porten-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Henny Porten, Fritz Kortner, Wilhelm Dieterle</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-676">
+               <persName>Dieterle, Wilhelm</persName>
+               <idno type="GND">https://d-nb.info/gnd/119118432</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1397">
+               <persName>Jessner, Leopold</persName>
+               <idno type="GND">https://d-nb.info/gnd/118557491</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1543">
+               <persName>Kortner, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1645">
+               <persName>Leni, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/119369249</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2219">
+               <persName>Porten, Henny</persName>
+               <idno type="GND">https://d-nb.info/gnd/118817272</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

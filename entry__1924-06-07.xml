@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1924-06-07.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-05-31.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-06-13.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Versengte Flügel«, 1924-06-07, Wien</title>
+            <title type="alternative" when-iso="1924-06-07"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">184</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>7/6 […] Mit C. P. Kino („Versengte Flügel“).</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Der Film lief bereits im April im Eos-Kino (NFP 15.4.1924, S. 18).</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Versengte Flügel“ [Ot. „Singed Wings“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1922]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Penrhyn Stanlaws</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Katharine Newlin Burt (Vorlage gleichnamige Kurzgeschichte); Ewart Adamson, Edfrid A. Bingham (Adaption)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Famous Players-Lasky</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Conrad Nagel, Adolphe Menjou, Bébé Daniels, [Robert Brower, Ernest Torrence, Mabel Trunnelle]</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-15">
+               <persName>Adamson, Ewart</persName>
+               <idno type="GND">https://d-nb.info/gnd/101386266X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-279">
+               <persName>Bingham, Edfrid A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/174356315</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-388">
+               <persName>Brower, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/141417218</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-423">
+               <persName>Burt, Katharine Newlin</persName>
+               <idno type="GND">https://d-nb.info/gnd/1036332780</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-618">
+               <persName>Daniels, Bébé</persName>
+               <idno type="GND">https://d-nb.info/gnd/135402816</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1896">
+               <persName>Menjou, Adolphe</persName>
+               <idno type="GND">https://d-nb.info/gnd/140668217</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2008">
+               <persName>Nagel, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/1047127776</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2614">
+               <persName>Stanlaws, Penrhyn</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2758">
+               <persName>Torrence, Ernest</persName>
+               <idno type="GND">https://d-nb.info/gnd/173538924</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2775">
+               <persName>Trunnelle, Mabel</persName>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

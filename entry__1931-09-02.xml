@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1931-09-02.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-08-31.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-09-03.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Der Lächelnde Lieutenant«, 1931-09-02, Wien</title>
+            <title type="alternative" when-iso="1931-09-02"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">478</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>2/9 […] Mit C. P. Abends Kino „Der lächelnde Lieutenant“ (Walzertraum) mit Chevalier.– Meissl genachtm.– Mein Befinden recht labil.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Diese aus Wien bezogene Erotik und das in Paris gebürtige Lächeln: beide finden sich erst, nachdem sie ihrer Echtheit beraubt worden sind« (SK II, S. 540).
+Ankündigung NFP 25.8.1931, S. 9. Premierennotiz NFP 28.8.1931, S. 9, unter Angabe mehrerer Spielorte. Besprechung von Fritz Frankl in NFP 29.8.1931, S. 7. Nachgewiesene Spielorte: Imperial- und Opern-Kino sowie Kammerlichtspiele Schwarzenbergplatz (NFP 2.9.1931, S. 15).</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der lächelnde Leutnant“ (Ot. „The Smiling Lieutenant“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Ernst Lubitsch</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Johann Strauss, [Felix Dörmann, Leopold Jacobson] (Vorlage Operette „Ein Walzertraum“); Hans Müller (Vorlage Roman [„Nux der Prinzgemahl“]); [Ernest] Vajda, [Samson] Raphaelson</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount-Movietone-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Maurice Chevalier, Charlie Ruggles, George Barbier, Claudette Colbert, Miriam Hopkins u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-147">
+               <persName>Barbier, George</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-503">
+               <persName>Chevalier, Maurice</persName>
+               <idno type="GND">https://d-nb.info/gnd/118675761</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-531">
+               <persName>Colbert, Claudette</persName>
+               <idno type="GND">https://d-nb.info/gnd/130343234</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-699">
+               <persName>Dörmann, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/119020874</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-938">
+               <persName>Frankl, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1322">
+               <persName>Hopkins, Miriam</persName>
+               <idno type="GND">https://d-nb.info/gnd/103694851X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1372">
+               <persName>Jacobson, Leopold</persName>
+               <idno type="GND">https://d-nb.info/gnd/140091920</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1733">
+               <persName>Lubitsch, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118729306</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1981">
+               <persName>Müller, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/1140252038</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2272">
+               <persName>Raphaelson, Samson</persName>
+               <idno type="GND">https://d-nb.info/gnd/13746181X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2401">
+               <persName>Ruggles, Charlie</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062363493</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2662">
+               <persName>Strauss, Johann</persName>
+               <idno type="GND">https://d-nb.info/gnd/117290696</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2802">
+               <persName>Vajda, Ernest</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057283924</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1924-02-07.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-01-28.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-02-12.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Brennende Kugel«, 1924-02-07, Wien</title>
+            <title type="alternative" when-iso="1924-02-07"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">165</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>7/2 […] Mit C. P. Kino (brennende Kugel), bei ihr genachtm. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Kurzkritik in „Die Filmwelt“, Jg. 1924, Nr. 5/6, S. 2. Besprechung von –e. NFP 1.2.1924, S. 16: „Ein Film, der zwar nicht besonders hoch hinaus will, der aber in seiner Art – es ist eben ein Zirkusfilm – sehr gut ist und von dem man lobend anmerken muß, daß sich der Zuschauer ausgezeichnet unterhält. Eine Fülle von Humor ist über dieses bescheidene Werk, das als sehr guter Mittelfilm angesprochen werden will, ausgegossen.“ Nachgewiesene Spielorte lt. Kinoprogramm der RPT vom 7.2.1924, S. 14 „Palast-Kino, VIII. Josefstädterstr. 43 […], Flieger-Kino […] Sensations-Zirkusdrama in 6 Akten mit Alfred Galaor“.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Brennende Kugel“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Otto Rippert</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Rolf E. Vanloo]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Phöbus-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Rudolf Lettinger, Carl Auen, Friedrich Kühne, Camilla von Hollay, Käthe Haack, Alfred Galaor</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-110">
+               <persName>Auen, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/116376805</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-978">
+               <persName>Galaor, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057048461</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1152">
+               <persName>Haack, Käthe</persName>
+               <idno type="GND">https://d-nb.info/gnd/118543997</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1312">
+               <persName>Hollay, Camilla von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061701883</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1566">
+               <persName>Kühne, Friedrich</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1658">
+               <persName>Lettinger, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/11695633X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2337">
+               <persName>Rippert, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062445198</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2811">
+               <persName>Vanloo, Rolf E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013990633</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

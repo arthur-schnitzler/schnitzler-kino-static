@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1923-11-28.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1923-11-26.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1923-11-30.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Polikuschka«, 1923-11-28, Wien</title>
+            <title type="alternative" when-iso="1923-11-28"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">153</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>28/11 […] C. P. bei mir, nachher mit ihr Kino (Polikuschka). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Der Regisseur A. Ssanin hat, als er diese ganz anspruchslose Handlung der Bearbeitung für den Film unterzog, ein verdienstvolles Werk geleistet. In ›Polikuschka‹ ersteht das russische Dorf und die Kleinstadt vor uns. Keine gemachten Aufnahmen, nirgends ›Bühne‹, überall Leben in jeder Form. Wir lernen Menschen kennen, von denen wir noch nichts wußten, wir sehen wie sie denken, fühlen und wie sie – leiden. (Ferdinand Kaska: Russische Filmkunst. Zur Erstaufführung von »Polikuschka«. In: Filmwelt 1923, Nr. 25, S. 6). Dort auch für den Zeitraum von 27.–29.11. folgende Spielorte: Schwarzenberg-Kino, Flotten-Kino, Flieger-Kino. – Das Publikum reagierte offenbar eher unwillig: »Ich habe ›Polikuschka‹ gesehen. Das Kino war kaum – kaum halb voll. Und welche Wirkung hat dieser Film auf mich ausgeübt! »Polikuschka!« Ich habe einen anderen Film gesehen, ich weiß nicht mehr, wie er geheißen hat. Etwa: ›Wie werde ich …‹, ›Frauenkörper…‹ oder – aber der Titel tut nichts, jedenfalls war das Kino überfüllt. Eigentlich muß ich mich jetzt schon korrigieren, denn der Titel tut schon etwas, er zieht und das Publikum strömt! Das ist die Hauptsache. Die enttäuschten Gesichter nach so einer Vorstellung – die söhnen mich aus. Da haben die meisten erwartet, etwas Nacktes zu sehen oder sonst etwas ›Schönes‹ – aber es war weder nackt, noch war es schön! Aber ›Polikuschka!‹ Ja, wenn es heißt Alkohol – oder Prostitution oder gar beides in seiner Wechselwirkung – dann laufen sie hinein. Aber Polikuschka! Wer kennt Polikuschka?! Eher noch ›Nanuk!‹ So einen berühmten Eskimo muß man gesehen haben – aber Polikuschka! Was kümmert sich das Publikum um so einen armen russischen Bauern!« (H. K. Breslauer: Unverständnis. Gedanken und Gefühltes über ›Polikuschka‹. In: Filmwelt, Jg. 1923, Nr. 27, S. 6).</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Polikuschka“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>UdSSR</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Alexander Ssanin</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Leo Tolstoi (Vorlage gleichnamige Erzählung)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Russ.Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Iwan Moskwin, E. Rajewskaja, Warwara Bulgakowa, S. Aidarow, S. Golowin, A. Istomin, W. Paschvskaja, W. Masalstinov</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-21">
+               <persName>Aidarow, S.</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-370">
+               <persName>Breslauer, H. K.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119203278</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-410">
+               <persName>Bulgakowa, Warwara</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061699749</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1062">
+               <persName>Golowin, S.</persName>
+               <idno type="GND">https://d-nb.info/gnd/118166786</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1367">
+               <persName>Istomin, A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1052153224</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1456">
+               <persName>Kaska, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/118625543</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1842">
+               <persName>Masalstinov, W.</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1975">
+               <persName>Moskwin, Iwan</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2129">
+               <persName>Paschvskaja, W.</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2258">
+               <persName>Rajewskaja, E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/105637229X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2607">
+               <persName>Ssanin, Alexander</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2754">
+               <persName>Tolstoi, Leo</persName>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

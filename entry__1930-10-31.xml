@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1930-10-31.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1930-10-29.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1930-11-07.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»„sahara“film«, 1930-10-31, Wien</title>
+            <title type="alternative" when-iso="1930-10-31"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">128</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>31/10 […] – ich mit C. P. Ufa Kino „Sahara“film und andres.– In die „Linde“. </ab>
+         </div>
+         <div type="ckp">
+            <ab>31.10. Mit A. im Kino. Sehr langweiliger Film und der ganze Abend trübselig. [III, 107]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„Ein trefflicher Gedanke: die Vertreibung der Langeweile mit Hilfe der Fabel. Nur leider ist hier die Fabel so hilflos geraten, daß sie auf Dauer langweiliger wirkt als die Kulturbilder, die ausgezeichnet sind“ (SK II, S. 366). 
+Besprechung von Philipp Winter in NFP 4.11.1930, S. 10. Spielort bestätigt NZG 31.10.1930, S. 7.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Am Rande der Sahara“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Natur</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Martin Rikli, Rudolf Biebrach</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Harry Frank, Fritz Spira, Erich Kestin, Rudolf Biebrach, Leni Sponholz</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-272">
+               <persName>Biebrach, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/143974416</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-936">
+               <persName>Frank, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/125270305</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1488">
+               <persName>Kestin, Erich</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031392181</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2328">
+               <persName>Rikli, Martin</persName>
+               <idno type="GND">https://d-nb.info/gnd/120587971</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2602">
+               <persName>Spira, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2604">
+               <persName>Sponholz, Leni</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062226933</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2957">
+               <persName>Winter, Philipp</persName>
+               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__8" type="kino">
+               <placeName>Zentralkino / Ufa-Ton-Kino</placeName>
+               <location>
+                  <address>
+                     <addrLine>02., Taborstraße 8</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 1916. Umbenennung 1929. Tonfilm ab 1929.  Fassungsraum: Ehemalige Singspielhalle, Galerie. 1922: insgesamt 1008 Sitzplätze (davon 110 Logenplätze), 1923: 984 (128). – Schwarz 1992, S. 208 nennt außerdem noch ein „Wiedner Zentralkino“, 04., Favoritenplatz 5.</note>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

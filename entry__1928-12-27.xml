@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1928-12-27.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-12-15.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1929-01-09.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Ungar. Rhapsodie«, 1928-12-27, Berlin</title>
+            <title type="alternative" when-iso="1928-12-27"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">818</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>27/12 Ankunft Berlin. […] Mit Arnoldo Kino: Ungar. Rhapsodie (gut); […]
+
+[AS an CP am 28.12.1928:]
+[…] um ½7 holt mich A.; – in ein ziemlich fern gelegenes Kino, fast unbekannt, aber besonders hübsch; – Ungarische Rhapsodie; vorzüglich – das Ende albern, wegen des dringenden „Happy“ – – dann entdeckte ich (durch Vermittlung eines der Espl.-Direktoren) ein angenehmes stilles Alt-Berliner Restaurant an der Po[ts]damer Brücke (also recht nah) wo ich mit Arnoldo nachtmahlte. – […] [II, 174]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Ungarische Rhapsodie“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Hanns Schwarz</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Joe May, Hans Székely]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Willy Fritsch, Fritz Greiner, Erich Kaiser-Titz, Harry Hardt, Andor Heltai, Dita Parlo, Lil Dagover</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-242">
+               <persName>Bergner, Elisabeth</persName>
+               <idno type="GND">https://d-nb.info/gnd/11850956X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-450">
+               <persName>Cappellini, Arnoldo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-611">
+               <persName>Dagover, Lil</persName>
+               <idno type="GND">https://d-nb.info/gnd/118523309</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-956">
+               <persName>Fritsch, Willy</persName>
+               <idno type="GND">https://d-nb.info/gnd/118955160</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1107">
+               <persName>Greiner, Fritz</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1197">
+               <persName>Hardt, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1250">
+               <persName>Heltai, Andor</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062245555</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1431">
+               <persName>Kahane, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/116017538</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1439">
+               <persName>Kaiser-Titz, Erich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116028769</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1858">
+               <persName>May, Joe</persName>
+               <idno type="GND">https://d-nb.info/gnd/119002361</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2125">
+               <persName>Parlo, Dita</persName>
+               <idno type="GND">https://d-nb.info/gnd/1014815126</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2502">
+               <persName>Schwarz, Hanns</persName>
+               <idno type="GND">https://d-nb.info/gnd/138875057</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2695">
+               <persName>Székely, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/129820016</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Berlin</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1926-04-10.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1926-04-06.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1926-04-12.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Der Schwarze Engel«, 1926-04-10, Wien</title>
+            <title type="alternative" when-iso="1926-04-10"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">284</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>10/4 […] Mit C. P. Kino („Colosseum“, der schwarze Engel).– Bei ihr genachtm.– […] – Unglaublich das Benehmen der Filmleute (Glück etc.) – die nun, nachdem die Sache so gut wie finalisirt – nichts von sich hören lassen.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»die Sache«: Verfilmung von »Freiwild«
+Premierennotiz, Anzeige und Besprechung NFP 26.3.1926, S. 17.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Schwarze Engel“ („The dark Angel“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>George Fitzmaurice</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Frances Marion</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>First Nationalfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Ronald Colman, Vilma Bánky, Wyndham Standing, Frank Elliott, Charles Lane, Helen Jerome Eddy, Florence Turner, George Bunny, Roger Byrne, Albert Schaefer</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-144">
+               <persName>Banky, Vilma</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031195645</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-416">
+               <persName>Bunny, George</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-436">
+               <persName>Byrne, Roger</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-542">
+               <persName>Colman, Ronald</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-757">
+               <persName>Eddy, Helen Jerome</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-789">
+               <persName>Elliott, Frank</persName>
+               <idno type="GND">https://d-nb.info/gnd/1236384547</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-893">
+               <persName>Fitzmaurice, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/139520767</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1595">
+               <persName>Lane, Charles</persName>
+               <idno type="GND">https://d-nb.info/gnd/1082528900</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1816">
+               <persName>Marion, Frances</persName>
+               <idno type="GND">https://d-nb.info/gnd/119542080</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2439">
+               <persName>Schaefer, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1015548989</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2612">
+               <persName>Standing, Wyndham</persName>
+               <idno type="GND">https://d-nb.info/gnd/1222290375</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2787">
+               <persName>Turner, Florence</persName>
+               <idno type="GND">https://d-nb.info/gnd/173700063</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__7" type="kino">
+               <placeName>Kolosseum</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Nußdorferstraße 4</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 1925. Tonfilm ab 1929. Fassungsraum: 1926: 688 Sitzplätze (davon 188 Logenplätze).</note>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

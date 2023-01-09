@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1931-03-08.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-03-02.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-03-11.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Ihre Majestät Die Liebe«, 1931-03-08, Wien</title>
+            <title type="alternative" when-iso="1931-03-08"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">69</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>8/3 […] Mit C. P. ins Lustspielth.;– ein Kinostück „Ihre Majestät die Liebe“, dann mit ihr Eisvogel genachtm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>8.3.1931. Vormittag mit A. bei Carry. Julius kam einen Augenblick herein, sprach nicht ein Wort zu mir und ging nach zwei Minuten mit seinem Bruder fort. Carrys Befinden trotz neuer Therapie ganz dasselbe. Chinin-Tropfenclysma. Temperatur Nachmittag 39.2.
+Abend mit A. im Kino (der darauf bestand), dann in einem Beisel genachtmahlt. Meine Stimmung trostlos, Kälte und Schnee anhaltend. [III, 156]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Julius«: Julius Schnitzler. – »der darauf bestand«: Einen Kinobesuch am Tag darauf lehnt Pollaczek ab: »A. wollte wieder ins Kino, aber ich bat ihn lieber zuhause bleiben zu dürfen« (CKP III, 156).
+„ein Schwank aus der Fabrik von Bernauer, Oesterreicher usw.“ (SK II, S. 442). Ankündigung NFP 17.2.1931, S. 9. Notiz NFP 20.2.1931, S. 12. Premierennotiz NFP 24.2.1931, S. 9, für 25.3.1931 mit zwei weiteren Spielorten. Besprechung von –nd– in NFP 27.2.1931, S. 17. Spielort nachgewiesen laut Kinoprogramm NFP 8.3.1931, S. 51.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Ihre Majestät die Liebe“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Joe May</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Rudolf] Bernauer, [Rudolf] Österreicher, [Adolf] Lantz</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>May-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Käthe von Nagy, [Gretl] Theimer, Alexandra Schmitt, Franz Lederer, Adele Sandrock, Szöke Szakall, Ralph [Arthur] Roberts, Kurt Gerron, Walter Steinbeck, Tibor von Halmay, Ferdinand von Alten u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-53">
+               <persName>Alten, Ferdinand von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031504273</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-253">
+               <persName>Bernauer, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/118656295</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1023">
+               <persName>Gerron, Kurt</persName>
+               <idno type="GND">https://d-nb.info/gnd/119075571</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1179">
+               <persName>Halmay, Tibor von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062403908</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1608">
+               <persName>Lantz, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1275649637</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1620">
+               <persName>Lederer, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/130217492</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1858">
+               <persName>May, Joe</persName>
+               <idno type="GND">https://d-nb.info/gnd/119002361</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2009">
+               <persName>Nagy, Käthe von</persName>
+               <idno type="GND">https://d-nb.info/gnd/132694425</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2090">
+               <persName>Österreicher, Rudolf</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2204">
+               <persName>Pollaczek, Karl Friedrich</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2351">
+               <persName>Roberts, Ralph Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/119046334</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2428">
+               <persName>Sandrock, Adele</persName>
+               <idno type="GND">https://d-nb.info/gnd/118605429</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2461">
+               <persName>Schmitt, Alexandra</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2470">
+               <persName>Schnitzler, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848693</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2631">
+               <persName>Steinbeck, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/1209596261</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2693">
+               <persName>Szakall, Szöke</persName>
+               <idno type="GND">https://d-nb.info/gnd/1238738621</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2729">
+               <persName>Theimer, Gretl</persName>
+               <idno type="GND">https://d-nb.info/gnd/134571207</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__1" type="kino">
+               <placeName>Lustspieltheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>02., Prater</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 1927. Tonfilm ab 1929
+Fassungsraum: ehemaliges Theater, 3 Ränge. 1927: 1065 Sitzplätze.</note>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

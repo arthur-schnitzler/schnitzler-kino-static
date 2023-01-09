@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1924-01-21.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-01-14.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-01-23.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»„frau Mit Den Millionen“ I«, 1924-01-21, Wien</title>
+            <title type="alternative" when-iso="1924-01-21"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">161</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>21/1 […] Mit C. P. Bürgerkino („Frau mit den Millionen“ I).
+– Las eine sehr begabte Novelle von C. P.’s Schwester; „Marquise von Fontenoy“.– </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»C. P.’s Schwester«: Anna Epstein. Die Novelle ist nicht überliefert. 
+Besprechung von –e. in NFP 18.1.1924, S. 19. NFP, 11.1.1924, S. 17, gibt von 18.–21.1.1924 das Währinger Bürgerkino als Spielort an.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Frau mit den Millionen“ (1.Teil: „Der Schuß in der Pariser Oper“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1922/23]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Willi Wolff</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Willi Wolff, Paul Merzbach]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ellen Richter-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Ellen Richter, Georg Alexander, Hugo Flink, Eduard von Winterstein, Karl [Huszar-Puffy], Anton Pointner, [Adolf Klein], Arthur Bergen, Leonhard Haskel, [Muhsin Ertugrul], Hermann Picha</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-39">
+               <persName>Alexander, Georg</persName>
+               <idno type="GND">https://d-nb.info/gnd/101137823X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-231">
+               <persName>Bergen, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/116130091</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-811">
+               <persName>Epstein, Anna</persName>
+               <idno type="GND">https://d-nb.info/gnd/14325717X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-819">
+               <persName>Ertugrul, Muhsin</persName>
+               <idno type="GND">https://d-nb.info/gnd/118899317</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-904">
+               <persName>Flink, Hugo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061929264</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1219">
+               <persName>Haskel, Leonhard</persName>
+               <idno type="GND">https://d-nb.info/gnd/126270937</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1351">
+               <persName>Huszar-Puffy, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1136430121</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1505">
+               <persName>Klein, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/116210877</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1902">
+               <persName>Merzbach, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/127743871</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2167">
+               <persName>Picha, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116177578</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2193">
+               <persName>Pointner, Anton</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2321">
+               <persName>Richter, Ellen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1018049827</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2958">
+               <persName>Winterstein, Eduard von</persName>
+               <idno type="GND">https://d-nb.info/gnd/118633864</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2973">
+               <persName>Wolff, Willi</persName>
+               <idno type="GND">https://d-nb.info/gnd/1018050035</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__40" type="kino">
+               <placeName>Währinger Bürgertheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Gentzgasse 119</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 8.11.1912. Tonfilm ab 1930. Fassungsraum: 1914: 311 Sitzplätze (davon 20 Logenplätze), 1922: 335 (unbek.), 1934: 345 (28). – Schnitzler notiert (mit in einer einzigen Ausnahme am 15.9.1928) nur sehr allgemein Besuche in einem nicht näher bestimmten „Bürger“-Kino, daher kommen theoretisch auch zahlreiche andere Lokalitäten in Frage; Kinos mit diesem Namen bestehen unter anderem im 3. (vgl. Schwarz 1992, S. 202f.), 4. (vgl. Schwarz 1992, S. 210), 5. (siehe Eintrag unten) oder 7. Bezirk (vgl. Schwarz 1992, S. 228). Jedoch belegen die Kinoprogramme von Tageszeitungen oder Filmzeitschriften an mindestens vier Tagen die Aufführung des bei Schnitzler protokollierten Films im unweit von dessen Wohnung gelegenen „Währinger Bürgertheater“, was die Annahme erlaubt, dass es sich bei den gleichlautend notierten Ortsangaben ebenfalls um dieses Kino handelt.</note>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

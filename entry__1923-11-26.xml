@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1923-11-26.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1923-11-23.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1923-11-28.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Alles Ums Geld«, 1923-11-26, Wien</title>
+            <title type="alternative" when-iso="1923-11-26"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">719</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>26/11 […] Im Kino.– (Jannings in Alles ums Geld.) […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Alles für Geld“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>1923</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName/>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Reinhold Schünzel</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hanns Kräly, Rudolf Stratz</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Emil Jannings-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Emil Jannings, Walter Rilla, Curt Goetz</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-1052">
+               <persName>Goetz, Curt</persName>
+               <idno type="GND">https://d-nb.info/gnd/11674023X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1379">
+               <persName>Jannings, Emil</persName>
+               <idno type="GND">https://d-nb.info/gnd/118556932</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1549">
+               <persName>Kräly, Hanns</persName>
+               <idno type="GND">https://d-nb.info/gnd/126335443</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1943">
+               <persName>Molière (Jean-Baptiste Poquelin)</persName>
+               <idno type="GND">https://d-nb.info/gnd/11858331X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2329">
+               <persName>Rilla, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/116547979</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2498">
+               <persName>Schünzel, Reinhold</persName>
+               <idno type="GND">https://d-nb.info/gnd/118892223</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2659">
+               <persName>Stratz, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/117309087</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

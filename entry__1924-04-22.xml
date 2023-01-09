@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1924-04-22.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-04-20.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-04-26.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Das Alte Gesetz«, 1924-04-22, Wien</title>
+            <title type="alternative" when-iso="1924-04-22"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">176</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>22/4 […] Im Kino mit C. P. (Das alte Gesetz).– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Kritik in Filmwelt, Jg. 1924, Nr. 9, S. 4f., Kurzkritik in Nr. 10/11, S. 12. An anderer Stelle (Jg. 1923, Nr. 16, S. 14) wird erwähnt, daß für die Aufnahmen der Zuschauerraum und die Außenfront des alten Burgtheaters am Michaelerplatz »mit der angrenzenden Hofburg und dem berühmten ehemaligen Künstlercafé Griensteidl« im Studio nachgebaut wurden. Offenbar bezieht sich auch Roda Roda in einem Artikel für dieselbe Illustrierte (Jg. 1923, Nr. 13, S. 5f.) auf die aufwendige Ausstattung des Films. Besprechung von R. St. in NFP 29.2.1924, S. 24.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Alte Gesetz“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date/>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>E. A. Dupont</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Comedianfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Ernst Deutsch, Abraham Morewsky, Robert Garrison, Hermann Vallentin, Jakob Tiedtke, Margarethe Schlegel, Grete Berger, Henny Porten, Ruth Weyher, Alice Hechy, Olga Limburg</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-236">
+               <persName>Berger, Grete</persName>
+               <idno type="GND">https://d-nb.info/gnd/116131519</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-670">
+               <persName>Deutsch, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118678019</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-730">
+               <persName>Dupont, E. A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119061872</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-996">
+               <persName>Garrison, Robert</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1234">
+               <persName>Hechy, Alice</persName>
+               <idno type="GND">https://d-nb.info/gnd/1038141079</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1676">
+               <persName>Limburg, Olga</persName>
+               <idno type="GND">https://d-nb.info/gnd/117007145</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1963">
+               <persName>Morewsky, Abraham</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061599213</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2219">
+               <persName>Porten, Henny</persName>
+               <idno type="GND">https://d-nb.info/gnd/118817272</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2362">
+               <persName>Roda-Roda, Alexander</persName>
+               <idno type="GND">https://d-nb.info/gnd/11874562X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2453">
+               <persName>Schlegel, Margarethe</persName>
+               <idno type="GND">https://d-nb.info/gnd/1140451758</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2746">
+               <persName>Tiedtke, Jakob</persName>
+               <idno type="GND">https://d-nb.info/gnd/117377066</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2807">
+               <persName>Vallentin, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/117341606</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2924">
+               <persName>Weyher, Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/1138037524</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

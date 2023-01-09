@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1931-03-13.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-03-11.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-03-17.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Grock«, 1931-03-13, Wien</title>
+            <title type="alternative" when-iso="1931-03-13"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">474</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>13/3 […] Mit C. P. Kino, „Grock“.– C. P. nachtm. bei mir.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Ich habe selten etwas Läppischeres gesehen« (SK II, S. 467). Ankündigungen NFP 17.2.1931, S. 9, NFP 20.2.1931, S. 12, und NFP 24.2.1931, S. 10. Anzeige NFP 6.3.1931, S. 11. Premierennotiz NFP 10.3.1931, S. 13, für Gartenbau-, Kolosseum- und Stafa-Kino, dieselben Spielorte nachgewiesen NFP 13.3.1931, S. 20. Besprechung von L. HM. in NFP 11.3.1931, S. 11.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Grock“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Carl Boese</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Eduard] Behrens, Grock</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Siegel-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Grock, Max van Embden, Harry Hardt, Liane Haid, Betty Bird, Paul Hörbiger, Julius von Szöreghi, Julius Falkenstein</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-200">
+               <persName>Behrens, Eduard</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-280">
+               <persName>Bird, Betty</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062280075</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-310">
+               <persName>Boese, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/12341055X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-797">
+               <persName>Embden, Max van</persName>
+               <idno type="GND">https://d-nb.info/gnd/118530119</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-842">
+               <persName>Falkenstein, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1122">
+               <persName>Grock</persName>
+               <idno type="GND">https://d-nb.info/gnd/119035480</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1163">
+               <persName>Haid, Liane</persName>
+               <idno type="GND">https://d-nb.info/gnd/13544697X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1197">
+               <persName>Hardt, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062254384</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1327">
+               <persName>Hörbiger, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/118552155</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2697">
+               <persName>Szöreghi, Julius von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061649415</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2923">
+               <persName>Wettach, Karl Adrien (Grock)</persName>
+               <idno type="GND">https://d-nb.info/gnd/119035480</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

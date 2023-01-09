@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1928-05-15.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-05-11.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-05-17.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Der Chinesische Papagei«, 1928-05-15, Wien</title>
+            <title type="alternative" when-iso="1928-05-15"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">10</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>15/5 […] Hole C. P. ab („der junge Aar“, mit der Kallina, den ich sehen wollte, war abgesagt) – Kino Busch im Prater, woselbst einige amerik. Possen und ein Film der chinesische Papagei (von besondrer Albernheit) herabgehetzt wurden. […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>15.5. Wundervoller, erster wirklicher Frühlingstag. Vormittag bei ihm, dann Autofahrt nach Mödling über Purkersdorf, Heiligenkreuz, Gaden. Mittagmahl bei Hayek in der Brühl. Fröhlichste Stimmung. Am Abend Kino und Nachtmahl im Prater (Prohaska). Dieser Tag wie ein kostbares Geschenk. Gott schütze ihn und erhalte ihn mir so wie er heute war. [II, 122]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>„um die glückliche Auflösung braucht niemand bange zu sein“ (SK I, S. 422). Ankündigung NFP 11.5.1928, S. 18. Besprechung von Felix Cleve in NFP 13.5.1928, S. 18.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Chinesische Papagei“ (Ot. „The Chinese Parrot“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Paul Leni</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Earl Derr Biggers (Vorlage gleichnamige Novelle); J. Grubb Alexander (Adaption und Drehbuch); Walter Anthony (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Universal-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">[Edward] Burns, Hobart Bosworth, Albert Conti, [Marian] Nixon u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-40">
+               <persName>Alexander, J. Grubb</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061752038</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-71">
+               <persName>Anthony, Walter</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-274">
+               <persName>Biggers, Earl Derr</persName>
+               <idno type="GND">https://d-nb.info/gnd/122076524</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-330">
+               <persName>Bosworth, Hobart</persName>
+               <idno type="GND">https://d-nb.info/gnd/121611529X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-421">
+               <persName>Burns, Edward</persName>
+               <idno type="GND">https://d-nb.info/gnd/119519720</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-555">
+               <persName>Conti, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062155017</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1645">
+               <persName>Leni, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/119369249</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2050">
+               <persName>Nixon, Marian</persName>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__41" type="kino">
+               <placeName>Zirkus Busch Kino</placeName>
+               <location>
+                  <address>
+                     <addrLine>02., Ausstellungsstraße 145</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 1920. Tonfilm ab November 1929. Fassungsraum: In drei Etagen. 1922: insgesamt 1767 Sitzplätze.</note>
+            </place>
+            <place xml:id="ask_wirt__6" type="wirt">
+               <placeName>Prochaska</placeName>
+               <location>
+                  <address>
+                     <addrLine>Prater 37, 2.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

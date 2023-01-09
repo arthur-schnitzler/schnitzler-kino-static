@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1931-04-23.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-04-19.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-05-01.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Sturm Im Wasserglas«, 1931-04-23, Wien</title>
+            <title type="alternative" when-iso="1931-04-23"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">84</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>23/4 […] Mit C. P. Michelbeuern-Kino Sturm im Wasserglas (Niese) zu Haus allein genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>23.4. Die Ehe Ruth-Heini scheint schon erledigt zu sein, Heini hat seinem Vater geschrieben, also genau das getan, was ich durch Dr. D., (der sich nicht meldet) verhüten lassen wollte.
+Abend mit A. Kino bei „Sturm im Wasserglas“. Er ist nervös, unfreundlich. Wir gingen dann Jeder für sich nachhause nachtmahlen. Er begleitete mich bis zu meiner Tür (zu Fuss), obwohl ich noch hinke nahm er nicht einmal meinen Arm. Mir ist oft, als müsse ich auf und davon. [III, 165]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Notiz NFP 25.2.1931, S. 11. Premierennotiz NFP 27.2.1931, S. 14. Notiz NFP 3.3.1931, S. 11, mit Ankündigung für Mitte März. Premierennotiz NFP 10.3.1931, S. 13 für 14.3.1931.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Sturm im Wasserglas“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1931]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>Ö</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Georg Jacoby</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Bruno Frank (Vorlage Bühnenstück); [Walter] Wassermann, [Walter] Schlee, Felix Salten (Dialog)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Sascha-Tobis</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Hansi Niese, Renate Müller, Grete Maren, Harald Paulsen, Paul Otto, Herbert Hübner, Otto Tressler, Oskar Sabo</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-695">
+               <persName>Donath, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-934">
+               <persName>Frank, Bruno</persName>
+               <idno type="GND">https://d-nb.info/gnd/1271984091</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1340">
+               <persName>Hübner, Herbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/117045128</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1373">
+               <persName>Jacoby, Georg</persName>
+               <idno type="GND">https://d-nb.info/gnd/1243843225</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1811">
+               <persName>Maren, Grete</persName>
+               <idno type="GND">https://d-nb.info/gnd/106131877X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1983">
+               <persName>Müller, Renate</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2044">
+               <persName>Niese, Hansi</persName>
+               <idno type="GND">https://d-nb.info/gnd/117016705</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2093">
+               <persName>Otto, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/1016966490</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2139">
+               <persName>Paulsen, Harald</persName>
+               <idno type="GND">https://d-nb.info/gnd/116065796</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2414">
+               <persName>Sabo, Oskar</persName>
+               <idno type="GND">https://d-nb.info/gnd/126563608</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2422">
+               <persName>Salten, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/118840819</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2452">
+               <persName>Schlee, Walter</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2473">
+               <persName>Albu, Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/130068101</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2767">
+               <persName>Tressler, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/117414719</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2888">
+               <persName>Wassermann, Walter</persName>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__52" type="kino">
+               <placeName>Michelbeuerntheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Kreuzgasse 27</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 1919. Tonfilm: 1931. Fassungsraum: 1922: 558 Sitzplätze (davon 38 Logenplätze), 1934: 576 (32).</note>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

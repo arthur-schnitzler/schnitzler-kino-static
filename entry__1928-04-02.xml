@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1928-04-02.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-03-31.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-04-03.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Grobes Hemd«, 1928-04-02, Wien</title>
+            <title type="alternative" when-iso="1928-04-02"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">395</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>2/4 […] Mit C. P. Kino „grobes Hemd“ –, im silb. Brunnen genachtm. </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Ankündigung NFP 16.3.1928, S. 27 (nennt den 20.3.1928 als Datum der WrEA, das in der darauffolgenden Woche auf 30.3.1928 korrigiert wird). </ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Grobe Hemd“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>Ö</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fritz Kaufmann</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Carl] Karlweis (Vorlage gleichnamiges Bühnenstück); [Max Neufeld, Leopold Krenn]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Allianz-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Alphons Fryland, Wolf Albach-Retty, Fritz Alberti, Cornelius Kirschner, Viktor Franz, Ruth Weyher, Greta Graal, Mizzi Griebl</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-25">
+               <persName>Albach-Retty, Wolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/130067989</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-28">
+               <persName>Alberti, Fritz</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-942">
+               <persName>Franz, Viktor</persName>
+               <idno type="GND">https://d-nb.info/gnd/1169446108</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-965">
+               <persName>Fryland, Alphons</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019855827</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1080">
+               <persName>Graal, Greta</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061621588</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1116">
+               <persName>Griebl, Mizzi</persName>
+               <idno type="GND">https://d-nb.info/gnd/1036993019</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1451">
+               <persName>Karlweis, Carl</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1460">
+               <persName>Kaufmann, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1498">
+               <persName>Kirschner, Cornelius</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013341112</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1557">
+               <persName>Krenn, Leopold</persName>
+               <idno type="GND">https://d-nb.info/gnd/131403850</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2028">
+               <persName>Neufeld, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/136366236</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2924">
+               <persName>Weyher, Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/1138037524</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

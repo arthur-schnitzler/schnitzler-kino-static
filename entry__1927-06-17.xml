@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-06-17.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-06-13.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-06-22.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Tragödie Einer Ehe«, 1927-06-17, Wien</title>
+            <title type="alternative" when-iso="1927-06-17"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">345</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>17/6 […] Mit C. P. Kino Tragödie einer Ehe (Abel); dann mit ihr Schweizerhaus, und Wurstelprater zurück.– „Tanagratheater“; liess mich „hinter die Coulissen“ führen. Eine reizende techn. Möglichkeit künstlerisch unzulänglich verwendet.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Tanagra Theater«: »Abgewandelte Form des Alabastra-Theaters. Nach 1873 entwickelte Miniaturbühne, auf der über Spiegelprojektion Schauspieler live, aber 8- bis 10fach verkleinert, also etwa 18 bis 24 cm groß, agierten. Die Vorführungen fanden vorwiegend auf Jahrmärkten statt.« (aus http://wernernekes.de/00_cms/cms/front_content.php?idart=115, Abfrage vom 13.1.2010).
+Nachgewiesene Spielorte: Kärntner- und Löwen-Kino sowie Kino Schäffer (NZG 17.6.1927, S. 8). </ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Tragödie einer Ehe“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Maurice Elvey</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>E[mmy] Ehler (Vorlage Roman „Des Gesetzes Freipaß“)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Maximfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Isabel Elson, Frida Richard, Alfred Abel, Paul Richter, Ernst Verebes, Eduard von Winterstein</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-10">
+               <persName>Abel, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/116001313</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-771">
+               <persName>Ehler, E.</persName>
+               <idno type="GND">https://d-nb.info/gnd/124396989X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-792">
+               <persName>Elson, Isabel</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061540537</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-795">
+               <persName>Elvey, Maurice</persName>
+               <idno type="GND">https://d-nb.info/gnd/1012082318</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2317">
+               <persName>Richard, Frida</persName>
+               <idno type="GND">https://d-nb.info/gnd/116505826</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2322">
+               <persName>Richter, Paul</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2823">
+               <persName>Verebes, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/135294959</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2958">
+               <persName>Winterstein, Eduard von</persName>
+               <idno type="GND">https://d-nb.info/gnd/118633864</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_wirt__27" type="wirt">
+               <placeName>Schweizerhaus Karl Kolarik</placeName>
+               <location>
+                  <address>
+                     <addrLine>Straße des 1. Mai 16, 2.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

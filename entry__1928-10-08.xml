@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1928-10-08.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-10-02.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-10-13.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Looping The Loop«, 1928-10-08, Berlin</title>
+            <title type="alternative" when-iso="1928-10-08"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">812</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>8/10 Berlin. […] Abends allein Kino (Vaterland) Looping the loop (Krauss) – zu O., bei ihr gegessen; ihre üble Stimmung gegenüber mir merkbar; […].–
+
+[AS an CP am 8.10.1928:]
+[…] ich ruhte mich im Hotel ein wenig aus, sah mir einen sehr [sp]annenden Film an, Looping the loop, in dem Werner Krauss ausserordentlich war; nachtmahlte mit Heini, der aus den Webern kam, wo er eine kleine Rolle hat und früh fertig ist. […] [II, 154]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Looping the Loop“ („Die Todesschleife“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1928]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Arthur Robison</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Arthur Robison, Robert Liebmann]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Ufa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Werner Krauß, Warwick Ward, Siegfried Arno, Julius von Szöreghy, Jenny Jugo, Gina Manès</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-89">
+               <persName>Arno, Siegfried</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1421">
+               <persName>Jugo, Jenny</persName>
+               <idno type="GND">https://d-nb.info/gnd/117229601</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1554">
+               <persName>Krauß, Werner</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1667">
+               <persName>Liebmann, Robert</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1796">
+               <persName>Manés, Gina</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061778851</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2357">
+               <persName>Robison, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/101626027X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2472">
+               <persName>Schnitzler, Olga, geb. Gussmann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2697">
+               <persName>Szöreghi, Julius von</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061649415</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2879">
+               <persName>Ward, Warwick</persName>
+               <idno type="GND">https://d-nb.info/gnd/106153457X</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Berlin</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1928-11-12.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-11-09.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-11-23.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Bettelstudent«, 1928-11-12, Wien</title>
+            <title type="alternative" when-iso="1928-11-12"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">817</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>12/11 […] – Allein im Kino (Bettelstudent);– […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Bettelstudent“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>J[akob] Fleck, L[ouise] Fleck</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Karl] Millöcker (Vorlage gleichnamige Operette); [Walter Reisch (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Aafa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Harry Liedtke, Ernst Verebes, Kurt Vespermann, Hans Junkermann, Maria Paudler, Agnes Esterhazy, Ida Wüst</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-822">
+               <persName>Esterházy, Agnes</persName>
+               <idno type="GND">https://d-nb.info/gnd/1274139910</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-897">
+               <persName>Fleck, Jakob</persName>
+               <idno type="GND">https://d-nb.info/gnd/1011893878</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-898">
+               <persName>Fleck, Louise</persName>
+               <idno type="GND">https://d-nb.info/gnd/116598271</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1382">
+               <persName>Janson, Victor</persName>
+               <idno type="GND">https://d-nb.info/gnd/138911843</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1424">
+               <persName>Junkermann, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/1110782586</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1670">
+               <persName>Liedtke, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1924">
+               <persName>Millöcker, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/119208946</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2135">
+               <persName>Paudler, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/118592041</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2299">
+               <persName>Reisch, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/116428953</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2823">
+               <persName>Verebes, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/135294959</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2831">
+               <persName>Vespermann, Kurt</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031195793</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2987">
+               <persName>Wüst, Ida</persName>
+               <idno type="GND">https://d-nb.info/gnd/116119667</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1924-01-24.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-01-23.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-01-28.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Schule Der Liebe«, 1924-01-24, Wien</title>
+            <title type="alternative" when-iso="1924-01-24"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">163</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>24/1 […] Mit C. P. Kino (Schule der Liebe; Const. Talmadge); in der Pilsenetzer mit ihr genachtm.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Nachgewiesener Spielort laut Kinoprogramm RPT 24.1.1924, S. 12: Kino Wienzeile.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Schule der Liebe“ [Ot. „Lessons in Love“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1921]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Chet Withey]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Douglas Murray (Vorlage Bühnenstück „Perkins“); Grant Carpenter (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Constance Talmadge Productions</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Constance Talmadge, Flora Finch, James Harrison, George Fawcett, Franz Webster, Kenneth Harlan</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-466">
+               <persName>Carpenter, Grant</persName>
+               <idno type="GND">https://d-nb.info/gnd/138128529</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-856">
+               <persName>Fawcett, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/1239089732</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-884">
+               <persName>Finch, Flora</persName>
+               <idno type="GND">https://d-nb.info/gnd/1018304096</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1202">
+               <persName>Harlan, Kenneth</persName>
+               <idno type="GND">https://d-nb.info/gnd/1221510967</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1206">
+               <persName>Harrison, James</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1995">
+               <persName>Murray, Douglas</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2702">
+               <persName>Talmadge, Constance</persName>
+               <idno type="GND">https://d-nb.info/gnd/1013150368</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2894">
+               <persName>Webster, Franz</persName>
+               <idno type="GND">https://d-nb.info/gnd/138290989</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2961">
+               <persName>Withey, Chet</persName>
+               <idno type="GND">https://d-nb.info/gnd/1208736582</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

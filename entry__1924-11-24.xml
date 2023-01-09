@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1924-11-24.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-11-22.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1924-11-28.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Sklavenkönigin«, 1924-11-24, Wien</title>
+            <title type="alternative" when-iso="1924-11-24"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">216</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>24/11 […] Mit C. P. Kino (Sklavenkönigin). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Der Film wurde bereits am 24. Oktober uraufgeführt (Anzeige und Kurzbesprechung in NFP 24.10.1924, S. 14). Eine Tonfilmfassung wurde am 29. Juli 1932 in Wien uraufgeführt.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Sklavenkönigin“ (Ut. „The Moon of Israel“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1924]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>Ö</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Mihaly Kertész</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Rider Haggard (Vorlage Roman); [Ladislaus Vajda]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Sascha-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Adolf Weisse, Arlette Marchal, Oskar Beregi sen., Adelqui Millar, Ferdinand Onno, Reinhold Häussermann, Hans Marr, Maria Korda, Georges Haryton, Emil Heyse, Boris Baranoff, Hans Thimig</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-145">
+               <persName>Baranoff, Boris</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062487052</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-228">
+               <persName>Beregi, Oskar</persName>
+               <idno type="GND">https://d-nb.info/gnd/1017964424</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1160">
+               <persName>Haggard, Rider</persName>
+               <idno type="GND">https://d-nb.info/gnd/133173836</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1217">
+               <persName>Haryton, Georges</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062249488</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1224">
+               <persName>Häussermann, Reinhold</persName>
+               <idno type="GND">https://d-nb.info/gnd/130170402</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1279">
+               <persName>Heyse, Emil</persName>
+               <idno type="GND">https://d-nb.info/gnd/127748059</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1486">
+               <persName>Kertész, Mihaly</persName>
+               <idno type="GND">https://d-nb.info/gnd/1216510946</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1539">
+               <persName>Korda, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565400</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1809">
+               <persName>Marchal, Arlette</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061860337</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1830">
+               <persName>Marr, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/11857809X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1916">
+               <persName>Millar, Adelqui</persName>
+               <idno type="GND">https://d-nb.info/gnd/106133239X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2079">
+               <persName>Onno, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/134063910</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2733">
+               <persName>Thimig, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/118757105</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2803">
+               <persName>Vajda, Ladislaus</persName>
+               <idno type="GND">https://d-nb.info/gnd/129296805</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2906">
+               <persName>Weisse, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

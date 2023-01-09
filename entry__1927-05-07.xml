@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-05-07.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-05-02.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-05-09.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Der Wüstling«, 1927-05-07, Wien</title>
+            <title type="alternative" when-iso="1927-05-07"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">339</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>7/5 […] Mit C. P. Kino „Der Wüstling“. Im silb. Brunnen mit ihr genachtm.– </ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige NFP 6.5.1927, S. 20, dort nachgewiesene Spielorte (bis 9.5.): Gartenbau-, Imperial-, Opern-, Busch-, Haydn-, Palast-, Kolosseum- und Theater-Kino. Besprechung von nd in NFP 13.5.1927, S. 21: »Verhältnismäßig am heitersten sind die Szenen, da Reginald Jones (Reginald Denny) unfreiwillig die Rolle eines Pfarrers spielt und als solcher in die Lage kommt, seine eigene Verlobte mit dem Nebenbuhler trauen zu sollen […]. Die deutschen Zwischentitel sind schwerfällig, ungrammatikalisch (›Sie braucht den Trost eines Mannes wie mir (!)‹) und bedien[en] sich, namens des Dienstmädchens, eines frei erfundenden Dialekts.«</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Der Wüstling“ („What happened to Jones“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>William A. Storm</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Universal-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Reginald Denny, William Austin, Ben Hendricks, Otis Harlan, Marian Nixon, Zasu Pitts</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-117">
+               <persName>Austin, William</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-663">
+               <persName>Denny, Reginald</persName>
+               <idno type="GND">https://d-nb.info/gnd/1023970252</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1203">
+               <persName>Harlan, Otis</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062430638</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1253">
+               <persName>Hendricks, Ben</persName>
+               <idno type="GND">https://d-nb.info/gnd/1021970360</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2050">
+               <persName>Nixon, Marian</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2181">
+               <persName>Pitts, Zazu</persName>
+               <idno type="GND">https://d-nb.info/gnd/141535598</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2656">
+               <persName>Storm, William A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/142191612</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

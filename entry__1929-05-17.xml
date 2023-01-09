@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1929-05-17.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1929-05-08.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1929-05-18.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Robert Und Bertram«, 1929-05-17, Wien</title>
+            <title type="alternative" when-iso="1929-05-17"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">433</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>17/5 […] Mit C. P. Kino, „Robert und Bertram“, bei mir mit ihr genachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>16.5. […] Am Abend mit ihm im Kino, harmloser Film mit Liedtke „Robert und Bertram“ Dann bei ihm Worterraten gespielt. Trotzdem sehr zärtlich. [II, 240]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Fragliche Datierung Pollaczeks: Der Eintrag vom 16. Mai 1929 ist sehr lang und beginnt mit der Beschreibung des Geburtstags von Schnitzler tags zuvor sowie der Schilderung eines Gesprächs mit Dr. Ferdinand Donath über den Gesundheitszustand des Jubilars und Pollaczeks Verantwortung für ihn. Erwähnung einer von der NFP gegen ein Honorar von 1000 Schilling angenommenen Novelle (vermutlich »Die Tochter des Hauses«). Darauf folgt die Schilderung des Kinobesuchs.
+Premierennotiz NFP 10.5.1929, S. 12. Anzeige und Notiz NFP 17.5.1929, S. 12, dort nachgewiesene Spielorte: Gartenbau-, Löwen-, Haydn-, Palast-, Flieger-, Kolosseum-, Schönbrunner Schloß- und Theater-Kino sowie Kino Handl. </ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Robert und Bertram“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1929]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Rudolf Walther-Fein</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Gustav] Raeder (Vorlage gleichnamiges Bühnenstück)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Aafa-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Harry Liedtke, Fritz Kampers, Karl Geppert, Hermann Picha, Dolly Grey, Elizza la Porta</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-695">
+               <persName>Donath, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1014">
+               <persName>Geppert, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1205623329</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1112">
+               <persName>Grey, Dolly</persName>
+               <idno type="GND">https://d-nb.info/gnd/135806186</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1442">
+               <persName>Kampers, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/120558424</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1670">
+               <persName>Liedtke, Harry</persName>
+               <idno type="GND">https://d-nb.info/gnd/1125030429</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2167">
+               <persName>Picha, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116177578</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2218">
+               <persName>Porta, Elizza la</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061730611</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2256">
+               <persName>Raeder, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/116323604</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2872">
+               <persName>Walther-Fein, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1089417594</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

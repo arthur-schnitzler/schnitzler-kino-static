@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-08-04.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-08-02.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-08-07.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Die Leichte Isabell«, 1927-08-04, Wien</title>
+            <title type="alternative" when-iso="1927-08-04"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">350</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>4/8 […] Gegen Abend (nach Gewitter) zu C. P., […] Kino (die leichte Isabell), mit ihr silb. Brunn genachtm.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Besprechung von Philipp Winter in NFP 5.8.1927, S. 15: „‚Die leichte Isabell‘ mag eine ganz gute Operette gewesen sein. Wie alt erscheint einem aber die Geschichte vom verlosten Weib im Film […]“. </ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Leichte Isabell“ („Eine Frau, ein Haus und 100.000 Mark“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926/1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Eddie Bussh</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hans Zerlett (Vorlage Bühnenstück)</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Maximfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lee Parry, Frida Richard, Gustav Fröhlich, Otto Walburg, Julius Falkenstein, Hans Wassmann, Max Landa, Eugen Rex</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-426">
+               <persName>Busch, Eddy</persName>
+               <idno type="GND">https://d-nb.info/gnd/1096341328</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-842">
+               <persName>Falkenstein, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-960">
+               <persName>Fröhlich, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1590">
+               <persName>Landa, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/116669950</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2127">
+               <persName>Parry, Lee</persName>
+               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2310">
+               <persName>Rex, Eugen</persName>
+               <idno type="GND">https://d-nb.info/gnd/11645766X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2317">
+               <persName>Richard, Frida</persName>
+               <idno type="GND">https://d-nb.info/gnd/116505826</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2858">
+               <persName>Walburg, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/120288380X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2889">
+               <persName>Wassmann, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/1153087219</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2957">
+               <persName>Winter, Philipp</persName>
+               <idno type="GND">https://d-nb.info/gnd/136061214</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-3006">
+               <persName>Zerlett, Hans Heinz</persName>
+               <idno type="GND">https://d-nb.info/gnd/116983191</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

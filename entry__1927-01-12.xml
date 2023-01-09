@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-01-12.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-01-07.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-01-15.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Zimmerkellner«, 1927-01-12, Wien</title>
+            <title type="alternative" when-iso="1927-01-12"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">324</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>12/1 […] Mit C. P. Kino Zimmerkellner etc. (Menjou); dann mit ihr silb. Brunnen soup.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Besprechung NFP 14.1.1927, S. 16f. Anzeige NFP 7.1.1927, S. 15 mit Angabe von Spielorten. Nachgewiesene Spielorte: Imperial-, Opern- und Votivpark-Kino (NFP 12.1.1927, S. 17). </ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Großfürstin und der Kellner“ („Grandduchess and the Waiter“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Malcolm St. Clair],  Allan Dwan</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>  Alfred Savoir (Vorlage Bühnenstück); [John Lynch (Adaption); Pierre Collings (Drehbuch)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Paramount-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Florence Vidor, Tod Farley, Adolphe Menjou, Lawrence Grant, André Béranger</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-225">
+               <persName>Béranger, André</persName>
+               <idno type="GND">https://d-nb.info/gnd/1047634589</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-511">
+               <persName>Clair, Malcolm St.</persName>
+               <idno type="GND">https://d-nb.info/gnd/120645041</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-536">
+               <persName>Collings, Pierre</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061614638</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-740">
+               <persName>Dwan, Allan</persName>
+               <idno type="GND">https://d-nb.info/gnd/124321208</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-848">
+               <persName>Farley, Tod</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057593680</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1088">
+               <persName>Grant, Lawrence</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1748">
+               <persName>Lynch, John</persName>
+               <idno type="GND">https://d-nb.info/gnd/136930131</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1896">
+               <persName>Menjou, Adolphe</persName>
+               <idno type="GND">https://d-nb.info/gnd/140668217</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2438">
+               <persName>Savoir, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/132079518</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2835">
+               <persName>Vidor, Florence</persName>
+               <idno type="GND">https://d-nb.info/gnd/1026977096</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

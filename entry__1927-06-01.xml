@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-06-01.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-05-25.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-06-06.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Zorro«, 1927-06-01, Wien</title>
+            <title type="alternative" when-iso="1927-06-01"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">343</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>1/6 […] – C. P. bei mir, mit ihr ins Kino (Zorro, mit Fairbanks) – dann auf der Terrasse des Kursalons (zum ersten Mal in meinem Leben) genachtm.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Illustrierte Anzeige zur Uraufführung NFP 6.10.1925, S. 16. Besprechung (Pressevorführung) von ss in ebd., S. 12. Anzeige NFP 27.5.1927, S. 10. Nachgewiesene Spielorte vom 31.5.–2.6.: Schottenring-, Flieger- und Kolosseum-Kino sowie Lichtspiele Wienzeile.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Zorro, der Rächer“ [Ot. „The Mark of Zorro“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1920]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>[Fred Niblo]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Eugene Miller]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>[Douglas Fairbanks Pictures]</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Douglas Fairbanks, [Noah Beery, Charles Hill Mailes]</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-195">
+               <persName>Beery, Noah</persName>
+               <idno type="GND">https://d-nb.info/gnd/106168153X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-836">
+               <persName>Fairbanks, Douglas</persName>
+               <idno type="GND">https://d-nb.info/gnd/118682997</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1779">
+               <persName>Mailes, Charles Hill</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1921">
+               <persName>Miller, Eugene</persName>
+               <idno type="GND">https://d-nb.info/gnd/1186925612</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2036">
+               <persName>Niblo, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/140082085</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_wirt__26" type="wirt">
+               <placeName>Kursalon</placeName>
+               <location>
+                  <address>
+                     <addrLine>Johannesgasse 33, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

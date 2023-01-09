@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1931-01-15.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-01-01.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-01-25.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Insel Der Verlornen Schiffe«, 1931-01-15, Wien</title>
+            <title type="alternative" when-iso="1931-01-15"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">62</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>15/1 […] Abds. mit C. P. Kino (Insel der verlornen Schiffe; Kortner, George, Veidt); dann Weißer Hahn mit ihr soup.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>15.1.1931. Mein Geburtstag. Ich habe es endlich so weit gebracht, dass Kinder und Geschwister den Tag unbeachtet lassen. Und wenn nicht die alten Tanten und Emmy R. mir durchaus an diesem Tag ihre Aufmerksamkeiten aufdrängen würden, (für die ich ihnen gar keinen Dank weiss) könnte man so schön vergessen – 
+Else krank, wenn auch unbeträchtliche Erkältung. Ich habe sie zu Bett geschickt und aufgeräumt. Mittag bei A. gegessen, wo auch Frieda war (er hat keine Ahnung, dass mein Geburtstag ist). Abend mit A. im Kino (Cap der Verlorenen mit Kortner, George, Birell), Besonders guter Film. Dann Weissen Hahn genachtmahlt. Kühle Freundlichkeit von beiden Seiten. Meine innere Müdigkeit ist oft grenzenlos. Böses liegt hinter mir und vor mir. [III, 140]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Emmy R.«: Emmy Redlich. – »Else«: Das Hausmädchen Pollaczeks, der Familienname ist nicht überliefert.
+»Ich kenne keinen deutschen Tonfilm, der so sehr Tonfilm und nichts anderes wäre wie dieser« (SK II, S. 424).
+Berichte zu Dreharbeiten NFP 1.8.1930, S. 12, und 5.9.1930, S. 8. Ankündigungen NFP 19.12.1930, S. 11, und 30.12.1930, S. 10. Anzeige NFP 9.1.1931, S. 2. Besprechung von Fritz Frankl in NFP 10.1.1931, S. 14. Nachge­wiesene Spielorte: Gartenbau- und Kolosseum-Kino (NFP 15.1.1931, S. 18).</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Kap der Verlorenen“ (At. „Menschen im Käfig“ / „Cape Forlorn“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>UK</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>E. A. Dupont</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Frank Harvey (Vorlage Bühnenstück); [Victor Kendall, E. A. Dupont]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>British Int. R. C. A.</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Conrad Veidt, Heinrich George, Fritz Kortner, Julius Brandt, Tala Birell</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-3">
+               <persName>?, Else (Hausmädchen Pollaczeks)</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-281">
+               <persName>Birell, Tala</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019669209</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-351">
+               <persName>Brandt, Julius</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-730">
+               <persName>Dupont, E. A.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119061872</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1013">
+               <persName>George, Heinrich</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1215">
+               <persName>Harvey, Frank</persName>
+               <idno type="GND">https://d-nb.info/gnd/12363606X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1475">
+               <persName>Kendall, Victor</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061398641</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1543">
+               <persName>Kortner, Fritz</persName>
+               <idno type="GND">https://d-nb.info/gnd/118565591</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2209">
+               <persName>Pollak, Frieda </persName>
+               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2282">
+               <persName>Redlich, Emmy</persName>
+               <idno type="GND">https://d-nb.info/gnd/13901232X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2818">
+               <persName>Veidt, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/119228866</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

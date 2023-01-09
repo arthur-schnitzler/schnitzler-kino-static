@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1930-11-07.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1930-10-31.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1930-11-08.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Singende Stadt«, 1930-11-07, Wien</title>
+            <title type="alternative" when-iso="1930-11-07"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">129</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>7/11 […] Mit C. P. Apollotheater Kino „Singende Stadt“, Kiepura, mit ihr Weingartl soup.– Ihre tiefe Verstimmung;– Thränen beim Nachtm.</ab>
+         </div>
+         <div type="ckp">
+            <ab>7.11. Man spricht nur von den Wahlen. Abend Kino: „Die singende Stadt“. Recht langweilig, der ganze Abend beklommen. Montag fährt A. nach Berlin. 
+Direktor Preminger von der Josefstadt telefoniert, dass er die „Corday“ ausserordentlich findet, aber dass sie über die Möglichkeiten des Josefstädter Theaters hinausgeht, sie nicht einmal die Möglichkeit hätten das Stück zu besetzen.
+A. frug mich heute, warum ich so besonders traurig bin. Ich sagte, ich sei es nicht mehr als immer, nur dass ich manchmal zu müde bin, um mich heiter zu stellen. [III, 108]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Wahlen«: am 9. November 1930 fand die Nationalratswahl statt; »Direktor Preminger«: Otto Preminger (1906–1986, Direktor des Theaters in der Josefstadt)
+Gallones erster Tonfilm, der in einer deutschen und einer englischen Sprachversion gedreht wurde. Kiepura wurde mit diesem Film als neuer europäischer Gesangsstar etabliert.
+„Ein mit Geschmack hergestellte Komposition, die dem einseitigen Prinzip, nach dem auch sie verfährt, alles abgewinnt, was aus ihm herauszuholen ist“ (SK II, 411). 
+Ankündigung NFP 17.10.1930, S. 14. Anzeige und Premierennotiz NFP 28.10.1930, S. 6 bzw. 11. Spielort bestätigt NFP 7.11.1930, S. 17. Eine Reprise gab das Kino Wienzeile im März 1931 (NFP 17.3.1931, S. 8).</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Singende Stadt“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Carmine Gallone</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hans Szekely</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Asfi-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Jan Kiepura, Walter Janssen, Georg Alexander, H. von Twardowski, Teddy Bill, Henry Bender, Brigitte Helm, Gertrude Berliner, Francesco Maldacea</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-39">
+               <persName>Alexander, Georg</persName>
+               <idno type="GND">https://d-nb.info/gnd/101137823X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-213">
+               <persName>Bender, Henry</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-246">
+               <persName>Berliner, Gertrude</persName>
+               <idno type="GND">https://d-nb.info/gnd/140576029</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-277">
+               <persName>Bill, Teddy</persName>
+               <idno type="GND">https://d-nb.info/gnd/1056825936</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-567">
+               <persName>Corday, Charlotte</persName>
+               <idno type="GND">https://d-nb.info/gnd/118676881</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-982">
+               <persName>Gallone, Carmine</persName>
+               <idno type="GND">https://d-nb.info/gnd/119353199</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1249">
+               <persName>Helm, Brigitte</persName>
+               <idno type="GND">https://d-nb.info/gnd/116690585</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1383">
+               <persName>Janssen, Walter</persName>
+               <idno type="GND">https://d-nb.info/gnd/136550592</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1491">
+               <persName>Kiepura, Jan</persName>
+               <idno type="GND">https://d-nb.info/gnd/118984411</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1787">
+               <persName>Maldacea, Francesco</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062306910</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2234">
+               <persName>Preminger, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/119067412</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2695">
+               <persName>Székely, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/129820016</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2792">
+               <persName>Twardowski, H. von</persName>
+               <idno type="GND">https://d-nb.info/gnd/116173092</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__11" type="kino">
+               <placeName>Apollo</placeName>
+               <location>
+                  <address>
+                     <addrLine>06., Gumpendorferstraße 63</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 1929. Tonfilm ab 1929. Ab 1929 1440 Plätze (davon 80 Logenplätze). Zur (Wieder-)Eröffnung des Mariahilfer Apollo-Kinos vgl. auch den Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. – Zur Wiedereröffnung des Mariahilfer Apollo-Kinos Bericht zum ersten Jubiläum NFP 12.9.1930, S. 10. Ebd. S. 7 Bericht über Architektur des Kinos sowie eine dreispaltige Anzeige. – Schwarz 1992, S. 266 nennt auch ein „Apollo“ im 15. Bezirk (Schanzstr. 2-4); ein weiteres Kino im 17. Bezirk (Dornerplatz 9) bestand unter diesem Namen nur bis 1927. Dieses dürfte Schnitzler ebenfalls besucht haben, als es später unter dem Namen „Gloriakino“ geführt wurde.</note>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

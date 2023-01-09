@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1926-06-08.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1926-06-06.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1926-06-12.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Die Eiserne Braut«, 1926-06-08, Wien</title>
+            <title type="alternative" when-iso="1926-06-08"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">291</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>8/6 […] – Bei Hofr. Eisenmenger – Dr. Müller,– in Filmsachen.– […] Mit C. P. Kino „Die eiserne Braut“.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Hofr. Eisenmenger«: Anna Eisenmenger, Agentin; »Dr. Müller«: Emil Müller, Produzent bei der »Hegewald-Film«, der Schnitzler einige Monate später, am 21.10., die Verfilmung von »Liebelei« anbieten wird (Vgl. Wolf 2006, S. 73ff.).
+Nachgewiesener Spielort: Münstedts Kinopalast (RPT 8.6.1926, S. 14).</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Eiserne Braut“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Carl Boese</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Marie-Louise Droop</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Eikofilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Otto Gebühr, Claire Rommer, Maly Delschaft, Owen Gorin, Erna Morena, Werner Pittschau, Ernst Demburg, Otto Reinwald, Carl Zickner, Senta Eichstaedt</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-310">
+               <persName>Boese, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/12341055X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-654">
+               <persName>Delschaft, Maly</persName>
+               <idno type="GND">https://d-nb.info/gnd/116068124</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-657">
+               <persName>Demburg, Ernst</persName>
+               <idno type="GND">https://d-nb.info/gnd/118727079</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-716">
+               <persName>Droop, Marie-Louise</persName>
+               <idno type="GND">https://d-nb.info/gnd/104908955</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-778">
+               <persName>Eichstaedt, Senta</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062337131</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-782">
+               <persName>Eisenmenger, Hofrat</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061597334</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1004">
+               <persName>Gebühr, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/124979610</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1068">
+               <persName>Gorin, Owen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062140028</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1961">
+               <persName>Morena, Erna</persName>
+               <idno type="GND">https://d-nb.info/gnd/117143588</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1980">
+               <persName>Müller, E. Dr.</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2182">
+               <persName>Pittschau, Werner</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062207742</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2298">
+               <persName>Reinwald, Otto</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061508900</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2371">
+               <persName>Rommer, Claire</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019375620</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-3008">
+               <persName>Zickner, Carl</persName>
+               <idno type="GND">https://d-nb.info/gnd/116986220</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

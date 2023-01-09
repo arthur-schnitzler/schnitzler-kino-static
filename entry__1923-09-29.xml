@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1923-09-29.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1923-09-28.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1923-10-05.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Die Gräfin Von Paris«, 1923-09-29, Wien</title>
+            <title type="alternative" when-iso="1923-09-29"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">144</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>29/9 […] Mit C. P. im Burgkino.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige NFP 29.9.1923, S. 15 für Burg-Kino.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Gräfin von Paris“ (Fortsetzung von „Tragödie der Liebe“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1922/23]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Joe May</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Leo Birinski, Adolf Lantz (Drehbuch); Hachenberger (Zwischentitel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Mayfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Mia May, Erika Glässner, Charlotte Ander, Irmgard Bern, Emil Jannings, Rudolf Lettinger, Wladimir Gaidarow, Paul Kronegg, Guido Herzfeld</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-60">
+               <persName>Ander, Charlotte</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019197625</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-248">
+               <persName>Bern, Irmgard</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062271297</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-282">
+               <persName>Birinski, Leo</persName>
+               <idno type="GND">https://d-nb.info/gnd/116189851</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-977">
+               <persName>Gaidarow, Wladimir</persName>
+               <idno type="GND">https://d-nb.info/gnd/1025533224</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1040">
+               <persName>Glässner, Erika</persName>
+               <idno type="GND">https://d-nb.info/gnd/116059281</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1156">
+               <persName>Hachenberger</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061540634</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1271">
+               <persName>Herzfeld, Guido</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1379">
+               <persName>Jannings, Emil</persName>
+               <idno type="GND">https://d-nb.info/gnd/118556932</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1561">
+               <persName>Kronegg, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061752240</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1608">
+               <persName>Lantz, Adolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1275649637</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1658">
+               <persName>Lettinger, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/11695633X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1858">
+               <persName>May, Joe</persName>
+               <idno type="GND">https://d-nb.info/gnd/119002361</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1860">
+               <persName>May, Mia</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2468">
+               <persName>Schnitzler, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/118609807</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-4096">
+               <persName>Pollaczek, Clara Katharina</persName>
+               <idno type="GND">https://d-nb.info/gnd/13950916X</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__26" type="kino">
+               <placeName>Burgkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>01., Opernring 19</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 1912. Tonfilm ab 1930. Fassungsraum: Balkon. 1914: ca. 370 Sitzplätze, 1922: 378 Sitzplätze (davon 24 Logenplätze).</note>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

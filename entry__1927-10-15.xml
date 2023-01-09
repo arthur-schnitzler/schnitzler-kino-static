@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-10-15.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-10-11.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-10-18.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Ausschluss Der Öffentlichkeit«, 1927-10-15, Wien</title>
+            <title type="alternative" when-iso="1927-10-15"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">362</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>15/10 […] Mit C. P. Kino „Ausschluss der Öffentlichkeit“ – mit C. P. beim „Hirschen“ genachtm. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Anzeige und Notiz NFP 14.10.1927, S. 18/19. Auf derselben Seite findet sich die neunte Fortsetzung von Pollaczeks Roman „Der Aufstieg“ (Ankündigung des von 4.10.–28.12.1927 in 73 Teilen erschienenen Romans in NFP 2.10.1927, S. 13). Besprechung NFP 15.10.1927, S. 9.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Unter Ausschluß der Öffentlichkeit“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Conrad Wiene</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Josef Than, Johannes Brandt]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Internationale Film Exchange</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Werner Krauß, Jakob Tiedtke, Henry Stuart, Wilhelm Dieterle, Julius Falkenstein, Maly Delschaft, Vivian Gibson, Ida Wüst</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-349">
+               <persName>Brandt, Johannes</persName>
+               <idno type="GND">https://d-nb.info/gnd/1016437463</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-654">
+               <persName>Delschaft, Maly</persName>
+               <idno type="GND">https://d-nb.info/gnd/116068124</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-676">
+               <persName>Dieterle, Wilhelm</persName>
+               <idno type="GND">https://d-nb.info/gnd/119118432</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-842">
+               <persName>Falkenstein, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/11639627X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1028">
+               <persName>Gibson, Vivian</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062485130</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1554">
+               <persName>Krauß, Werner</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2672">
+               <persName>Stuart, Henry</persName>
+               <idno type="GND">https://d-nb.info/gnd/140579141</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2727">
+               <persName>Than, Josef</persName>
+               <idno type="GND">https://d-nb.info/gnd/117298948</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2746">
+               <persName>Tiedtke, Jakob</persName>
+               <idno type="GND">https://d-nb.info/gnd/117377066</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2937">
+               <persName>Wiene, Conrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/101980551X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2987">
+               <persName>Wüst, Ida</persName>
+               <idno type="GND">https://d-nb.info/gnd/116119667</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_wirt__30" type="wirt">
+               <placeName>Zum Hirschen</placeName>
+               <location>
+                  <address>
+                     <addrLine>?</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

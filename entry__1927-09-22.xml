@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-09-22.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-09-20.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-09-23.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Brennende Grenzen«, 1927-09-22, Wien</title>
+            <title type="alternative" when-iso="1927-09-22"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">793</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>22/9 […] – Ging allein ins Kino („Brennende Grenzen“). Begann 1920 zu lesen.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Brennende Grenze“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Erich Waschneck</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Ernst B. Fey]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Eiko-National-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Jenny Hasselquist, Olga Tschechowa, Camilla Spira, Fritz Alberti, Hans Adalbert Schlettow, Hugo Werner-Kahle, Oskar Homolka, Hubert von Meyerink, Albert Steinrück</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-28">
+               <persName>Alberti, Fritz</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-881">
+               <persName>Fey, Ernst B.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062104064</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1220">
+               <persName>Hasselquist, Jenny</persName>
+               <idno type="GND">https://d-nb.info/gnd/141258721</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1321">
+               <persName>Homolka, Oskar</persName>
+               <idno type="GND">https://d-nb.info/gnd/116976586</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1907">
+               <persName>Meyerink, Hubert von</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2454">
+               <persName>Schlettow, Hans Adalbert</persName>
+               <idno type="GND">https://d-nb.info/gnd/117326747</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2601">
+               <persName>Spira, Camilla</persName>
+               <idno type="GND">https://d-nb.info/gnd/117491659</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2633">
+               <persName>Steinrück, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/117263923</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2777">
+               <persName>Tschechowa, Olga</persName>
+               <idno type="GND">https://d-nb.info/gnd/118624296</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2885">
+               <persName>Waschneck, Erich</persName>
+               <idno type="GND">https://d-nb.info/gnd/119317087</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2921">
+               <persName>Werner-Kahle, Hugo</persName>
+               <idno type="GND">https://d-nb.info/gnd/116024925</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

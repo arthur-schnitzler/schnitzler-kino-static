@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1931-09-05.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-09-03.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-09-06.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Gelbes Haus In Rio«, 1931-09-05, Wien</title>
+            <title type="alternative" when-iso="1931-09-05"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">479</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>5/9 […] – Den Nachm. in übelm Befinden verbracht.– Ins (Gersthofer) Kino „gelbes Haus in Rio“.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das gelbe Haus von Rio“ [Ot. „Das gelbe Haus des King-Fu“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930/31]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D/F</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Karl Grune</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Josef M. Velter (Vorlage gleichnamiger Roman); [Rudolf] Katscher, [Egon] Eis</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Emelka-Pathé-Natan-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Gustav Diessl, Karl Günther, Willy Prager, Louis Ralph, Paul Grätz, Karl Huszar-Puffy, Charlotte Susa, Carla Gidt u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-675">
+               <persName>Diessl, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/129296856</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-780">
+               <persName>Eis, Egon</persName>
+               <idno type="GND">https://d-nb.info/gnd/1115839799</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1029">
+               <persName>Gidt, Carla</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061248607</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1094">
+               <persName>Grätz, Paul</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1126">
+               <persName>Grune, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/13907760X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1139">
+               <persName>Günther, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1079292187</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1351">
+               <persName>Huszar-Puffy, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/1136430121</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1458">
+               <persName>Katscher, Rudolf</persName>
+               <idno type="GND">https://d-nb.info/gnd/1051107830</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2229">
+               <persName>Prager, Willy</persName>
+               <idno type="GND">https://d-nb.info/gnd/116280131</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2261">
+               <persName>Ralph, Louis</persName>
+               <idno type="GND">https://d-nb.info/gnd/134209427</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2684">
+               <persName>Susa, Charlotte</persName>
+               <idno type="GND">https://d-nb.info/gnd/117381683</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2821">
+               <persName>Velter, Josef M.</persName>
+               <idno type="GND">https://d-nb.info/gnd/117369411</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__54" type="kino">
+               <placeName>Gersthofer Elitetheater</placeName>
+               <location>
+                  <address>
+                     <addrLine>18., Gersthoferstraße 73</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 1912, Fassungsraum: 1914: 284 Sitzplätze, 1922: 252 Sitzplätze (davon 16 Logenplätze), 1934: 240 (16). – Das einzige Kino im Bezirksteil Gersthof. Schwarz gibt keine Adaption des Kinos für den Tonfilm an, was im Widerspruch zu den letzten 5 bei Schnitzler notierten Besuchen in diesem Kino steht.</note>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

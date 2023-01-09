@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-06-06.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-06-01.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-06-11.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Wenn Das Herz Der Jugend Spricht«, 1927-06-06, Wien</title>
+            <title type="alternative" when-iso="1927-06-06"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">3</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>6/6 […] Mit C. P. Kino Imhoffs Ehe, Bassermann;– mit ihr im Opernrest. genachtm.–</ab>
+         </div>
+         <div type="ckp">
+            <ab>[…] Montag machten wir einen schönen Spaziergang in den Prater, am Abend waren wir im Kino und dann nachtmahlen wir im Opernkeller. A. schien ermüdet und ich behandelte ihn wie einen Patienten. […] [II, 24/3]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Besprechung NFP 10.6.1927, S. 18 von Felix Cleve: „Um Bassermanns Willen sieht man sich diesen Film an, der übrigens auch sonst nicht schlecht ist. […] Es ist unerhört, wie dieser Künstler, ohne auch nur im geringsten feminin zu werden, mit durchaus männlichen, fast harten Ausdrucksmitteln zu erschüttern und zu Tränen zu rühren vermag. […]“</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Wenn das Herz der Jugend spricht“ („Die Ehe des Arthur Imhoff“, „Arthur Imhoff“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fred Sauer</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hans Land (Vorlage Roman), [Max Jungk]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Maximfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Albert Bassermann, Paul [Henckels], Julius Meszaros, Lee Parry, Elsa Wasa, [Szöke Szakall]</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-172">
+               <persName>Bassermann, Albert</persName>
+               <idno type="GND">https://d-nb.info/gnd/118653407</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-522">
+               <persName>Cleve, Felix</persName>
+               <idno type="GND">https://d-nb.info/gnd/138973199</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1252">
+               <persName>Henckels, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/11871029X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1423">
+               <persName>Jungk, Max</persName>
+               <idno type="GND">https://d-nb.info/gnd/117238600</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1588">
+               <persName>Land, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/116669888</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1904">
+               <persName>Meszaros, Julius</persName>
+               <idno type="GND">https://d-nb.info/gnd/1031959890</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2127">
+               <persName>Parry, Lee</persName>
+               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2436">
+               <persName>Sauer, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/121684965X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2693">
+               <persName>Szakall, Szöke</persName>
+               <idno type="GND">https://d-nb.info/gnd/1238738621</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2884">
+               <persName>Wasa, Elsa</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061926184</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

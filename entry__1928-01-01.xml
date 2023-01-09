@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1928-01-01.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-12-21.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-01-06.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Blond Und Brünett«, 1928-01-01, Wien</title>
+            <title type="alternative" when-iso="1928-01-01"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">7</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>1/1 […] Mit C. P. Kino Heimat;– Blond und brünett (Menjou).– […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>1. Jänner. Sylvesterabend wollte A. mit mir in ein Theater und dann zu mir kommen. Ich riet ihm mit Lili und Gatten auszugehen und <hi>dann</hi> erst bei mir. Und so war es. Das neue Jahr sehr schön und in Zärtlichkeit und guter Stimmung begonnen. Vormittag mit A. spazieren, Mittag Fredi und Herry zu Tisch. Abend mit A. im Kino. [II, 90]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Fredi und Herry«: Pollaczeks Bruder Alfred und ihr älterer Sohn Hermann Erich.
+Anzeige NFP 30.12.1927, S. 19: : „Die Neujahrsgabe der fanamet für die Kinobesucher / Adolphe Menjou vor der Frage / Blond oder Brünett? / (Kurzschluss der Liebe) / Sehen Sie sich den Film an – Sie werden verstehen, dass Menjou die Wahl schwer fällt.“</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Blond oder brünett“ (Ot. „Blonde or Brunette“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Richard [Rosson]</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Jacques Bousquet, Henri Falk (Vorlage Kurzgeschichte „Un Ange passe“); John McDermott (Adaption, Drehbuch); George Marion Jr. (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Famous Players-Lasky</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Adolphe Menjou, Emile Chautard, Greta Nissen, Arlette [Marchal], Mary Carr u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-334">
+               <persName>Bousquet, Jacques</persName>
+               <idno type="GND">https://d-nb.info/gnd/1056585455</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-450">
+               <persName>Cappellini, Arnoldo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-468">
+               <persName>Carr, Mary</persName>
+               <idno type="GND">https://d-nb.info/gnd/137920431</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-501">
+               <persName>Chautard, Emile</persName>
+               <idno type="GND">https://d-nb.info/gnd/1212249321</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-838">
+               <persName>Falk, Henri</persName>
+               <idno type="GND">https://d-nb.info/gnd/1053273428</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1702">
+               <persName>Loeb, Alfred</persName>
+               <idno type="GND">https://d-nb.info/gnd/1229925457</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1809">
+               <persName>Marchal, Arlette</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061860337</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1818">
+               <persName>Marion, George Jr.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1015385281</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1866">
+               <persName>McDermott, John</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1896">
+               <persName>Menjou, Adolphe</persName>
+               <idno type="GND">https://d-nb.info/gnd/140668217</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2049">
+               <persName>Nissen, Greta</persName>
+               <idno type="GND">https://d-nb.info/gnd/1274659396</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2202">
+               <persName>Pollaczek, Hermann Erich</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2385">
+               <persName>Rosson, Richard</persName>
+               <idno type="GND">https://d-nb.info/gnd/1221420216</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2471">
+               <persName>Schnitzler, Lili</persName>
+               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__17" type="kino">
+               <placeName>Heimatkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>09., Porzellangasse 19</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Gründung 7.3.1913. Tonfilm ab 1930. Fassungsraum: Galerie. 1914: 593 Sitzplätze (davon 4 Logenplätze), 1922: 617 (60).</note>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

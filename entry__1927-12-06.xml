@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-12-06.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-11-29.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-12-11.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Sonnenaufgang«, 1927-12-06, Berlin</title>
+            <title type="alternative" when-iso="1927-12-06"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">801</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>6/12 Berlin. […] Abends Kino „Sonnenaufgang“, (Sudermann – Karl Mayer);– im Bristol genachtm. mit Elisabeth Bergner, Czinner, Mayer, Heini.–
+
+[AS an CP am 6.12.1927:]
+[…] Montag […] Gegen Abend zu Paul Go[l]dmann, Frau und Tochter, ausserordentliches Grammophon (– in ein Restaurant (Türk), – woselbst Elisabeth B., Czinner und der eigentliche Filmtextdichter Karl Mayer, besonders netter Mensch; sehr lebhafte Diskussionen, Differenzen und Einigung;– auch Heini kam dazu. […] 
+Abend will ich in ein Kino gehen (einen Mayerschen Film ansehen) und treffe dann wieder mit Elisabeth Bergner und Czinner zusammen. […] [II, 83f.]</ab>
+         </div>
+         <div type="ckp">
+            <ab>4.12. Anruf von A. in aller Früh. Er freut sich auch sehr. Bin etwas erschöpft, den ganzen Tag werde ich angerufen. Aufführung mit dem Preis von 500 Schilling nicht verbunden, aber möglich. Gott, wie schön wär das!
+Sehr netter Abend, Kino mit Frieda P. [II, 69 bzw. 89]
+
+[CP an AS am 6.12.1927:]
+[…] Heute nach dem Volkstheater gehe ich noch mit Frieda ins Kino. […] [II, 86]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Sonnenaufgang“ [Ot. „Sunrise: A Song of Two Humans“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>F. W. Murnau</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Hermann Sudermann (Vorlage Novelle „Die Reise nach Tilsit“), [Carl Mayer (Drehbuch), Katherine Hilliker, H. H. Caldwell (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Fox-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">George O’Brien, Janet Gaynor, Margaret Livingston, [Bodil Rosing, J. Far[r]ell MacDonald, Ralph Sipperly, Jane Winton, Arthur Housman, Eddie Boland]</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-242">
+               <persName>Bergner, Elisabeth</persName>
+               <idno type="GND">https://d-nb.info/gnd/11850956X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-315">
+               <persName>Boland, Eddie</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061840956</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-439">
+               <persName>Caldwell, H. H.</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-608">
+               <persName>Czinner, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/116787651</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1003">
+               <persName>Gaynor, Janet</persName>
+               <idno type="GND">https://d-nb.info/gnd/119075482</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1060">
+               <persName>Goldmann, Paul</persName>
+               <idno type="GND">https://d-nb.info/gnd/140521704</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1143">
+               <persName>Gürster, Eugen</persName>
+               <idno type="GND">https://d-nb.info/gnd/116916664</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1223">
+               <persName>Hauser, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/118547046</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1287">
+               <persName>Hilliker, Katherine</persName>
+               <idno type="GND">https://d-nb.info/gnd/137440456</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1336">
+               <persName>Housman, Arthur</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061470067</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1694">
+               <persName>Livingston, Margaret</persName>
+               <idno type="GND">https://d-nb.info/gnd/117143502</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1759">
+               <persName>MacDonald, J. Farrell</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061708373</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1862">
+               <persName>Mayer, Karl</persName>
+               <idno type="GND">https://d-nb.info/gnd/117072486</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1991">
+               <persName>Murnau, Friedrich Wilhelm</persName>
+               <idno type="GND">https://d-nb.info/gnd/118585878</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2096">
+               <persName>O’Brien, George</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2209">
+               <persName>Pollak, Frieda </persName>
+               <idno type="GND">https://d-nb.info/gnd/1257666827</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2382">
+               <persName>Rosing, Bodil</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061642194</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2565">
+               <persName>Sipperly, Ralph</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061906914</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2584">
+               <persName>Sonnenfeld, Kurt</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2680">
+               <persName>Sudermann, ?</persName>
+               <idno type="GND">https://d-nb.info/gnd/118954474</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2681">
+               <persName>Sudermann, Hermann</persName>
+               <idno type="GND">https://d-nb.info/gnd/118619853</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2959">
+               <persName>Winton, Jane</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061895254</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Berlin</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

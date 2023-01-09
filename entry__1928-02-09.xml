@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1928-02-09.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-02-03.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1928-02-10.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Die Frau, Die Nicht Nein Sagen Kann«, 1928-02-09, Wien</title>
+            <title type="alternative" when-iso="1928-02-09"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">379</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>9/2 […] Mit C. P. Kino (Bellaria) („Die Frau, die nicht nein sagen kann“). C. P. kam sehr verstimmt von Dr. Beer, der sich nicht entschließen kann, ihr (preisgekröntes) Stück aufzuführen. Außerdem Mißlichkeiten mit ihrem Sohn: er will Medizin, Institut aufgeben – und in ein Unternehmen eintreten (bei Verwandtem, Str.) – oder eine coloniale Stellung (Medizin, Bakteriol.) annehmen;– weil ihm seine Ehe das wichtigste und sie ein Kind haben wollen.–
+– Wir nachtm. im silb. Brunnen.–</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Dr. Beer«: Rudolf Beer, Direktor des Volkstheaters; Pollaczek Volksstück „Hausgeister“ (nicht mehr ermittelbar) hatte den Volkstheaterpreis 1927 gewonnen (vgl. CKP II, 69, 86, 89), wurde aber nicht in den Spielplan genommen; »mit ihrem Sohn«: Clara Pollaczeks jüngerer Sohn Karl (später Karl Frederick Michael Pole) war als Mediziner und Bakteriologe tätig, der Verwandte »Str.« konnte nicht ermittelt werden.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Frau, die nicht ‚nein‘ sagen kann…“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1927]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Komisch</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Fred Sauer</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName/>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Maximfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lee Parry, Francine Mussay, Gustav Fröhlich, Hans Albers</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-27">
+               <persName>Albers, Hans</persName>
+               <idno type="GND">https://d-nb.info/gnd/118501402</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-191">
+               <persName>Beer, Rudolf</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-960">
+               <persName>Fröhlich, Gustav</persName>
+               <idno type="GND">https://d-nb.info/gnd/118693794</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2001">
+               <persName>Mussay, Francine</persName>
+               <idno type="GND">https://d-nb.info/gnd/173961738</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2127">
+               <persName>Parry, Lee</persName>
+               <idno type="GND">https://d-nb.info/gnd/1202016782</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2204">
+               <persName>Pollaczek, Karl Friedrich</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2205">
+               <persName>Pollaczek, Magdalena</persName>
+               <idno type="GND">https://d-nb.info/gnd/132915251</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2436">
+               <persName>Sauer, Fred</persName>
+               <idno type="GND">https://d-nb.info/gnd/121684965X</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__9" type="kino">
+               <placeName>Invalidendankkino / Bellariakino</placeName>
+               <location>
+                  <address>
+                     <addrLine>07., Hofstallstraße 5 (Museumstraße 3)</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 1911. Fassungsraum: 1927: 248 Sitzplätze, 1934: 247.</note>
+            </place>
+            <place xml:id="ask_wirt__22" type="wirt">
+               <placeName>Zum silbernen Brunnen</placeName>
+               <location>
+                  <address>
+                     <addrLine>Berggasse 5, 9.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1926-12-04.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1926-11-24.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1926-12-07.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Wolgafischer«, 1926-12-04, Wien</title>
+            <title type="alternative" when-iso="1926-12-04"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">320</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>4/12 […] Mit C. P. Kino (Wolgafischer); dann bei ihr. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Wolgafischer«: Lapsus calami bei Schnitzler.
+Besprechung NFP 24.9.1926, S. 17. Anzeige und Besprechung NFP 3.12.1926, S. 20. Nachgewiesene Spielorte: Imperial-, Opern- und Busch-Kino sowie Kino Schäffer (NFP 4.12.1926, S. 22). </ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„The Volga Boatman“ („Wolgaschiffer“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Cecil B. de Mille</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Konrad Bercovici, Lenore J. Coffee</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Prod. Distr. Corp.</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">William Boyd, Elinor Fair, Robert Edeson, [Michael] Victor Várconyi, Julia Faye, Theodore Kosloff, Arthur Rankin</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-227">
+               <persName>Bercovici, Konrad</persName>
+               <idno type="GND">https://d-nb.info/gnd/12292925X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-338">
+               <persName>Boyd, William</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-527">
+               <persName>Coffee, Lenore J.</persName>
+               <idno type="GND">https://d-nb.info/gnd/140167862</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-658">
+               <persName>DeMille, Cecil B.</persName>
+               <idno type="GND">https://d-nb.info/gnd/119244012</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-759">
+               <persName>Edeson, Robert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1227955766</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-835">
+               <persName>Fair, Elinor</persName>
+               <idno type="GND">https://d-nb.info/gnd/1017937141</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-857">
+               <persName>Faye, Julia</persName>
+               <idno type="GND">https://d-nb.info/gnd/1016013884</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1544">
+               <persName>Kosloff, Theodore</persName>
+               <idno type="GND">https://d-nb.info/gnd/138775982</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2269">
+               <persName>Rankin, Arthur</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-2813">
+               <persName>Várkonyi, [Michael] Victor</persName>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_wirt__3" type="wirt">
+               <placeName>Wohnung Pollaczek</placeName>
+               <location>
+                  <address>
+                     <addrLine> , nan</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

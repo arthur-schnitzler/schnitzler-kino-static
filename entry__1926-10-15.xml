@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1926-10-15.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1926-10-13.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1926-10-17.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Letzte Tage Von Pompeji I.«, 1926-10-15, Wien</title>
+            <title type="alternative" when-iso="1926-10-15"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">310</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>15/10 […] Mit C. P. Kino (letzte Tage von Pompeji I.) –, Churhauskeller soup.</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>Premierennotiz NFP 8.10.1926, S. 18. Besprechung NFP 22.10.1926, S. 16. Spielortangaben einer Anzeige NFP 15.10.1926, S. 17: Burg-, Gartenbau-, Kärntner-, Schottenring-, Central-, Löwen-, Maria-Theresien-, Stafa-, Palast-, Heimat- und Theater-Kino sowie Kammerlichtspiele am Schwarzenbergplatz, Münstedts Kino-Palast.</ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Die Letzten Tage von Pompeji“ [Ot. „Gli ultimi giorni di Pompeji“]</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>I</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Amleto Parlermi, Carmine Gallone</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>E[dward George] Bulwer[-Lytton] (Vorlage gleichnamiger Roman); Alfredo Panzini</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>S. I. Grandi-Films</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Michael [Victor] Várkonyi, Rina De Liguoro, Maria Corda, Bernhard Goetzke, Emilio Ghione, Lia Maris, Gildo Bocci, Enrica Fantis, Vittorio Evangelisti, Ferruccio Biancini, Carlo Gualandri, Vasco Creti, Alfredo Martinelli, Giuseppe Pierozzi, Enrico Monti</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-270">
+               <persName>Biancini, Ferruccio</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061384144</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-307">
+               <persName>Bocci, Gildo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1057687375</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-414">
+               <persName>Bulwer-Lytton, Edward George</persName>
+               <idno type="GND">https://d-nb.info/gnd/11866493X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-565">
+               <persName>Corda, Maria</persName>
+               <idno type="GND">https://d-nb.info/gnd/115977420X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-584">
+               <persName>Creti, Vasco</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061690806</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-826">
+               <persName>Evangelisti, Vittorio</persName>
+               <idno type="GND">https://d-nb.info/gnd/1161416234</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-845">
+               <persName>Fantis, Enrica</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061564304</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-982">
+               <persName>Gallone, Carmine</persName>
+               <idno type="GND">https://d-nb.info/gnd/119353199</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1026">
+               <persName>Ghione, Emilio</persName>
+               <idno type="GND">https://d-nb.info/gnd/138504253</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1055">
+               <persName>Goetzke, Bernhard</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1129">
+               <persName>Gualandri, Carlo</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1674">
+               <persName>Liguoro, Rina de</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062131320</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1819">
+               <persName>Maris, Lia</persName>
+               <idno type="GND">https://d-nb.info/gnd/141354526</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1837">
+               <persName>Martinelli, Alfredo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062088476</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1952">
+               <persName>Monti, Enrico</persName>
+               <idno type="GND">https://d-nb.info/gnd/120859289</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2120">
+               <persName>Panzini, Alfredo</persName>
+               <idno type="GND">https://d-nb.info/gnd/118789546</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2124">
+               <persName>Parlermi, Amleto</persName>
+               <idno type="GND">https://d-nb.info/gnd/119353180</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2171">
+               <persName>Pierozzi, Giuseppe</persName>
+               <idno type="GND">https://d-nb.info/gnd/1171866046</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2813">
+               <persName>Várkonyi, [Michael] Victor</persName>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_wirt__9" type="wirt">
+               <placeName>Meinl Churhaus-Restaurant</placeName>
+               <location>
+                  <address>
+                     <addrLine>Stephansplatz 3, 1.0</addrLine>
+                  </address>
+               </location>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

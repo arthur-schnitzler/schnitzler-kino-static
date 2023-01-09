@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1925-12-02.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1925-11-24.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1925-12-05.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Flammende Jugend«, 1925-12-02, Wien</title>
+            <title type="alternative" when-iso="1925-12-02"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">751</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>2/12 […] Mit H. K. Kino („Flammende Jugend“). […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Flaming Youth“ („Flammende Jugend“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1923]</date>
+                  </cell>
+                  <cell role="data" ana="Genre"/>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>John Francis Dillon</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Harry O. Hoyt</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Associated First National Pictures</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Colleen Moore, Milton Sills, Elliott Dexter, Sylvia Breamer, Myrtle Stedman, Betty Francisco, Phillips Smalley, Walter McGrail, Ben Lyon, George Barraud, John Patrick, Gino Corrado, Gertrude Astor, Michael Dark</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-105">
+               <persName>Astor, Gertrude</persName>
+               <idno type="GND">https://d-nb.info/gnd/1061280861</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-158">
+               <persName>Barraud, George</persName>
+               <idno type="GND">https://d-nb.info/gnd/140306633</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-361">
+               <persName>Breamer, Sylvia</persName>
+               <idno type="GND">https://d-nb.info/gnd/1033700967</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-570">
+               <persName>Corrado, Gino</persName>
+               <idno type="GND">https://d-nb.info/gnd/106215486X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-621">
+               <persName>Dark, Michael</persName>
+               <idno type="GND">https://d-nb.info/gnd/1074972910</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-671">
+               <persName>Dexter, Elliott</persName>
+               <idno type="GND">https://d-nb.info/gnd/1208535900</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-682">
+               <persName>Dillon, John Francis</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-932">
+               <persName>Francisco, Betty</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1339">
+               <persName>Hoyt, Harry O.</persName>
+               <idno type="GND">https://d-nb.info/gnd/141181842</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1474">
+               <persName>Kempny, Hedy</persName>
+               <idno type="GND">https://d-nb.info/gnd/11872181X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1751">
+               <persName>Lyon, Ben</persName>
+               <idno type="GND">https://d-nb.info/gnd/1023590050</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1870">
+               <persName>McGrail, Walter</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1953">
+               <persName>Moore, Colleen</persName>
+               <idno type="GND">https://d-nb.info/gnd/1022915096</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2133">
+               <persName>Patrick, John</persName>
+               <idno type="GND">https://d-nb.info/gnd/1151961310</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2554">
+               <persName>Sills, Milton</persName>
+               <idno type="GND">https://d-nb.info/gnd/1140055119</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2574">
+               <persName>Smalley, Phillips</persName>
+               <idno type="GND">https://d-nb.info/gnd/138774714</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2622">
+               <persName>Stedman, Myrtle</persName>
+               <idno type="GND">https://d-nb.info/gnd/119169177</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

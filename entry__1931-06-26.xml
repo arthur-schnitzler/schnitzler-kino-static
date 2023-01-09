@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1931-06-26.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-06-13.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1931-07-08.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Lied Des Lebens«, 1931-06-26, Wien</title>
+            <title type="alternative" when-iso="1931-06-26"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">96</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>26/6 […] – Mit C. P. Abds. (Imperial-) Kino Granowsky Lied des Lebens (Praetentiös dumm, mit einigen schönen Bildern).– Im „Dtsch. Haus“ genachtm. […]</ab>
+         </div>
+         <div type="ckp">
+            <ab>27.6. Furchtbarer Abend. Weiss nicht, wie man so etwas überlebt. Nach quälendem Film „Lied des Lebens“ im Deutschen Haus Nachtmahl. Er sagt, dass Dr. D., bei dem er heute Mittag war, Palace-Sanatorium Dr. Hecht für <hi>mich</hi> empfiehlt. Er würde dann später mit Prof. Schinnerer ins Südbahn-Hotel Semmering gehen (eine halbe Stunde wenigstens entfernt). Ich sagte, anfangs lächelnd: „Nein, danke,– wenn ich <hi>allein</hi> fort soll, dann nach Bad Gastein, wozu mein Arzt rät“, dass ich aber, wenn er <hi>mit mir</hi> ] geht mich ganz seinen Wünschen anpasse. Er kann sich augenblicklich ein Alleinsein mit mir nicht vorstellen, will erst mit Schinnerer in meiner Nähe, dann <hi>ganz allein</hi>, dann Heini, Arnoldo, Olga für paar Tage treffen, eventuell mich ganz zum Schluss. Zunehmende Erbitterung. Am Weg zum Auto erklärt er, er geht zu Fuss, ich soll allein fahren. Ich antworte: „Ich auch“ und stürze wie eine Irrsinnige von der Teinfaltstrasse in die Stadt zurück. Er hinter mir drein. Beim Café Central holt er mich ein: „Sei nicht dumm – wir fahren zusammen“. Mir ist so schwindlig, dass ich mich an den Häusern anhalten muss, bis wir ein Auto finden. Ich bringe kein Wort mehr über die Lippen. Zuhause Harry: „Wie siehst du aus? Kann ich dir helfen?“ 4 Allonal. Jetzt seit 6 Uhr wach.
+Mit A. kurzes Telefongespräch, will morgen über den Sommer weiter reden. Ich reagiere nicht. Abend die Kinder bei mir, letztes gemeinsames Abendessen. Nachmittag war Melingo da beim Einpacken helfen. In 2 Stunden war es erledigt. Dann fuhren er und Harry gleich zur Bahn das Gepäck absenden. [III, 195f.]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab>»Dr. Hecht«: Victor Hecht (1882–?, Arzt, Sanatoriumsleiter); »Melingo«: Nicht ermittelt.
+Pollaczek und Schnitzler waren Gäste bei der Pressevorführung des Films. Vgl. Mitzi Friedmann an Clara Katharina Pollaczek, Brief vom 27.10.1931. WBR, HS, H.I.N. 104.811. 
+„Mit Kunst hat dieses prätentiöse Sammelsurium von Bildern und Liedern nicht das geringste zu tun“ (SK II, S. 490). 
+Ankündigung NFP 22.5.1931, S. 12. Notiz NFP 2.6.1931, S. 10. Premierennotiz NFP 16.6.1931, S. 7, unter Angabe von zwei weiteren Spielorten. Besprechung NFP 26.6.1931, S. 12. </ab>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Lied vom Leben“</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1930/31]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>D</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>Alexis Granowski</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>[Victor] Trivas, H. Lechner</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Filmkunst A.-G.-Tobis-Klangfilm</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Aribert Mog, Margot Ferra, [Elsa Wagner, Ernst Busch, Harald Paulsen] u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-427">
+               <persName>Busch, Ernst</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-450">
+               <persName>Cappellini, Arnoldo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-695">
+               <persName>Donath, Ferdinand</persName>
+               <idno type="GND">https://d-nb.info/gnd/1055302689</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-877">
+               <persName>Ferra, Margot</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062114744</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-951">
+               <persName>Friedmann, Mitzi</persName>
+               <idno type="GND">https://d-nb.info/gnd/116802944</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1087">
+               <persName>Granowski, Alexis</persName>
+               <idno type="GND">https://d-nb.info/gnd/1206293667</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1233">
+               <persName>Hecht, Dr.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1047198002</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1618">
+               <persName>Lechner, H.</persName>
+               <idno type="GND">https://d-nb.info/gnd/1018730222</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1937">
+               <persName>Mog, Aribert</persName>
+               <idno type="GND">https://d-nb.info/gnd/1032675357</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2139">
+               <persName>Paulsen, Harald</persName>
+               <idno type="GND">https://d-nb.info/gnd/116065796</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2448">
+               <persName>Schinnerer, Otto P.</persName>
+               <idno type="GND">https://d-nb.info/gnd/105204042X</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2469">
+               <persName>Schnitzler, Heinrich</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848510</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2472">
+               <persName>Schnitzler, Olga, geb. Gussmann</persName>
+               <idno type="GND">https://d-nb.info/gnd/116848723</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2772">
+               <persName>Trivas, Victor</persName>
+               <idno type="GND">https://d-nb.info/gnd/137797753</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2853">
+               <persName>Wagner, Elsa</persName>
+               <idno type="GND">https://d-nb.info/gnd/1243868252</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Wien</placeName>
+            </place>
+            <place xml:id="ask_kino__31" type="kino">
+               <placeName>Imperialkino</placeName>
+               <location>
+                  <address>
+                     <addrLine>01., Rothgasse 3</addrLine>
+                  </address>
+               </location>
+               <note type="info"> Eröffnet 1911. Tonfilm ab 1930. Fassungsraum: 1914: Ca. 480 Sitzplätze, 1922: 486 Sitzplätze (davon 58 Logenplätze).</note>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>

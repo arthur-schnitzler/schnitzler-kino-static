@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="entry__1927-04-23.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-04-14.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/entry__1927-04-27.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Schnitzler - Kino</title>
+            <title level="s">»Bohême / Bohème«, 1927-04-23, Venedig</title>
+            <title type="alternative" when-iso="1927-04-23"/>
+            <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
+            <author ref="#pmb2121">Schnitzler, Arthur</author>
+            <editor>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>ASK</edition>
+            <respStmt>
+               <resp>Datenaufbereitung</resp>
+               <name>Kurz, Stephan</name>
+               <name>Schopper, Daniel</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+Austrian Centre for Digital Humanities and Cultural Heritage
+            </publisher>
+            <idno type="db-id">785</idno>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>
+Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
+                  </p>
+                  <p>
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:
+                  </p>
+                  <p>
+Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+                  </p>
+                  <p>Hinweise:</p>
+                  <p>
+Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-12-28">template populated with script "create_teis.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="as">
+            <ab>23/4 Venedig. […] Im Hotel mit Lili und Arnoldo gespeist, dann Teatro Rossini, Varieté und Film (Bohème).–
+
+[AS an CP am 24.4.1927:]
+[…] Gestern Abend (zu Dritt) im Teatro Rossini – Variété und Kino (das erst um 3/4 11 anfing) – es gelang mir die Bohème zu sehen, (die Lilian Gish wunderbar, das Ganze sehr fein in der Inszenierung aber von einer (für mich im Film) unerträglichen Traurigkeit. […]</ab>
+         </div>
+         <div type="anmerkung">
+            <ab/>
+         </div>
+         <div type="film">
+            <table type="movies">
+               <row xmlns="http://www.tei-c.org/ns/1.0">
+                  <cell role="data" ana="Filmtitel">„Das Hohelied der Liebe“ („La Bohème“)</cell>
+                  <cell role="data" ana="Jahr">
+                     <date>[1926]</date>
+                  </cell>
+                  <cell role="data" ana="Genre">Drama</cell>
+                  <cell role="data" ana="Land">
+                     <placeName>USA</placeName>
+                  </cell>
+                  <cell role="data" ana="Regie">
+                     <persName>King Vidor</persName>
+                  </cell>
+                  <cell role="data" ana="Buch">
+                     <persName>Henri Murger (Roman „Vie de Bohème“), [Fred De Gresac (Story), William Conselman, Ruth Cummings (Titel)]</persName>
+                  </cell>
+                  <cell role="data" ana="Produktion">
+                     <orgName>Metro-Goldwyn-Film</orgName>
+                  </cell>
+                  <cell role="data" ana="Darsteller_innen">Lillian Gish, Renée Adorée, Roy D'Arcy, John Gilbert u.a.</cell>
+               </row>
+            </table>
+         </div>
+      </body>
+      <back>
+         <listPerson>
+            <person xml:id="schnitzler-kino_person-16">
+               <persName>Adorée, Renée</persName>
+               <idno type="GND">https://d-nb.info/gnd/1019299991</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-450">
+               <persName>Cappellini, Arnoldo</persName>
+               <idno type="GND">https://d-nb.info/gnd/1156420210</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-554">
+               <persName>Conselman, William</persName>
+               <idno type="GND">https://d-nb.info/gnd/1062204298</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-599">
+               <persName>Cummings, Ruth</persName>
+               <idno type="GND">https://d-nb.info/gnd/141606487</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-747">
+               <persName>d’Arcy, Roy</persName>
+               <idno type="GND">https://d-nb.info/gnd/138664439</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1031">
+               <persName>Gilbert, John</persName>
+            </person>
+            <person xml:id="schnitzler-kino_person-1036">
+               <persName>Gish, Lillian</persName>
+               <idno type="GND">https://d-nb.info/gnd/119019876</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1108">
+               <persName>Gresac, Fred De</persName>
+               <idno type="GND">https://d-nb.info/gnd/135581486</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-1989">
+               <persName>Murger, Henri</persName>
+               <idno type="GND">https://d-nb.info/gnd/118785400</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2471">
+               <persName>Schnitzler, Lili</persName>
+               <idno type="GND">https://d-nb.info/gnd/131362089</idno>
+            </person>
+            <person xml:id="schnitzler-kino_person-2836">
+               <persName>Vidor, King</persName>
+               <idno type="GND">https://d-nb.info/gnd/118860542</idno>
+            </person>
+         </listPerson>
+         <listPlace>
+            <place type="location">
+               <placeName>Venedig</placeName>
+            </place>
+         </listPlace>
+      </back>
+   </text>
+</TEI>
