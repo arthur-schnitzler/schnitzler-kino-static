@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Der Gefangene Von Cayenne«, 1922-08-07, München</title>
-            <title type="alternative" when-iso="1922-08-07">Montag, 07. August 1922</title>
+            <title type="alternative" when-iso="1922-08-07">Montag, 7. August 1922</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -60,33 +60,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1922-08-07.html">
             <ab>7/8 […] Zu Gl.s, wo nur Hans zu Haus; Gußregen; Kino (Steinrück als daemonischer Polizeicommissair (der Gefangene von Cayenne)).– Pschorrbräu.–</ab>
          </div>
-         <div type="anmerkung">
-            <ab/>
-         </div>
-         <div type="film">
-            <table type="movies">
-               <row>
-                  <cell role="data" ana="Filmtitel"/>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
-                  <cell role="data" ana="Genre"/>
-                  <cell role="data" ana="Land">
-                     <placeName/>
-                  </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
-               </row>
-            </table>
-         </div>
+          
+         
       </body>
       <back>
          <listPlace>

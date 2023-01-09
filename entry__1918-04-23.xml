@@ -60,9 +60,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1918-04-23.html">
             <ab>23/4 Besorgungen Panorama (Kiew etc.) – […]. Kino (Votiv) – („Vier Teufel“).–</ab>
          </div>
-         <div type="anmerkung">
-            <ab/>
-         </div>
+          
          <div type="film">
             <table type="movies">
                <row>
@@ -70,20 +68,18 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1912]</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
+                   
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Alfred Lind</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Polar Film Hermann Semmelhaack</orgName>
                   </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
+                   
                </row>
             </table>
          </div>

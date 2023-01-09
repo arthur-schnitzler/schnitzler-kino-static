@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Unvollkommene Ehe«, 1929-12-05, Wien</title>
-            <title type="alternative" when-iso="1929-12-05">Donnerstag, 05. Dezember 1929</title>
+            <title type="alternative" when-iso="1929-12-05">Donnerstag, 5. Dezember 1929</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -74,12 +74,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Land">
                      <placeName>USA</placeName>
                   </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Metro-Vitaphone-Film</orgName>
                   </cell>

@@ -60,9 +60,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1924-10-29.html">
             <ab>29/10 […] Im Kino mit H. K. (die malay. Dschonke).</ab>
          </div>
-         <div type="anmerkung">
-            <ab/>
-         </div>
+          
          <div type="film">
             <table type="movies">
                <row>
@@ -70,16 +68,14 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1924]</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
+                   
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
                   </cell>
                   <cell role="data" ana="Regie">
                      <persName>Max Obal</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Münchner Lichtspielkunst AG</orgName>
                   </cell>

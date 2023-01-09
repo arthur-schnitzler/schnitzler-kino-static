@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Gelbes Haus In Rio«, 1931-09-05, Wien</title>
-            <title type="alternative" when-iso="1931-09-05">Samstag, 05. September 1931</title>
+            <title type="alternative" when-iso="1931-09-05">Samstag, 5. September 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -60,9 +60,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-09-05.html">
             <ab>5/9 […] – Den Nachm. in übelm Befinden verbracht.– Ins (Gersthofer) Kino „gelbes Haus in Rio“.–</ab>
          </div>
-         <div type="anmerkung">
-            <ab/>
-         </div>
+          
          <div type="film">
             <table type="movies">
                <row>

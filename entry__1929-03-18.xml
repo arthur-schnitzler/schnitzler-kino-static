@@ -60,9 +60,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1929-03-18.html">
             <ab>18/3 […] Abd. mit O. Kino „Pori“ (Südafrika); […]</ab>
          </div>
-         <div type="anmerkung">
-            <ab/>
-         </div>
+          
          <div type="film">
             <table type="movies">
                <row>
@@ -77,9 +75,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Adolph von Dungern</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Ostafrikanisches Filmsyndikat</orgName>
                   </cell>

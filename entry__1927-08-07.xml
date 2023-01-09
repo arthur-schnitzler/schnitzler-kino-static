@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Tagebuch Einer Verlorenen«, 1927-08-07, Wien</title>
-            <title type="alternative" when-iso="1927-08-07">Sonntag, 07. August 1927</title>
+            <title type="alternative" when-iso="1927-08-07">Sonntag, 7. August 1927</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -60,9 +60,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1927-08-07.html">
             <ab>7/8 […] Mit C. P. Kino „Tagebuch einer Verlorenen“ (ganz alter Film); mit ihr Opernrest. soup.;–</ab>
          </div>
-         <div type="anmerkung">
-            <ab/>
-         </div>
+          
          <div type="film">
             <table type="movies">
                <row>
@@ -74,9 +72,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
                   </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Buch">
                      <persName>Margareta Böhne (Vorlage)</persName>
                   </cell>

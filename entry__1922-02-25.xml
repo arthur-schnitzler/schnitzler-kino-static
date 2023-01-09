@@ -60,9 +60,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1922-02-25.html">
             <ab>25/2 […] Wir gingen dann ins Kino (Jessner „Hintertreppe“ bizarr, und doch banal; praetentiös).– […]</ab>
          </div>
-         <div type="anmerkung">
-            <ab/>
-         </div>
+          
          <div type="film">
             <table type="movies">
                <row>
@@ -70,10 +68,8 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>1921</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
-                  <cell role="data" ana="Land">
-                     <placeName/>
-                  </cell>
+                   
+                   
                   <cell role="data" ana="Regie">
                      <persName>Leopold Jessner, Paul Leni</persName>
                   </cell>

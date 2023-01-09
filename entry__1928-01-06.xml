@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Ich Hab Mein Herz In Kritzendorf Verloren«, 1928-01-06, Wien</title>
-            <title type="alternative" when-iso="1928-01-06">Freitag, 06. Januar 1928</title>
+            <title type="alternative" when-iso="1928-01-06">Freitag, 6. Januar 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -67,9 +67,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
             <table type="movies">
                <row>
                   <cell role="data" ana="Filmtitel">„Ich hab mein Herz in Kritzendorf verloren“ („Wochenendzauber“)</cell>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
+                   
                   <cell role="data" ana="Genre">Komisch</cell>
                   <cell role="data" ana="Land">
                      <placeName>D</placeName>
@@ -77,9 +75,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>Rudolf Walther-Fein</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Aafa-Film</orgName>
                   </cell>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Thiere In Gefangenschaft«, 1931-09-09, Wien</title>
-            <title type="alternative" when-iso="1931-09-09">Mittwoch, 09. September 1931</title>
+            <title type="alternative" when-iso="1931-09-09">Mittwoch, 9. September 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -60,9 +60,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-09-09.html">
             <ab>9/9 […] – Kino (Gersthof) Thiere in Gefangenschaft etc. – Allein zu Haus genachtm.– […]</ab>
          </div>
-         <div type="anmerkung">
-            <ab/>
-         </div>
+          
          <div type="film">
             <table type="movies">
                <row>
@@ -83,7 +81,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Produktion">
                      <orgName>Cabinett-Tobis/Klangfilm</orgName>
                   </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
+                   
                </row>
             </table>
          </div>

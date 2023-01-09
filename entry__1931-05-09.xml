@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Elmer«, 1931-05-09, Wien</title>
-            <title type="alternative" when-iso="1931-05-09">Samstag, 09. Mai 1931</title>
+            <title type="alternative" when-iso="1931-05-09">Samstag, 9. Mai 1931</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -78,9 +78,7 @@ Spielort bestätigt NFP 9.5.1931, S. 22.</ab>
                   <cell role="data" ana="Regie">
                      <persName>Edward Sedgewick</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Metro-Movieton</orgName>
                   </cell>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Herrin Der Dschungeln«, 1928-04-07, Wien</title>
-            <title type="alternative" when-iso="1928-04-07">Samstag, 07. April 1928</title>
+            <title type="alternative" when-iso="1928-04-07">Samstag, 7. April 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -77,9 +77,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Regie">
                      <persName>André Hugon</persName>
                   </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Produktion">
                      <orgName>Französisch. Fabrikat</orgName>
                   </cell>

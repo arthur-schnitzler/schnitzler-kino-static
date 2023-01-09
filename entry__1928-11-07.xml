@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»Frauen Die Anders Fühlen.«, 1928-11-07, Wien</title>
-            <title type="alternative" when-iso="1928-11-07">Mittwoch, 07. November 1928</title>
+            <title type="alternative" when-iso="1928-11-07">Mittwoch, 7. November 1928</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -63,30 +63,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="anmerkung">
             <ab>Film und Kino sind nicht ermittelt. NZG 7.11.1928, S. 8, nennt lediglich als eventuell in Frage kommenden Film »Frauen, denen man nachts begegnet« in den Raimund-Lichtspielen. </ab>
          </div>
-         <div type="film">
-            <table type="movies">
-               <row>
-                  <cell role="data" ana="Filmtitel"/>
-                  <cell role="data" ana="Jahr">
-                     <date/>
-                  </cell>
-                  <cell role="data" ana="Genre"/>
-                  <cell role="data" ana="Land">
-                     <placeName/>
-                  </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Buch">
-                     <persName/>
-                  </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
-               </row>
-            </table>
-         </div>
+         
       </body>
       <back>
          <listPerson>

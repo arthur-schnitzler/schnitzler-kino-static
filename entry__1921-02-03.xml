@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="a">Schnitzler - Kino</title>
             <title level="s">»«, 1921-02-03, Wien</title>
-            <title type="alternative" when-iso="1921-02-03">Donnerstag, 03. Februar 1921</title>
+            <title type="alternative" when-iso="1921-02-03">Donnerstag, 3. Februar 1921</title>
             <author ref="#pmb12435">Pollaczek, Clara Katharina</author>
             <author ref="#pmb2121">Schnitzler, Arthur</author>
             <editor>
@@ -60,9 +60,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1921-02-03.html">
             <ab>3/2 […] Im Kino (Cagliostro).</ab>
          </div>
-         <div type="anmerkung">
-            <ab/>
-         </div>
+          
          <div type="film">
             <table type="movies">
                <row>
@@ -70,20 +68,16 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
                   <cell role="data" ana="Jahr">
                      <date>[1920]</date>
                   </cell>
-                  <cell role="data" ana="Genre"/>
+                   
                   <cell role="data" ana="Land">
                      <placeName>Ö/D</placeName>
                   </cell>
-                  <cell role="data" ana="Regie">
-                     <persName/>
-                  </cell>
+                   
                   <cell role="data" ana="Buch">
                      <persName>[Robert Liebmann]</persName>
                   </cell>
-                  <cell role="data" ana="Produktion">
-                     <orgName/>
-                  </cell>
-                  <cell role="data" ana="Darsteller_innen"/>
+                   
+                   
                </row>
             </table>
          </div>
