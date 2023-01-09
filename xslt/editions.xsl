@@ -235,6 +235,7 @@
                     </xsl:for-each>
                     <xsl:call-template name="html_footer"/>
                 </div>
+                </div>
             </body>
         </html>
     </xsl:template>
@@ -255,23 +256,29 @@
     
     <xsl:template match="tei:table/tei:row">
         <tr>
-        <xsl:apply-templates/>
+            <td><xsl:apply-templates select="tei:cell[@type='Filmtitel']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@type='Genre']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@type='Land']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@type='Regie']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@type='Buch']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@type='Produktion']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@type='Darsteller_innen']"/></td>
         </tr>
     </xsl:template>
     
     <xsl:template match="tei:row/tei:cell[not(@type='Darsteller_innen')]">
-        <td>
+        
             <xsl:apply-templates/>
-        </td>
+        
     </xsl:template>
     <xsl:template match="tei:row/tei:cell[@type='Darsteller_innen']">
-        <td>
+        
             <ul>
             <xsl:for-each select="tokenize(., ', ')">
                 <li><xsl:value-of select="."/></li>
             </xsl:for-each>
             </ul>
-        </td>
+        
     </xsl:template>
     
 
