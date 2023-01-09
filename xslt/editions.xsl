@@ -138,7 +138,7 @@
                                         </xsl:element>
                                         <xsl:element name="dd">
                                             <xsl:choose>
-                                                <xsl:when test="@ana='Darsteller_innen">
+                                                <xsl:when test="@ana='Darsteller_innen'">
                                                     <ul>
                                                         <xsl:for-each select="tokenize(., ', ')">
                                                             <li><xsl:value-of select="."/></li>
