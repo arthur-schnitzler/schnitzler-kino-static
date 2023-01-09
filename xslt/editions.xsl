@@ -257,6 +257,7 @@
     <xsl:template match="tei:table/tei:row">
         <tr>
             <td><xsl:apply-templates select="tei:cell[@ana='Filmtitel']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@ana='Jahr']"/></td>
             <td><xsl:apply-templates select="tei:cell[@ana='Genre']"/></td>
             <td><xsl:apply-templates select="tei:cell[@ana='Land']"/></td>
             <td><xsl:apply-templates select="tei:cell[@ana='Regie']"/></td>
@@ -266,12 +267,12 @@
         </tr>
     </xsl:template>
     
-    <xsl:template match="tei:row/tei:cell[not(@type='Darsteller_innen')]">
+    <xsl:template match="tei:row/tei:cell[not(@ana='Darsteller_innen')]">
         
             <xsl:apply-templates/>
         
     </xsl:template>
-    <xsl:template match="tei:row/tei:cell[@type='Darsteller_innen']">
+    <xsl:template match="tei:row/tei:cell[@ana='Darsteller_innen']">
         
             <ul>
             <xsl:for-each select="tokenize(., ', ')">
