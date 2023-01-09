@@ -35,7 +35,7 @@
 
     <xsl:template match="/">
         <xsl:variable name="doc_title">
-            <xsl:value-of select="descendant::tei:titleStmt/tei:title[@level='a'][1]/text()"/>
+            <xsl:value-of select="descendant::tei:titleStmt/tei:title[@when-iso][1]/text()"/>
         </xsl:variable>
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
         <html>
@@ -90,11 +90,11 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <h2>das was er sagt</h2>
+                                        <h2>Schnitzler, Tagebuch:</h2>
                                         <xsl:apply-templates select=".//tei:div[@type='as']"/>
                                     </div>
                                     <div class="col-md-6">
-                                        <h2>das was sie sagt</h2>
+                                        <h2>Pollaczek, Tagebuch:</h2>
                                         <xsl:apply-templates select=".//tei:div[@type='ckp']"/>
                                     </div>
                                 </div>
@@ -102,28 +102,32 @@
                                 
                             </div>
                             <div class="card-footer">
+                                <xsl:if test="descendant::tei:div[@type='anmerkung']/tei:ab">
                                 <p style="text-align:center;">
-                                    <xsl:for-each select=".//tei:note[not(./tei:p)]">
-                                        <div class="footnotes" id="{local:makeId(.)}">
-                                            <xsl:element name="a">
-                                                <xsl:attribute name="name">
-                                                    <xsl:text>fn</xsl:text>
-                                                    <xsl:number level="any" format="1" count="tei:note"/>
-                                                </xsl:attribute>
-                                                <a>
-                                                    <xsl:attribute name="href">
-                                                        <xsl:text>#fna_</xsl:text>
-                                                        <xsl:number level="any" format="1" count="tei:note"/>
-                                                    </xsl:attribute>
-                                                    <span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
-                                                        <xsl:number level="any" format="1" count="tei:note"/>
-                                                    </span>
-                                                </a>
-                                            </xsl:element>
+                                    <xsl:for-each select="descendant::tei:div[@type='anmerkung']/tei:ab">
                                             <xsl:apply-templates/>
-                                        </div>
                                     </xsl:for-each>
                                 </p>
+                                </xsl:if>
+                                <xsl:if test="descendant::tei:div[@type='film']">
+                                    <table>
+                                        <thead>
+                                            <tr>
+                                                <th>Filmtitel</th>
+                                                <th>Jahr</th>
+                                                <th>Genre</th>
+                                                <th>Land</th>
+                                                <th>Regie</th>
+                                                <th>Buch</th>
+                                                <th>Produktion</th>
+                                                <th>Darsteller_innen</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <xsl:apply-templates select="descendant::tei:div[@type='film']/tei:table[tei:cell/@role='data']/tei:row"/>
+                                        </tbody>
+                                    </table>
+                                </xsl:if>
                             </div>
                         </div>                       
                     </div>
@@ -231,4 +235,19 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>  
+    
+    <xsl:template match="tei:table/tei:row">
+        <tr>
+        <xsl:apply-templates/>
+        </tr>
+    </xsl:template>
+    
+    <xsl:template match="tei:row/tei:cell">
+        <td>
+            <xsl:apply-templates/>
+        </td>
+    </xsl:template>
+    
+    
+
 </xsl:stylesheet>
