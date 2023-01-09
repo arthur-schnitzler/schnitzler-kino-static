@@ -101,7 +101,7 @@
                                             </xsl:otherwise>
                                         </xsl:choose>
                                     </div>
-                                    <div class="col-md-2" style="background: white">
+                                    <div class="col-md-2" style="background: white"/>
                                     <div class="col-md-5" style="background: #f1f1f1">
                                         <xsl:choose>
                                             <xsl:when test="descendant::tei:div[@type='ckp']">
@@ -235,7 +235,7 @@
                     </xsl:for-each>
                     <xsl:call-template name="html_footer"/>
                 </div>
-                </div>
+                    
             </body>
         </html>
     </xsl:template>
@@ -256,13 +256,13 @@
     
     <xsl:template match="tei:table/tei:row">
         <tr>
-            <td><xsl:apply-templates select="tei:cell[@type='Filmtitel']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@type='Genre']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@type='Land']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@type='Regie']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@type='Buch']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@type='Produktion']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@type='Darsteller_innen']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@ana='Filmtitel']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@ana='Genre']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@ana='Land']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@ana='Regie']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@ana='Buch']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@ana='Produktion']"/></td>
+            <td><xsl:apply-templates select="tei:cell[@ana='Darsteller_innen']"/></td>
         </tr>
     </xsl:template>
     
