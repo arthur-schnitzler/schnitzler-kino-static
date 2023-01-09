@@ -94,10 +94,12 @@
                                             <xsl:when test="descendant::tei:div[@type='as']">
                                                 <h2><a href="{descendant::tei:div[@type='as']/@source}" target="_blank" style="color:#037A33">Schnitzler, Tagebuch:</a></h2>
                                                 <xsl:apply-templates select=".//tei:div[@type='as']"/>
+                                                <p/>
                                             </xsl:when>
                                             <xsl:otherwise>
                                                 <h2><a href="{concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', ancestor::tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/@when-iso, '.html')}" target="_blank">Schnitzler, Tagebuch:</a></h2>
                                                 <p><i>[kein diesbezüglicher Eintrag]</i></p>
+                                                <p/>
                                             </xsl:otherwise>
                                         </xsl:choose>
                                     </div>
@@ -107,10 +109,12 @@
                                             <xsl:when test="descendant::tei:div[@type='ckp']">
                                                 <h2><a href="{descendant::tei:div[@type='ckp']/@source}" target="_blank" style="color:#1e81b0">Pollaczek, Tagebuch:</a></h2>
                                                 <xsl:apply-templates select="descendant::tei:div[@type='ckp']"/>
+                                                <p/>
                                             </xsl:when>
                                             <xsl:otherwise>
                                                 <h2>Pollaczek, Tagebuch:</h2>
                                                 <p><i>[kein diesbezüglicher Eintrag]</i></p>
+                                                <p/>
                                             </xsl:otherwise>
                                         </xsl:choose>
                                     </div>
@@ -127,23 +131,27 @@
                                 </p>
                                 </xsl:if>
                                 <xsl:if test="descendant::tei:div[@type='film']">
-                                    <table>
-                                        <thead>
-                                            <tr>
-                                                <th>Filmtitel</th>
-                                                <th>Jahr</th>
-                                                <th>Genre</th>
-                                                <th>Land</th>
-                                                <th>Regie</th>
-                                                <th>Buch</th>
-                                                <th>Produktion</th>
-                                                <th>Darsteller_innen</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <xsl:apply-templates select="descendant::tei:div[@type='film']/tei:table/tei:row[tei:cell/@role='data']"/>
-                                        </tbody>
-                                    </table>
+                                    <dl>
+                                    <xsl:for-each select="descendant::tei:cell[@type='data']">
+                                        <xsl:element name="dt">
+                                            <xsl:value-of select="@ana"/>
+                                        </xsl:element>
+                                        <xsl:element name="dd">
+                                            <xsl:choose>
+                                                <xsl:when test="@ana='Darsteller_innen">
+                                                    <ul>
+                                                        <xsl:for-each select="tokenize(., ', ')">
+                                                            <li><xsl:value-of select="."/></li>
+                                                        </xsl:for-each>
+                                                    </ul>
+                                                </xsl:when>
+                                                <xsl:otherwise>
+                                                    <xsl:apply-templates/>
+                                                </xsl:otherwise>
+                                            </xsl:choose>
+                                        </xsl:element>
+                                    </xsl:for-each>
+                                    </dl>
                                 </xsl:if>
                             </div>
                         </div>                       
@@ -254,33 +262,10 @@
         </div>
     </xsl:template>  
     
-    <xsl:template match="tei:table/tei:row">
-        <tr>
-            <td><xsl:apply-templates select="tei:cell[@ana='Filmtitel']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@ana='Jahr']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@ana='Genre']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@ana='Land']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@ana='Regie']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@ana='Buch']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@ana='Produktion']"/></td>
-            <td><xsl:apply-templates select="tei:cell[@ana='Darsteller_innen']"/></td>
-        </tr>
-    </xsl:template>
+  
     
-    <xsl:template match="tei:row/tei:cell[not(@ana='Darsteller_innen')]">
-        
-            <xsl:apply-templates/>
-        
-    </xsl:template>
-    <xsl:template match="tei:row/tei:cell[@ana='Darsteller_innen']">
-        
-            <ul>
-            <xsl:for-each select="tokenize(., ', ')">
-                <li><xsl:value-of select="."/></li>
-            </xsl:for-each>
-            </ul>
-        
-    </xsl:template>
+    
+    
     
 
 </xsl:stylesheet>
