@@ -89,7 +89,7 @@
                             </div>
                             <div class="card-body">
                                 <div class="row">
-                                    <div class="col-md-6" style="background: #f1f1f1">
+                                    <div class="col-md-5" style="background: #f1f1f1">
                                         <xsl:choose>
                                             <xsl:when test="descendant::tei:div[@type='as']">
                                                 <h2><a href="{descendant::tei:div[@type='as']/@source}" target="_blank" style="color:#037A33">Schnitzler, Tagebuch:</a></h2>
@@ -101,11 +101,12 @@
                                             </xsl:otherwise>
                                         </xsl:choose>
                                     </div>
-                                    <div class="col-md-6" style="background: #f1f1f1">
+                                    <div class="col-md-2" style="background: white">
+                                    <div class="col-md-5" style="background: #f1f1f1">
                                         <xsl:choose>
                                             <xsl:when test="descendant::tei:div[@type='ckp']">
                                                 <h2><a href="{descendant::tei:div[@type='ckp']/@source}" target="_blank" style="color:#1e81b0">Pollaczek, Tagebuch:</a></h2>
-                                                <xsl:apply-templates select=".//tei:div[@type='ckp']"/>
+                                                <xsl:apply-templates select="descendant::tei:div[@type='ckp']"/>
                                             </xsl:when>
                                             <xsl:otherwise>
                                                 <h2>Pollaczek, Tagebuch:</h2>
@@ -258,12 +259,20 @@
         </tr>
     </xsl:template>
     
-    <xsl:template match="tei:row/tei:cell">
+    <xsl:template match="tei:row/tei:cell[not(@type='Darsteller_innen')]">
         <td>
             <xsl:apply-templates/>
         </td>
     </xsl:template>
-    
+    <xsl:template match="tei:row/tei:cell[@type='Darsteller_innen']">
+        <td>
+            <ul>
+            <xsl:for-each select="tokenize(., ', ')">
+                <li><xsl:value-of select="."/></li>
+            </xsl:for-each>
+            </ul>
+        </td>
+    </xsl:template>
     
 
 </xsl:stylesheet>
