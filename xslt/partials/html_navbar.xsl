@@ -25,25 +25,24 @@
                                 <div class="dropdown-menu">
                                     <a class="dropdown-item" href="projekt.html">Zur Edition</a>
                                     <a class="dropdown-item" href="editionsprinzipien.html">Editionsprinzipien</a>
-                                    <a class="dropdown-item" href="mithilfe.html">Mithilfe</a>
                                     <a class="dropdown-item" href="zitat.html">Zitieren</a>
-                                    <a title="Links" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek"
-                                        class="nav-link">C. K. Pollaczek (Wikipedia)</a>
                                     <a title="Links" href="https://schnitzler.acdh.oeaw.ac.at"
                                         class="nav-link">Schnitzler am ACDH-CH</a>
+                                    <a title="Links" href="https://pollaczek.acdh.oeaw.ac.at"
+                                        class="nav-link">Pollaczek: Schnitzler und ich</a>
                                     <a title="Links"
-                                        href="https://github.com/arthur-schnitzler/pollaczek-data"
+                                        href="https://github.com/arthur-schnitzler/schnitzler-kino-data"
                                         class="nav-link">Daten auf gitHub</a>
-                                    <a title="GND-Beacon"
+                                    <!--<a title="GND-Beacon"
                                         href="beacon.txt"
-                                        class="nav-link">GND-Beacon</a>
+                                        class="nav-link">GND-Beacon</a>-->
                                 </div>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="calendar.html">Kalender</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="toc.html">Inhaltsverzeichnis</a>
+                                <a class="nav-link" href="toc.html">Verzeichnis</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="listperson.html">Personen</a>
