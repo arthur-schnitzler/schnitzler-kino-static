@@ -90,11 +90,11 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <h2>Schnitzler, Tagebuch:</h2>
+                                        <h2><a href=".//tei:div[@type='as']/@source" target="_blank">Schnitzler, Tagebuch:</a></h2>
                                         <xsl:apply-templates select=".//tei:div[@type='as']"/>
                                     </div>
                                     <div class="col-md-6">
-                                        <h2>Pollaczek, Tagebuch:</h2>
+                                        <h2><a href=".//tei:div[@type='ckp']/@source" target="_blank">Pollaczek, Tagebuch:</a></h2>
                                         <xsl:apply-templates select=".//tei:div[@type='ckp']"/>
                                     </div>
                                 </div>
