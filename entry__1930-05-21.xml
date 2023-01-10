@@ -60,7 +60,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1930-05-21.html">
             <ab>21/5 […] Mit C. P. Abds. Kino (Erzh. Otto und Wäschermädl) (Lilian Ellis).– Mit C. P. bei Meissl genachtm.– </ab>
          </div>
-         <div type="ckp" source="">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp779.html">
             <ab>23.5. Kino, Theater, Autofahrten ohne jede Freude oder Zärtlichkeit. Oft glaube ich es steckt noch etwas anderes hinter seinem Wesen. – Versuch einer Auseinandersetzung und zum Schluss wieder Verkrampfung. Ich arbeite und meine Arbeit gedeiht, das ist der einzige Weg, den ich sehe. Am 27. heiratet Harry. [III, 43]</ab>
          </div>
          <div type="anmerkung">
@@ -95,34 +95,29 @@ Nachgewiesener Spielort: Schottenring-Kino (NFP, 21.5.1930, S. 9)..</ab>
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-790">
+            <person xml:id="pmb5548">
                <persName>Ellis, Lilian</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061396495</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-820">
+            <person xml:id="pmb122035">
                <persName>Erzherzog Otto</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-952">
+            <person xml:id="pmb122036">
                <persName>Friedmanova, Martha</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-975">
+            <person xml:id="pmb119833">
                <persName>Fütterer, Werner</persName>
-               <idno type="GND">https://d-nb.info/gnd/138898278</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1440">
+            <person xml:id="pmb11860">
                <persName>Kallina, Anna</persName>
-               <idno type="GND">https://d-nb.info/gnd/116032413</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1485">
+            <person xml:id="pmb121492">
                <persName>Kersten, Albert von</persName>
-               <idno type="GND">https://d-nb.info/gnd/1097234576</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2202">
+            <person xml:id="pmb22696">
                <persName>Pollaczek, Hermann Erich</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-2436">
+            <person xml:id="pmb24003">
                <persName>Sauer, Fred</persName>
-               <idno type="GND">https://d-nb.info/gnd/121684965X</idno>
             </person>
          </listPerson>
          <listPlace>

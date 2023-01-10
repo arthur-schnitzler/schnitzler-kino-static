@@ -60,7 +60,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
          <div type="as" source="https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__1931-09-26.html">
             <ab>26/9 […] Nachm. 4 (unerwartet, […]) Suz.;– wir fahren in ein Kino (Gloria);– Mlle. Nitouche (Ondra) – dann ins Rest. Lido;– dann bring ich sie heim. […]</ab>
          </div>
-         <div type="ckp" source="">
+         <div type="ckp" source="https://pollaczek.acdh.oeaw.ac.at/ckp983.html">
             <ab>„27ten Gestern Abend sagte mir A. er sei so ermattet, dass er meist liege, er habe versucht um ½5 fortzugehen aber er sei gleich umgekehrt, fühle sich am wolsten in der horizontalen Lage. Ich hatte aber zufällig um ½8 angerufen und Minna mir gesagt, er sei nicht zu Hause und es sei unbestimmt ob und wann er komme. Um 9 war er angeblich noch nicht da. Ich bat Minna nichts von meinem Anruf zu sagen. […]“ [III, 247]</ab>
          </div>
          <div type="film">
@@ -90,64 +90,50 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
       </body>
       <back>
          <listPerson>
-            <person xml:id="schnitzler-kino_person-7">
+            <person xml:id="pmb21495">
                <persName>?, Minna (Hausmädchen Arthur Schnitzlers)</persName>
             </person>
-            <person xml:id="schnitzler-kino_person-30">
+            <person xml:id="pmb119126">
                <persName>Albinus, Yvonne</persName>
-               <idno type="GND">https://d-nb.info/gnd/1061751643</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-39">
+            <person xml:id="pmb114115">
                <persName>Alexander, Georg</persName>
-               <idno type="GND">https://d-nb.info/gnd/101137823X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-45">
+            <person xml:id="pmb119127">
                <persName>Allégret, Marc</persName>
-               <idno type="GND">https://d-nb.info/gnd/126419531</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-142">
+            <person xml:id="pmb13712">
                <persName>Bandler, Max</persName>
-               <idno type="GND">https://d-nb.info/gnd/119140438</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-919">
+            <person xml:id="pmb4431">
                <persName>Forest, Karl</persName>
-               <idno type="GND">https://d-nb.info/gnd/1018886052</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1267">
+            <person xml:id="pmb41402">
                <persName>Hervé</persName>
-               <idno type="GND">https://d-nb.info/gnd/138069506</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1424">
+            <person xml:id="pmb119129">
                <persName>Junkermann, Hans</persName>
-               <idno type="GND">https://d-nb.info/gnd/1110782586</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1452">
+            <person xml:id="pmb8112">
                <persName>Karlweis, Oskar</persName>
-               <idno type="GND">https://d-nb.info/gnd/116055766</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1584">
+            <person xml:id="pmb119130">
                <persName>Lama&amp;#269;, Carl</persName>
-               <idno type="GND">https://d-nb.info/gnd/122038630</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1883">
+            <person xml:id="pmb12222">
                <persName>Meilhac, Henri</persName>
-               <idno type="GND">https://d-nb.info/gnd/118919652</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-1918">
+            <person xml:id="pmb21463">
                <persName>Millaud, Albert</persName>
-               <idno type="GND">https://d-nb.info/gnd/116271476X</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2078">
+            <person xml:id="pmb22163">
                <persName>Ondra, Anny</persName>
-               <idno type="GND">https://d-nb.info/gnd/1081829273</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-2527">
+            <person xml:id="pmb119131">
                <persName>Serda, Julia</persName>
-               <idno type="GND">https://d-nb.info/gnd/117257753</idno>
             </person>
-            <person xml:id="schnitzler-kino_person-3006">
+            <person xml:id="pmb119133">
                <persName>Zerlett, Hans Heinz</persName>
-               <idno type="GND">https://d-nb.info/gnd/116983191</idno>
             </person>
          </listPerson>
          <listPlace>
