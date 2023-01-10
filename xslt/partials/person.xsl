@@ -3,7 +3,6 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns:mam="whatever" version="2.0" xmlns:df="http://example.com/df"
     exclude-result-prefixes="xsl tei xs">
-    <xsl:import href="germandate.xsl"/>
     <xsl:import href="LOD-idnos.xsl"/>
     <xsl:param name="works" select="document('../../data/indices/listwork.xml')"/>
     <xsl:key name="authorwork-lookup" match="tei:bibl"
