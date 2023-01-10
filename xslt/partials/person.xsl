@@ -144,7 +144,7 @@
                 </p>
             </xsl:if>
             
-            <div class="werke">
+            <!--<div class="werke">
                 <xsl:variable name="author-ref"
                     select="replace(replace(@xml:id, 'person__', ''), 'pmb', '')"/>
                 <xsl:if test="key('authorwork-lookup', $author-ref, $works)[1]">
@@ -274,7 +274,7 @@
                         </li>
                     </xsl:for-each>
                 </ul>
-            </div>
+            </div>-->
             <div id="mentions" class="mt-2">
                 <span class="infodesc mr-2">
                     <legend>Erwähnungen</legend>
