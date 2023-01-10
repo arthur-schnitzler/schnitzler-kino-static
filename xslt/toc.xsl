@@ -29,7 +29,7 @@
                                         <tr>
                                             <th scope="col">Datum</th>
                                             <th scope="col">Ort</th>
-                                            <th scope="col">Film</th>
+                                            <th scope="col">Filmtitel</th>
                                             <th scope="col">Kino</th>
                                             <th scope="col">Aufzeichnungen</th>
                                             <th scope="col">Wirt</th>
