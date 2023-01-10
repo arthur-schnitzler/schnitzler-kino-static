@@ -12,12 +12,12 @@ files = glob.glob("./data/editions/*.xml")
 
 
 try:
-    client.collections["pollaczek"].delete()
+    client.collections["schnitzler-kino"].delete()
 except ObjectNotFound:
     pass
 
 current_schema = {
-    "name": "pollaczek",
+    "name": "schnitzler-kino",
     "fields": [
         {"name": "id", "type": "string"},
         {"name": "rec_id", "type": "string"},
@@ -38,14 +38,14 @@ records = []
 cfts_records = []
 for x in tqdm(files, total=len(files)):
     cfts_record = {
-        "project": "pollaczek",
+        "project": "schnitzler-kino",
     }
     record = {}
     doc = TeiReader(x)
     body = doc.any_xpath(".//tei:body")[0]
     record["id"] = os.path.split(x)[-1].replace(".xml", "")
     cfts_record["id"] = record["id"]
-    cfts_record["resolver"] = f"https://arthur-schnitzler.github.io/pollaczek-static/{record['id']}.html"
+    cfts_record["resolver"] = f"https://arthur-schnitzler.github.io/schnitzler-kino-static/{record['id']}.html"
     record["rec_id"] = os.path.split(x)[-1]
     cfts_record["rec_id"] = record["rec_id"]
     record["title"] = " ".join(
@@ -69,10 +69,10 @@ for x in tqdm(files, total=len(files)):
     records.append(record)
     cfts_records.append(cfts_record)
 
-make_index = client.collections["pollaczek"].documents.import_(records)
+make_index = client.collections["schnitzler-kino"].documents.import_(records)
 print(make_index)
-print("done with indexing pollaczek")
+print("done with indexing schnitzler-kino")
 
 make_index = CFTS_COLLECTION.documents.import_(cfts_records, {"action": "upsert"})
 print(make_index)
-print("done with cfts-index pollaczek")
+print("done with cfts-index schnitzler-kino")
