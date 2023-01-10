@@ -303,7 +303,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="tei:bibl/tei:date">
-        <xsl:text> </xsl:text>
+        <xsl:text>, </xsl:text>
         <xsl:apply-templates/>
     </xsl:template>
     

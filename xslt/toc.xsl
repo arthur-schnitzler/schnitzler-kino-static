@@ -31,6 +31,7 @@
                                             <th scope="col">Ort</th>
                                             <th scope="col">Film</th>
                                             <th scope="col">Kino</th>
+                                            <th scope="col">Aufzeichnungen</th>
                                             <th scope="col">Wirt</th>
                                         </tr>
                                     </thead>
@@ -58,10 +59,23 @@
                                                     <xsl:value-of select=".//tei:place[@type='location']/tei:placeName/text()"/>
                                                 </td>
                                                 <td>
-                                                    <xsl:value-of select=".//tei:row[2]/tei:cell[1]/text()"/>
+                                                    <xsl:value-of select="descendant::tei:text[1]/tei:body[1]/tei:div[4]/tei:table[1]/tei:row/tei:cell[@ana='Filmtitel']/text()"/>
                                                 </td>
-                                                <td><xsl:value-of select=".//tei:org[@type='kino']/tei:orgName/text()"/></td>
-                                                <td><xsl:value-of select=".//tei:org[@type='wirt']/tei:orgName/text()"/></td>
+                                                <td><xsl:value-of select="descendant::tei:back/tei:listPlace/tei:place[@type='kino']/tei:placeName[1]/text()"/></td>
+                                                <td><xsl:choose>
+                                                    <xsl:when test="descendant::tei:text[1]/tei:body[1]/tei:div/@type='as' and descendant::tei:text[1]/tei:body[1]/tei:div/@type='ckp'">
+                                                        <xsl:text>C.K. Pollaczek und A. Schnitzler</xsl:text>
+                                                    </xsl:when>
+                                                    <xsl:when test="descendant::tei:text[1]/tei:body[1]/tei:div/@type='as'">
+                                                        <xsl:text>Arthur Schnitzler</xsl:text>
+                                                    </xsl:when>
+                                                    <xsl:when test="descendant::tei:text[1]/tei:body[1]/tei:div/@type='ckp'">
+                                                        <xsl:text>Clara Katharina Pollaczek</xsl:text>
+                                                    </xsl:when>
+                                                </xsl:choose>
+                                                    
+                                                </td>
+                                                <td><xsl:value-of select="descendant::tei:back/tei:listPlace/tei:place[@type='wirt']/tei:placeName[1]/text()"/></td>
                                             </tr>
                                         </xsl:for-each>
                                     </tbody>
