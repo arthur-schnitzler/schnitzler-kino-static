@@ -18107,11 +18107,14 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <death>
     <date when-iso="1945-01-01">1945&lt;1945-01-01&gt;</date>
   </death>
-  <sex value="not-set"/>
+  <sex value="female"/>
   <occupation key="105">Schauspieler/Schauspielerin</occupation>
   <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13392</idno>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/13700/</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-138.html</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
 </person><person xml:id="ask-person-142">
   <persName>
       <forename>Max Friedrich</forename>
@@ -30047,10 +30050,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <birth>
     <date when-iso="1940-09-11">1940-09-11</date>
   </birth>  
-  <death>
-    <date>-</date>
-  </death>
-  <sex value="not-set"/>
+  <sex value="male"/>
   <occupation key="3123">Schauspieler</occupation>
   <occupation key="3158">Regisseur</occupation>
   <occupation key="3181">Filmregisseur</occupation>
@@ -30116,10 +30116,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <birth>
     <date notBefore-iso="1968-01-01" when-iso="1968-07-01" notAfter-iso="1968-12-31">1968</date>
   </birth>  
-  <death>
-    <date>-</date>
-  </death>
-  <sex value="not-set"/>
+  <sex value="male"/>
   <occupation key="3129">Historiker</occupation>
   <occupation key="3202">Literaturwissenschaftler</occupation>
   <occupation key="3207">Medienwissenschaftler</occupation>
@@ -39287,6 +39284,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q94856680</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2837">
@@ -39308,6 +39306,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117417645</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2837.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q89541</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Benno_Vigny</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39329,6 +39328,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1019309105</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2174.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q522287</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Andr%C3%A9_Pilot</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39353,6 +39353,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q55678131</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2160">
@@ -39420,6 +39421,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q967039</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1229">
@@ -39440,6 +39442,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/13301780X</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1229.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q382068</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Sessue_Hayakawa</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39464,6 +39467,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q10857524</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2785">
@@ -39485,6 +39489,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95725780</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-76">
@@ -39506,6 +39511,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95707626</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1312">
@@ -39525,6 +39531,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061701883</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1312.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1029090</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Camilla_von_Hollay</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39546,6 +39553,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/139255761</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1831.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q15842482</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Rina_Marsa</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39567,6 +39575,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062184882</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-230.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q537467</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Stina_Berg</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39591,6 +39600,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119383276</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1428.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q87684</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Phil_Jutzi</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39617,6 +39627,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11672949X</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1604.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1682375</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Leo_Lania</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39638,6 +39649,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/132276739</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2455.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1277939</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Sybille_Schlo%C3%9F</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39679,6 +39691,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1028551916</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-3020.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3786349</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Holmes_Zimmermann</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39702,6 +39715,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95713826</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1592">
@@ -39722,6 +39736,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061396479</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1592.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q109556</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Inge_Landgut</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39745,6 +39760,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119241528</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1935.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q323377</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Gaston_Modot</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39767,6 +39783,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/122239806</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1649.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1376996</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Leonid_Mironowitsch_Leonidow</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39790,6 +39807,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95768103</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2447">
@@ -39830,6 +39848,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118765701</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-3033.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q312467</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Wiktor_Borissowitsch_Schklowski</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39872,6 +39891,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1132228816</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-82.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q861426</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Richard_Arlen</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39893,6 +39913,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1206559942</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-267.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3059595</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Eugenie_Besserer</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -39940,6 +39961,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q6128903</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-597">
@@ -40002,6 +40024,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061470067</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1336.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2865156</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Arthur_Housman</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40023,6 +40046,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/142483400</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1418.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q334418</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/William_Jowitt,_1._Earl_Jowitt</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40066,6 +40090,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118877291</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-336.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q234640</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Clara_Bow</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40089,6 +40114,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5350839</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1673">
@@ -40108,6 +40134,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/104736767X</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1673.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5104089</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Louis_D._Lighton</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40172,6 +40199,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/141271361</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2263.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1929752</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Jobyna_Ralston</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40195,6 +40223,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1034400614</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2367.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2960804</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Charley_Rogers</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40216,6 +40245,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/126912017</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2437.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1298183</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/John_Monk_Saunders</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40260,6 +40290,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1031524533</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-470.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q267836</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Nancy_Carroll_(Schauspielerin,_1903)</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40284,6 +40315,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1015385281</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1818.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1507856</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/George_Marion_junior</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40307,6 +40339,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3240970</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-610">
@@ -40371,6 +40404,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119031655</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1931.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q235507</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Mistinguett</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40461,6 +40495,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1034896040</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2026.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1547252</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Hadrian_Maria_Netto</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40486,6 +40521,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2971.html</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2972.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q121270</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Pius_Alexander_Wolff</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40509,6 +40545,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95910869</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1856">
@@ -40530,6 +40567,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062358910</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1856.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1913012</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Max_Maximilian</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40553,6 +40591,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95804220</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2968">
@@ -40574,6 +40613,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95746507</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2876">
@@ -40596,6 +40636,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/13455079X</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2876.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1675872</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Iwa_Wanja</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40641,6 +40682,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11720420X</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1364.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q94835799</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ernst_Iros</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40662,6 +40704,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/106177368X</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1569.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q22006091</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ellen_K%C3%BCrti</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40683,6 +40726,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062207742</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2182.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2562291</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Werner_Pittschau</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40727,6 +40771,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118605526</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2433.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q108097</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Rahel_Sanzara</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40748,6 +40793,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/130184985</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1237.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1547091</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Grit_Hegesa</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40792,6 +40838,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062471458</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-88.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q992976</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Bruno_Arno</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40815,6 +40862,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q94753473</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1562">
@@ -40834,6 +40882,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061513254</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1562.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q6794950</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Max_Kronert</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40877,6 +40926,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/129296856</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-675.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q87112</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Gustav_Diessl</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40898,6 +40948,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1013862333</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-573.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2033544</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Ricardo_Cortez</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40923,6 +40974,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3807599</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1580">
@@ -40944,6 +40996,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3263758</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="14">No german Wikipedia-Site found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2156">
@@ -40963,6 +41016,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062300017</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2156.html</idno>
   <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q9142181</idno>
+  <idno type="URL" subtype="wikipedia">https://de.wikipedia.org/wiki/Agnes_Petersen</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -40983,6 +41037,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120085/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1011900408</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1849.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q521749</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41005,6 +41060,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-357.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1238">
@@ -41027,6 +41083,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120087/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1023317370</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1238.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1912653</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41048,6 +41105,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120089/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/126403694</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2157.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q113921096</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41070,6 +41128,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-807.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-93">
@@ -41092,6 +41151,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120094/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118504495</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-93.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q187166</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41113,6 +41173,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120096/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1095510231</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-244.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2847272</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41133,6 +41194,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120098/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119035561</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-655.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3184834</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41153,6 +41215,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120099/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062033671</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2500.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3301396</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41175,6 +41238,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2555.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-486">
@@ -41193,6 +41257,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120102/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062429265</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-486.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95888234</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41214,6 +41279,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120103/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1028906978</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-681.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2637818</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41239,6 +41305,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-175.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2013">
@@ -41278,6 +41345,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2390.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-140">
@@ -41298,6 +41366,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-140.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-196">
@@ -41316,6 +41385,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120113/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1019429607</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-196.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q322179</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41340,6 +41410,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-469.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-851">
@@ -41357,6 +41428,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120117/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1137497874</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-851.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q55994</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41376,6 +41448,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120118/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/121308308</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1343.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3453278</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41396,6 +41469,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120119/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118798391</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2610.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1808024</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41418,6 +41492,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2983.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1979">
@@ -41438,6 +41513,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1979.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1990">
@@ -41457,6 +41533,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1990.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1396">
@@ -41477,6 +41554,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120125/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/139577572</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1396.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1620439</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41499,6 +41577,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2041.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2042">
@@ -41519,6 +41598,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2042.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2333">
@@ -41540,6 +41620,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/141197455</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2333.html</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1890.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q4994562</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41560,6 +41641,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120131/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/141911581</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2752.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q240100</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41580,6 +41662,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120133/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/127105514</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-99.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q15992140</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41600,6 +41683,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120136/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061948226</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-118.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5562688</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41621,6 +41705,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120137/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/132758326</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-506.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q817442</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41643,6 +41728,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120139/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/129589330</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-949.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q62099</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41663,6 +41749,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120141/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062161335</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1519.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95711215</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41684,6 +41771,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2947.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1486">
@@ -41704,6 +41792,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1486.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1631">
@@ -41722,6 +41811,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120144/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116855797</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1631.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1611956</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41742,6 +41832,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120145/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061723356</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-400.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3341349</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41765,6 +41856,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-477.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-580">
@@ -41785,6 +41877,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120147/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118638556</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-580.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q40475</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41805,6 +41898,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120150/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/139856528</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-617.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q918353</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41826,6 +41920,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120152/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/136253806</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-829.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q999726</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41846,6 +41941,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120153/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1053670508</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-849.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1706967</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41867,6 +41963,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120154/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/140414118</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1165.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q505960</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41887,6 +41984,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120156/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/141854812</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2486.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3420964</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41906,6 +42004,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120157/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/10227567X</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2781.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q104384665</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41926,6 +42025,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120158/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061948447</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-103.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95745300</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41946,6 +42046,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120159/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1061364127</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1141.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95673919</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41966,6 +42067,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120160/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062020251</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2770.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95799214</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -41986,6 +42088,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120161/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062253930</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-104.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q102635</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42008,6 +42111,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120162/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116909730</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1136.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q96184</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42029,6 +42133,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120164/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/102694788X</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2467.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95681</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42052,6 +42157,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-158.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-361">
@@ -42073,6 +42179,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-361.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-570">
@@ -42091,6 +42198,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120170/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/106215486X</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-570.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q5563216</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42112,6 +42220,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120172/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1074972910</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-621.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q946314</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42132,6 +42241,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120173/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1208535900</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-671.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q3051497</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42152,6 +42262,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120176/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/141181842</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1339.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q1421677</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42173,6 +42284,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120177/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1023590050</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1751.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2446692</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42195,6 +42307,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2133.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-2554">
@@ -42213,6 +42326,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120181/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1140055119</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2554.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q444785</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42234,6 +42348,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120183/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/138774714</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2574.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q2462046</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42255,6 +42370,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2622.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-106">
@@ -42274,6 +42390,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120186/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/129622591</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-106.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q232109</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42294,6 +42411,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120187/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062212312</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1727.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q960510</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42314,6 +42432,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120190/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1020773146</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2073.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q23957</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42337,6 +42456,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2712.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1171">
@@ -42355,6 +42475,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120194/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118901257</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1171.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q976924</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42375,6 +42496,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120197/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116728582</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1258.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q337595</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42395,6 +42517,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120198/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119204002</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2334.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q460366</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42416,6 +42539,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-978.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-294">
@@ -42434,6 +42558,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120200/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062357612</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-294.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95727456</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42454,6 +42579,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120201/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1062251458</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2732.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q95855975</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42476,6 +42602,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-111.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-1857">
@@ -42494,6 +42621,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120203/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/106139722X</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1857.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q86007</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42516,6 +42644,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/120205/</idno>
   <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117143588</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1961.html</idno>
+  <idno type="URL" subtype="wikidata">http://www.wikidata.org/entity/Q71472</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
@@ -42537,6 +42666,7 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-2504.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
+    <bibl type="collections" n="13">No WikiData-ID found</bibl>
     <bibl type="collections" n="15">Schnitzler-Kino</bibl>
 </listBibl>
 </person><person xml:id="ask-person-114">
@@ -60096,7 +60226,6 @@ Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Mat
   </death>
   <sex value="not-set"/>
   <idno type="URL" subtype="pmb">https://pmb.acdh.oeaw.ac.at/entity/121457/</idno>
-  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/174310161</idno>
   <idno type="URL" subtype="schnitzler-kino">https://schnitzler-kino.acdh.oeaw.ac.at/ask-person-1027.html</idno>
 <listBibl>
     <bibl type="collections" n="7">Default import collection</bibl>
