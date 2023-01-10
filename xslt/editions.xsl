@@ -134,7 +134,7 @@
                                     <dl>
                                     <xsl:for-each select="descendant::tei:cell[@role='data']">
                                         <xsl:element name="dt">
-                                            <xsl:value-of select="@ana"/>
+                                            <xsl:value-of select="@ana"/><xsl:text> </xsl:text>
                                         </xsl:element>
                                         <xsl:element name="dd">
                                             <xsl:choose>
@@ -273,6 +273,17 @@
         </xsl:element>
     
     </xsl:template>
+    
+    <xsl:template match="tei:bibl[not(starts-with(@facs, 'http'))]">
+            <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="tei:bibl/tei:author">
+        <xsl:apply-templates/>
+        <xsl:text> </xsl:text>
+    </xsl:template>
+  
+  
   
     <xsl:template match="tei:bibl/tei:title">
         <xsl:apply-templates/>
@@ -281,6 +292,9 @@
         <xsl:choose>
             <xsl:when test="@unit='page'">
                 <xsl:text>, S. </xsl:text>
+            </xsl:when>
+            <xsl:when test="@unit='volume'">
+                <xsl:text>, Bd. </xsl:text>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:text> </xsl:text>
