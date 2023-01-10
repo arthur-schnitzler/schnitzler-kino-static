@@ -261,10 +261,26 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>  
+    <xsl:template match="tei:bibl[starts-with(@facs, 'http')]">
+        <xsl:element name="a">
+            <xsl:attribute name="href">
+                <xsl:value-of select="@facs"/>
+            </xsl:attribute>
+            <xsl:attribute name="target">
+                <xsl:text>_blank</xsl:text>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </xsl:element>
     
+    </xsl:template>
   
     
-    
+    <xsl:template match="tei:bibl[not(starts-with(@facs, 'http'))]">
+        
+            <xsl:apply-templates/>
+        
+        
+    </xsl:template>
     
     
 
