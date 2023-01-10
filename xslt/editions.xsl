@@ -140,8 +140,8 @@
                                             <xsl:choose>
                                                 <xsl:when test="@ana='Darsteller_innen'">
                                                     <ul>
-                                                        <xsl:for-each select="tokenize(., ', ')">
-                                                            <li><xsl:value-of select="."/></li>
+                                                        <xsl:for-each select="tokenize(., ',')">
+                                                            <li><xsl:value-of select="normalize-space(.)"/></li>
                                                         </xsl:for-each>
                                                     </ul>
                                                 </xsl:when>
@@ -274,6 +274,25 @@
     
     </xsl:template>
   
+    <xsl:template match="tei:bibl/tei:title">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="tei:bibl/tei:biblScope">
+        <xsl:choose>
+            <xsl:when test="@unit='page'">
+                <xsl:text>, S. </xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text> </xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="tei:bibl/tei:date">
+        <xsl:text> </xsl:text>
+        <xsl:apply-templates/>
+    </xsl:template>
+    
     
     <xsl:template match="tei:bibl[not(starts-with(@facs, 'http'))]">
         
