@@ -48,6 +48,8 @@
                                     Literaturgeschichte, Kinogeschichte und Wiener
                                     Lokalgeschichte.</p>
                                 <p/>
+                                <p><a href="entry__1926-08-14.html">Zum ersten von beiden beschriebenen Kinobesuch</a> am 14. August 1926.</p>
+                                <p/>
                                 <p>Buchausgabe 2012: <i>Stephan Kurz, Michael Rohrwasser unter Mitarbeit von Daniel Schopper</i></p>
                                 <p>Digitale Ausgabe 2023: <i>Peter Andorfer unter Mitarbeit von Martin Anton Müller und Laura Untner</i></p>
                             </div>
