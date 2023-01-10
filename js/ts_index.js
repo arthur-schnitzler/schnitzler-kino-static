@@ -18,7 +18,7 @@ const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
 
 const searchClient = typesenseInstantsearchAdapter.searchClient;
 const search = instantsearch({
-    indexName: 'pollaczek',
+    indexName: 'schnitzler-kino',
     searchClient,
 });
 
