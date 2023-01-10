@@ -123,12 +123,12 @@
                                 
                             </div>
                             <div class="card-footer">
-                                <xsl:if test="descendant::tei:div[@type='anmerkung']/tei:ab">
-                                <p style="text-align:center;">
-                                    <xsl:for-each select="descendant::tei:div[@type='anmerkung']/tei:ab">
-                                            <xsl:apply-templates/>
+                                <xsl:if test="descendant::tei:note[@type='kommentar']">
+                                <ul>
+                                    <xsl:for-each select="descendant::tei:note[@type='kommentar']/tei:p">
+                                            <li><xsl:apply-templates/></li>
                                     </xsl:for-each>
-                                </p>
+                                </ul>
                                 </xsl:if>
                                 <xsl:if test="descendant::tei:div[@type='film']">
                                     <dl>
